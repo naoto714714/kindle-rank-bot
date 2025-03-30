@@ -1,3 +1,5 @@
+import re
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -32,11 +34,23 @@ def get_amazon_kindle_ranking(limit=10):
             )
             title = title_div.get_text(strip=True) if title_div else "タイトル不明"
 
+            # 評価と評価数を取得
+            rating_row = item.find("div", {"class": "a-icon-row"})
+            rating_title = rating_row.find("a").get("title")
+            rating = re.search(r"5つ星のうち([0-9.]+)、([0-9,]+)件", rating_title)
+
+            value = item.find("span", {"class": "_cDEzb_p13n-sc-price_3mJ9Z"})
+            value = value.get_text(strip=True) if value else "価格不明"
+
             url_div = item.find("div", class_="p13n-sc-uncoverable-faceout")
             id = url_div["id"] if url_div else None
 
-            # 順位とタイトル、URLを追加
-            result_text += f"{i}位\n{title}\nhttps://www.amazon.co.jp/dp/{id}\n\n"
+            # 順位とタイトル、評価、URLを追加
+            result_text += (
+                f"{i}位\n{title}\n評価: {rating.group(1)} ({rating.group(2)}件)\n"
+                f"価格: {value}\n"
+                f"https://www.amazon.co.jp/dp/{id}\n\n"
+            )
 
         return result_text.strip()
 
