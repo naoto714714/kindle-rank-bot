@@ -5,28 +5,12 @@ alwaysApply: true
 ---
 ## システム要件定義書
 ### 1. システム概要
-- Cloud るシステムを作る
-- 動画ファイルを音声ファイルに変換する
-- `gs://im-naoto-test-bucket/inputs` に動画ファイルがアップロードされたのを検知
-- `gs://im-naoto-test-bucket/outputs` に音声ファイルに変換したファイルを保存する
--  `gs://im-naoto-test-bucket/inputs` に動画ファイルは削除する
+- kindle売れ筋ランキングを毎日スクレイピングし、LINEにトップ10を通知するbot
+- GitHub Actionsで毎朝6時に定期実行する
 
-- **システム名**：`functions-video-to-audio`
+- **システム名**：`kindle-rank-bot`
 - **使用言語**：Python 3.12
-- **Gitリポジトリ**：git@github.com:naoto714714/functions-video-to-audio.git
-
-### 2. ディレクトリ構成図
-
-このプロジェクトのディレクトリ図です。
-
-```
-functions-video-to-audio/
-├── .gitignore  # `pr-description.md`を無視するように設定
-├── main.py
-├── Dockerfile
-├── requirements.txt
-└── README.md
-```
+- **Gitリポジトリ**：git@github.com:naoto714714/kindle-rank-bot.git
 
 ## 注意事項
 - mainブランチでファイルを編集することは絶対に行わないこと
