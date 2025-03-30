@@ -3,21 +3,21 @@ import os
 
 import requests
 
-LINE_CHANNEL_ACCESS_TOKEN = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
-LINE_USER_ID = os.getenv("LINE_USER_ID")
-
 
 def send_line_message(message):
+    line_channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
+    line_user_id = os.getenv("LINE_USER_ID")
+
     url = "https://api.line.me/v2/bot/message/push"
 
     # ヘッダーにアクセストークンを設定
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
+        "Authorization": f"Bearer {line_channel_access_token}",
     }
 
     # 送信するデータ（メッセージ内容と送信先ID）
-    payload = {"to": LINE_USER_ID, "messages": [{"type": "text", "text": message}]}
+    payload = {"to": line_user_id, "messages": [{"type": "text", "text": message}]}
 
     # POSTリクエストを送信
     response = requests.post(url, headers=headers, data=json.dumps(payload))
