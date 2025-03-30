@@ -4,6 +4,7 @@ on:
   schedule:
     # 毎日午前6時（日本時間）に実行 (UTC 21:00)
     - cron: '0 21 * * *'
+  workflow_dispatch:  # 手動実行用
 
 jobs:
   send-ranking:
