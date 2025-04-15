@@ -2,8 +2,8 @@ name: Kindle売れ筋ランキング通知
 
 on:
   schedule:
-    # 毎日午前6時（日本時間）に実行 (UTC 21:00)
-    - cron: '0 21 * * *'
+    # 毎日正午12時（日本時間）に実行 (UTC 3:00)
+    - cron: '0 3 * * *'
   workflow_dispatch:  # 手動実行用
 
 jobs:
