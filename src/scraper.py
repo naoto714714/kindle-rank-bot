@@ -77,8 +77,18 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
             value = item.find("span", {"class": "_cDEzb_p13n-sc-price_3mJ9Z"})
             value = value.get_text(strip=True) if value else "価格不明"
 
+            # 商品IDを取得（URLを構築するため）
             url_div = item.find("div", class_="p13n-sc-uncoverable-faceout")
-            id = url_div["id"] if url_div else None
+            product_id = url_div.get("id") if url_div else None
+            
+            # IDが取得できない場合は、data-asin属性も試す
+            if not product_id:
+                parent_div = item.find("div", {"data-asin": True})
+                if parent_div:
+                    product_id = parent_div.get("data-asin")
+            
+            # URL構築
+            product_url = f"https://www.amazon.co.jp/dp/{product_id}" if product_id else "URLなし"
 
             # 順位とタイトル、評価、URLを追加
             if rating:
@@ -86,7 +96,7 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
                     f"{i}位|{title}\n"
                     f"⭐️{rating.group(1)}({rating.group(2)}件)\n"
                     f"{value}\n"
-                    f"https://www.amazon.co.jp/dp/{id}\n\n"
+                    f"{product_url}\n\n"
                 )
             else:
                 # 評価がない場合
@@ -94,7 +104,7 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
                     f"{i}位|{title}\n"
                     f"評価なし\n"
                     f"{value}\n"
-                    f"https://www.amazon.co.jp/dp/{id}\n\n"
+                    f"{product_url}\n\n"
                 )
         except Exception as e:
             print(f"エラー: {i}位の商品の処理中にエラーが発生しました: {str(e)}")
