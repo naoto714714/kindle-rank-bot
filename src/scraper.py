@@ -2,7 +2,7 @@ import logging
 import re
 import time
 from dataclasses import dataclass
-from typing import List, Optional
+from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -60,7 +60,7 @@ def _fetch_amazon_page(max_retries: int = None) -> BeautifulSoup:
             return BeautifulSoup(response.content, "html.parser")
         except requests.exceptions.RequestException as e:
             if attempt == max_retries - 1:
-                raise Exception(f"スクレイピングに失敗しました（{max_retries}回試行）: {str(e)}")
+                raise Exception(f"スクレイピングに失敗しました（{max_retries}回試行）: {str(e)}") from e
 
             # 指数バックオフ（1秒、2秒、4秒...）
             wait_time = 2**attempt
@@ -123,7 +123,7 @@ def _parse_book_item(item, rank: int) -> Optional[KindleBook]:
         return None
 
 
-def _parse_books_from_soup(soup: BeautifulSoup, limit: int) -> List[KindleBook]:
+def _parse_books_from_soup(soup: BeautifulSoup, limit: int) -> list[KindleBook]:
     """BeautifulSoupオブジェクトから書籍リストを抽出"""
     items = soup.find_all("div", {"class": "_cDEzb_grid-cell_1uMOS"}, limit=limit)
 
@@ -155,7 +155,7 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
     return "\n\n".join(result_lines)
 
 
-def get_amazon_kindle_ranking_with_data(limit=10, max_retries=3) -> tuple[str, List[dict]]:
+def get_amazon_kindle_ranking_with_data(limit=10, max_retries=3) -> tuple[str, list[dict]]:
     """
     Amazonの Kindle ランキングを取得して文字列と構造化データの両方を返す
 
