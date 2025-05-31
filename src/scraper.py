@@ -1,9 +1,36 @@
 import re
 import time
+from dataclasses import dataclass
 from typing import Optional
 
 import requests
 from bs4 import BeautifulSoup
+
+
+@dataclass
+class KindleBook:
+    """Kindle書籍の情報を保持するデータクラス"""
+
+    rank: int
+    title: str
+    rating: Optional[float] = None
+    review_count: Optional[int] = None
+    price: str = "価格不明"
+    url: str = "URLなし"
+
+    def to_string(self) -> str:
+        """LINEメッセージ用の文字列に変換"""
+        lines = [f"{self.rank}位|{self.title}"]
+
+        if self.rating and self.review_count:
+            lines.append(f"⭐️{self.rating}({self.review_count:,}件)")
+        else:
+            lines.append("評価なし")
+
+        lines.append(self.price)
+        lines.append(self.url)
+
+        return "\n".join(lines)
 
 
 def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
