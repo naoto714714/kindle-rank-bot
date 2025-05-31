@@ -51,10 +51,6 @@ This project follows strict Git workflow practices defined in `rules/git.mdc`:
    git commit -m "Prefix: <change summary>"
    ```
 
-3. **Pull request creation**:
-   - Write PR description to `pr-description.md` first
-   - Use `gh pr create --title "[Prefix]<title>" --body-file pr-description.md`
-
 ### Prefix Convention
 - `feature`: New features
 - `update`: Improvements to existing features
