@@ -23,6 +23,11 @@ class Config:
     line_channel_access_token: str = ""
     line_user_id: str = ""
 
+    # Gemini API 設定
+    gemini_api_key: str = ""
+    gemini_model: str = "gemini-2.0-flash"
+    enable_gemini_summary: bool = True
+
     # ログ設定
     log_level: str = "INFO"
     log_format: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
@@ -34,6 +39,8 @@ class Config:
             kindle_ranking_limit=int(os.getenv("KINDLE_RANKING_LIMIT", "10")),
             line_channel_access_token=os.getenv("LINE_CHANNEL_ACCESS_TOKEN", ""),
             line_user_id=os.getenv("LINE_USER_ID", ""),
+            gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
+            enable_gemini_summary=os.getenv("ENABLE_GEMINI_SUMMARY", "true").lower() == "true",
             log_level=os.getenv("LOG_LEVEL", "INFO"),
         )
 
@@ -45,6 +52,8 @@ class Config:
             raise ValueError("環境変数 LINE_USER_ID が設定されていません")
         if self.kindle_ranking_limit <= 0:
             raise ValueError("KINDLE_RANKING_LIMIT は1以上である必要があります")
+        if self.enable_gemini_summary and not self.gemini_api_key:
+            raise ValueError("Gemini要約が有効ですが、環境変数 GEMINI_API_KEY が設定されていません")
 
 
 # グローバル設定インスタンス
