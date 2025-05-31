@@ -2,26 +2,46 @@
 
 ## 概要
 Amazonの「Kindle電子書籍売れ筋ランキング」の上位10タイトルを毎日スクレイピングし、LINEで通知するbotです。
-GitHub Actionsを使用して、毎日朝6時に自動実行されます。
+GitHub Actionsを使用して、毎日正午12時（日本時間）に自動実行されます。
 
 ## 機能
 - Amazonの「Kindle本の売れ筋ランキング」から上位10タイトルをスクレイピング
   - https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051
 - スクレイピングしたデータをLINE Messaging APIを使ってLINEに通知
-- GitHub Actionsによる定期実行（毎日午前6時）
+- GitHub Actionsによる定期実行（毎日正午12時）
 - **Gemini APIによるランキング変化の要約機能**
   - 前回のランキングと比較して変化を分析
   - 新規ランクイン、順位変動、ランク外などを2-3文で簡潔にレポート
   - 履歴は直近3回分を保存
 
 ### 通知例
+
+#### Gemini要約付きの場合
+```
+📊 注目の変化：「〇〇」が初ランクイン2位！「△△」は5位から1位に急上昇。ビジネス書が好調です。
+
+---
+
 1位|タイトル
 ⭐️4.5(123件)
 ¥1,000
 https://www.amazon.co.jp/dp/XXXXXXXXXX
 
+（以下、ランキング続く）
+```
+
+#### 通常の場合（Gemini無効時）
+```
+1位|タイトル
+⭐️4.5(123件)
+¥1,000
+https://www.amazon.co.jp/dp/XXXXXXXXXX
+
+（以下、ランキング続く）
+```
+
 ## 技術スタック
-- Python 3.12+
+- Python 3.13+
 - [uv](https://github.com/astral-sh/uv) (Fast Python package manager)
 - BeautifulSoup4（スクレイピング）
 - LINE Messaging API（通知）
@@ -86,14 +106,15 @@ uv run python run_tests.py --all
 uv run python run_tests.py -a
 ```
 
-### 従来の方法（pip使用）
-uvが利用できない環境では、pipでも実行可能です：
-```bash
-# pyproject.tomlから依存関係をインストール
-pip install -e .
+### 本番環境での実行
 
-# テストの実行
-python run_tests.py --quick
+```bash
+# 環境変数を設定してから実行
+export LINE_CHANNEL_ACCESS_TOKEN="your_token"
+export LINE_USER_ID="your_user_id"
+export GEMINI_API_KEY="your_api_key"  # オプション
+
+uv run python src/main.py
 ```
 
 ### GitHub Actionsでのテスト
