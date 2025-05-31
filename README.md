@@ -9,6 +9,10 @@ GitHub Actionsを使用して、毎日朝6時に自動実行されます。
   - https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051
 - スクレイピングしたデータをLINE Messaging APIを使ってLINEに通知
 - GitHub Actionsによる定期実行（毎日午前6時）
+- **Gemini APIによるランキング変化の要約機能**
+  - 前回のランキングと比較して変化を分析
+  - 新規ランクイン、順位変動、ランク外などを2-3文で簡潔にレポート
+  - 履歴は直近3回分を保存
 
 ### 通知例
 1位|タイトル
@@ -32,6 +36,8 @@ GitHub Secretsまたはローカルの.envファイルに以下の環境変数�
 
 ### オプション
 - `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
+- `GEMINI_API_KEY`: Gemini APIキー（ランキング変化の要約機能を有効にする場合）
+- `ENABLE_GEMINI_SUMMARY`: Gemini要約機能の有効/無効（デフォルト: true）
 - `LOG_LEVEL`: ログレベル（デフォルト: INFO）
 
 ## 開発環境のセットアップ
