@@ -38,12 +38,12 @@ def main():
 
         # 履歴から前回のランキングを取得
         previous_rankings = get_previous_rankings()
-        
+
         # Gemini APIで要約を生成（設定が有効な場合）
         summary = None
         if config.enable_gemini_summary:
             logger.info("Gemini要約機能が有効です...")
-            
+
             if previous_rankings:
                 # 前回のデータがある場合は変化を分析
                 logger.info("前回のランキングデータが存在します。変化を分析中...")
@@ -53,7 +53,7 @@ def main():
                 # 初回実行の場合は通常の要約
                 logger.info("初回実行のため、通常の要約を生成します...")
                 summary = generate_first_ranking_summary(ranking_text)
-            
+
             if summary:
                 logger.info(f"要約生成成功: {len(summary)}文字")
             else:

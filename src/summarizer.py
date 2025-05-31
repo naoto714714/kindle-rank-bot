@@ -110,12 +110,9 @@ def generate_ranking_changes_summary(changes_analysis: Dict, current_ranking_tex
 
         # 変化の内容をテキスト化
         changes_text = _format_changes_for_prompt(changes_analysis)
-        
+
         # プロンプトを作成
-        prompt = PROMPT_TEMPLATE_CHANGES.format(
-            changes_text=changes_text,
-            current_ranking=current_ranking_text
-        )
+        prompt = PROMPT_TEMPLATE_CHANGES.format(changes_text=changes_text, current_ranking=current_ranking_text)
 
         # API呼び出し
         summary = _call_gemini_api(prompt, SYSTEM_INSTRUCTION_CHANGES)
@@ -176,12 +173,12 @@ def _format_changes_for_prompt(analysis: Dict) -> str:
     変化分析結果をプロンプト用のテキストに整形
     """
     lines = []
-    
+
     if analysis["new_entries"]:
         lines.append("【新規ランクイン】")
         for entry in analysis["new_entries"][:3]:  # 上位3つまで
             lines.append(f"- {entry['rank']}位: {entry['title']}")
-    
+
     if analysis["rank_changes"]:
         # 大きな変動のみ抽出（3位以上の変動）
         big_changes = [c for c in analysis["rank_changes"] if abs(c["change"]) >= 3]
@@ -189,15 +186,19 @@ def _format_changes_for_prompt(analysis: Dict) -> str:
             lines.append("\n【大きな順位変動】")
             for change in sorted(big_changes, key=lambda x: abs(x["change"]), reverse=True)[:3]:
                 if change["change"] > 0:
-                    lines.append(f"- {change['title']}: {change['previous_rank']}位→{change['current_rank']}位（↑{change['change']}）")
+                    lines.append(
+                        f"- {change['title']}: {change['previous_rank']}位→{change['current_rank']}位（↑{change['change']}）"
+                    )
                 else:
-                    lines.append(f"- {change['title']}: {change['previous_rank']}位→{change['current_rank']}位（↓{abs(change['change'])}）")
-    
+                    lines.append(
+                        f"- {change['title']}: {change['previous_rank']}位→{change['current_rank']}位（↓{abs(change['change'])}）"
+                    )
+
     if analysis["dropped_out"]:
         lines.append("\n【ランク外】")
         for entry in analysis["dropped_out"][:2]:  # 上位2つまで
             lines.append(f"- {entry['title']}（前回{entry['previous_rank']}位）")
-    
+
     return "\n".join(lines)
 
 

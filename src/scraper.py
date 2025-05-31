@@ -158,7 +158,7 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
 def get_amazon_kindle_ranking_with_data(limit=10, max_retries=3) -> tuple[str, List[dict]]:
     """
     Amazonの Kindle ランキングを取得して文字列と構造化データの両方を返す
-    
+
     Returns:
         tuple: (表示用文字列, 構造化データのリスト)
     """
@@ -168,17 +168,19 @@ def get_amazon_kindle_ranking_with_data(limit=10, max_retries=3) -> tuple[str, L
     # 書籍リストを文字列に変換
     result_lines = []
     structured_data = []
-    
+
     for book in books:
         result_lines.append(book.to_string())
         # 構造化データとして保存
-        structured_data.append({
-            "rank": book.rank,
-            "title": book.title,
-            "rating": book.rating,
-            "review_count": book.review_count,
-            "price": book.price,
-            "url": book.url
-        })
+        structured_data.append(
+            {
+                "rank": book.rank,
+                "title": book.title,
+                "rating": book.rating,
+                "review_count": book.review_count,
+                "price": book.price,
+                "url": book.url,
+            }
+        )
 
     return "\n\n".join(result_lines), structured_data

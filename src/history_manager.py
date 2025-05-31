@@ -18,16 +18,16 @@ MAX_HISTORY_COUNT = 3
 def load_history() -> List[Dict]:
     """
     履歴ファイルからランキング履歴を読み込む
-    
+
     Returns:
         履歴データのリスト（新しい順）
     """
     history_path = Path(HISTORY_FILE)
-    
+
     if not history_path.exists():
         logger.info("履歴ファイルが存在しません。新規作成します。")
         return []
-    
+
     try:
         with open(history_path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -40,7 +40,7 @@ def load_history() -> List[Dict]:
 def save_history(history: List[Dict]) -> None:
     """
     履歴データをファイルに保存
-    
+
     Args:
         history: 保存する履歴データ
     """
@@ -56,37 +56,34 @@ def save_history(history: List[Dict]) -> None:
 def add_ranking_to_history(ranking_data: List[Dict]) -> None:
     """
     新しいランキングデータを履歴に追加
-    
+
     Args:
         ranking_data: スクレイピングで取得したランキングデータ
     """
     history = load_history()
-    
+
     # 新しいエントリを作成
-    new_entry = {
-        "timestamp": datetime.now().isoformat(),
-        "rankings": ranking_data
-    }
-    
+    new_entry = {"timestamp": datetime.now().isoformat(), "rankings": ranking_data}
+
     # 履歴の先頭に追加
     history.insert(0, new_entry)
-    
+
     # 最大保存数を超えた分を削除
     if len(history) > MAX_HISTORY_COUNT:
         history = history[:MAX_HISTORY_COUNT]
-    
+
     save_history(history)
 
 
 def get_previous_rankings() -> Optional[List[Dict]]:
     """
     直前のランキングデータを取得
-    
+
     Returns:
         直前のランキングデータ（存在しない場合はNone）
     """
     history = load_history()
-    
+
     if len(history) >= 2:
         # 最新のものは今回のデータなので、2番目を返す
         return history[1]["rankings"]
@@ -100,51 +97,43 @@ def get_previous_rankings() -> Optional[List[Dict]]:
 def analyze_ranking_changes(current: List[Dict], previous: List[Dict]) -> Dict:
     """
     現在と過去のランキングを比較して変化を分析
-    
+
     Args:
         current: 現在のランキングデータ
         previous: 過去のランキングデータ
-    
+
     Returns:
         分析結果を含む辞書
     """
-    analysis = {
-        "new_entries": [],
-        "rank_changes": [],
-        "dropped_out": []
-    }
-    
+    analysis = {"new_entries": [], "rank_changes": [], "dropped_out": []}
+
     # タイトルをキーにした辞書を作成
     current_dict = {item["title"]: item for item in current}
     previous_dict = {item["title"]: item for item in previous}
-    
+
     # 新規エントリーを検出
     for title in current_dict:
         if title not in previous_dict:
-            analysis["new_entries"].append({
-                "title": title,
-                "rank": current_dict[title]["rank"]
-            })
-    
+            analysis["new_entries"].append({"title": title, "rank": current_dict[title]["rank"]})
+
     # ランク変動を検出
     for title in current_dict:
         if title in previous_dict:
             current_rank = current_dict[title]["rank"]
             previous_rank = previous_dict[title]["rank"]
             if current_rank != previous_rank:
-                analysis["rank_changes"].append({
-                    "title": title,
-                    "current_rank": current_rank,
-                    "previous_rank": previous_rank,
-                    "change": previous_rank - current_rank  # 正の値は上昇
-                })
-    
+                analysis["rank_changes"].append(
+                    {
+                        "title": title,
+                        "current_rank": current_rank,
+                        "previous_rank": previous_rank,
+                        "change": previous_rank - current_rank,  # 正の値は上昇
+                    }
+                )
+
     # ランキング外に落ちた作品を検出
     for title in previous_dict:
         if title not in current_dict:
-            analysis["dropped_out"].append({
-                "title": title,
-                "previous_rank": previous_dict[title]["rank"]
-            })
-    
+            analysis["dropped_out"].append({"title": title, "previous_rank": previous_dict[title]["rank"]})
+
     return analysis
