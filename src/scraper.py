@@ -1,3 +1,4 @@
+import logging
 import re
 import time
 from dataclasses import dataclass
@@ -7,6 +8,8 @@ import requests
 from bs4 import BeautifulSoup
 
 from config import config
+
+logger = logging.getLogger(__name__)
 
 # HTTP リクエスト用ヘッダー
 REQUEST_HEADERS = {
@@ -61,7 +64,7 @@ def _fetch_amazon_page(max_retries: int = None) -> BeautifulSoup:
 
             # 指数バックオフ（1秒、2秒、4秒...）
             wait_time = 2**attempt
-            print(f"リトライ {attempt + 1}/{max_retries} - {wait_time}秒待機中... (エラー: {str(e)})")
+            logger.warning(f"リトライ {attempt + 1}/{max_retries} - {wait_time}秒待機中... (エラー: {str(e)})")
             time.sleep(wait_time)
 
 
@@ -116,7 +119,7 @@ def _parse_book_item(item, rank: int) -> Optional[KindleBook]:
         return KindleBook(rank=rank, title=title, rating=rating, review_count=review_count, price=price, url=url)
 
     except Exception as e:
-        print(f"エラー: {rank}位の商品の処理中にエラーが発生しました: {str(e)}")
+        logger.error(f"エラー: {rank}位の商品の処理中にエラーが発生しました: {str(e)}")
         return None
 
 

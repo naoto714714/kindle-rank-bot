@@ -60,6 +60,9 @@ Required for local development:
 
 Optional:
 - `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
+- `GEMINI_API_KEY`: Gemini APIキー（要約機能を有効にする場合）
+- `ENABLE_GEMINI_SUMMARY`: Gemini要約機能の有効/無効（デフォルト: true）
+- `LOG_LEVEL`: ログレベル（デフォルト: INFO）
 
 ## Architecture
 
@@ -67,6 +70,7 @@ Optional:
 1. **src/main.py**: Entry point that orchestrates the scraping and notification
    - Error handling with detailed logging
    - System exit on failure for GitHub Actions integration
+   - Gemini API integration for ranking summaries
 2. **src/scraper.py**: Scrapes Amazon Kindle rankings using BeautifulSoup
    - Fetches top 10 books from https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051/
    - Extracts title, rating, review count, price, and product URL
@@ -75,6 +79,13 @@ Optional:
 3. **src/notifier.py**: Sends messages via LINE Messaging API
    - Environment variable validation
    - Detailed error messages for API failures
+4. **src/summarizer.py**: Gemini API integration for AI-powered summaries
+   - Generates ranking analysis and insights
+   - Graceful fallback when API fails
+   - Configurable via environment variables
+5. **src/config.py**: Centralized configuration management
+   - Environment variable handling
+   - Validation and defaults
 
 ### Testing
 - **tests/test_scraper.py**: Comprehensive unit tests for scraping functionality
