@@ -6,8 +6,9 @@ from typing import List, Optional
 import requests
 from bs4 import BeautifulSoup
 
-# 定数
-AMAZON_KINDLE_RANKING_URL = "https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051/"
+from config import config
+
+# HTTP リクエスト用ヘッダー
 REQUEST_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
     "Accept-Language": "ja-JP,ja;q=0.9,en;q=0.8",
@@ -44,11 +45,14 @@ class KindleBook:
         return "\n".join(lines)
 
 
-def _fetch_amazon_page(max_retries: int = 3) -> BeautifulSoup:
+def _fetch_amazon_page(max_retries: int = None) -> BeautifulSoup:
     """AmazonランキングページをHTTPリクエストで取得"""
+    if max_retries is None:
+        max_retries = config.max_retries
+
     for attempt in range(max_retries):
         try:
-            response = requests.get(AMAZON_KINDLE_RANKING_URL, headers=REQUEST_HEADERS, timeout=10)
+            response = requests.get(config.kindle_ranking_url, headers=REQUEST_HEADERS, timeout=config.request_timeout)
             response.raise_for_status()
             return BeautifulSoup(response.content, "html.parser")
         except requests.exceptions.RequestException as e:

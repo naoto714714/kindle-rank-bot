@@ -1,0 +1,51 @@
+"""
+プロジェクト全体の設定を管理するモジュール
+"""
+
+import os
+from dataclasses import dataclass
+
+
+@dataclass
+class Config:
+    """アプリケーション設定"""
+
+    # Kindle ランキング設定
+    kindle_ranking_limit: int = 10
+    kindle_ranking_url: str = "https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051/"
+
+    # HTTP リクエスト設定
+    request_timeout: int = 10
+    max_retries: int = 3
+
+    # LINE API 設定
+    line_api_url: str = "https://api.line.me/v2/bot/message/push"
+    line_channel_access_token: str = ""
+    line_user_id: str = ""
+
+    # ログ設定
+    log_level: str = "INFO"
+    log_format: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+    @classmethod
+    def from_env(cls) -> "Config":
+        """環境変数から設定を読み込む"""
+        return cls(
+            kindle_ranking_limit=int(os.getenv("KINDLE_RANKING_LIMIT", "10")),
+            line_channel_access_token=os.getenv("LINE_CHANNEL_ACCESS_TOKEN", ""),
+            line_user_id=os.getenv("LINE_USER_ID", ""),
+            log_level=os.getenv("LOG_LEVEL", "INFO"),
+        )
+
+    def validate(self) -> None:
+        """設定の妥当性を検証"""
+        if not self.line_channel_access_token:
+            raise ValueError("環境変数 LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
+        if not self.line_user_id:
+            raise ValueError("環境変数 LINE_USER_ID が設定されていません")
+        if self.kindle_ranking_limit <= 0:
+            raise ValueError("KINDLE_RANKING_LIMIT は1以上である必要があります")
+
+
+# グローバル設定インスタンス
+config = Config.from_env()

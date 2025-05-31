@@ -1,36 +1,28 @@
 import json
 import logging
-import os
 
 import requests
+
+from config import config
 
 logger = logging.getLogger(__name__)
 
 
 def send_line_message(message: str) -> None:
-    line_channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
-    line_user_id = os.getenv("LINE_USER_ID")
-
-    # 環境変数のチェック
-    if not line_channel_access_token:
-        raise ValueError("環境変数 LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
-    if not line_user_id:
-        raise ValueError("環境変数 LINE_USER_ID が設定されていません")
-
-    url = "https://api.line.me/v2/bot/message/push"
-
     # ヘッダーにアクセストークンを設定
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {line_channel_access_token}",
+        "Authorization": f"Bearer {config.line_channel_access_token}",
     }
 
     # 送信するデータ（メッセージ内容と送信先ID）
-    payload = {"to": line_user_id, "messages": [{"type": "text", "text": message}]}
+    payload = {"to": config.line_user_id, "messages": [{"type": "text", "text": message}]}
 
     try:
         # POSTリクエストを送信
-        response = requests.post(url, headers=headers, data=json.dumps(payload), timeout=10)
+        response = requests.post(
+            config.line_api_url, headers=headers, data=json.dumps(payload), timeout=config.request_timeout
+        )
 
         # 結果を表示
         if response.status_code == 200:
