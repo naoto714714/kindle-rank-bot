@@ -16,7 +16,7 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
         "Accept-Encoding": "gzip, deflate, br",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Connection": "keep-alive",
-        "Upgrade-Insecure-Requests": "1"
+        "Upgrade-Insecure-Requests": "1",
     }
 
     # リトライ機能付きのリクエスト
@@ -30,9 +30,9 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
             if attempt == max_retries - 1:
                 # 最後の試行で失敗した場合
                 raise Exception(f"スクレイピングに失敗しました（{max_retries}回試行）: {str(e)}")
-            
+
             # 指数バックオフ（1秒、2秒、4秒...）
-            wait_time = 2 ** attempt
+            wait_time = 2**attempt
             print(f"リトライ {attempt + 1}/{max_retries} - {wait_time}秒待機中... (エラー: {str(e)})")
             time.sleep(wait_time)
 
@@ -60,57 +60,47 @@ def get_amazon_kindle_ranking(limit=10, max_retries=3) -> str:
             if not rating_row:
                 print(f"警告: {i}位の商品で評価情報が見つかりません")
                 continue
-            
+
             rating_link = rating_row.find("a")
             if not rating_link:
                 print(f"警告: {i}位の商品で評価リンクが見つかりません")
                 continue
-            
+
             # aria-label属性から評価情報を取得
             aria_label = rating_link.get("aria-label")
             if not aria_label:
                 print(f"警告: {i}位の商品でaria-label属性が見つかりません")
                 continue
-            
+
             rating = re.search(r"5つ星のうち([0-9.]+)、([0-9,]+)件", aria_label)
-            
+
             value = item.find("span", {"class": "_cDEzb_p13n-sc-price_3mJ9Z"})
             value = value.get_text(strip=True) if value else "価格不明"
 
             # 商品IDを取得（URLを構築するため）
             url_div = item.find("div", class_="p13n-sc-uncoverable-faceout")
             product_id = url_div.get("id") if url_div else None
-            
+
             # IDが取得できない場合は、data-asin属性も試す
             if not product_id:
                 parent_div = item.find("div", {"data-asin": True})
                 if parent_div:
                     product_id = parent_div.get("data-asin")
-            
+
             # URL構築
             product_url = f"https://www.amazon.co.jp/dp/{product_id}" if product_id else "URLなし"
 
             # 順位とタイトル、評価、URLを追加
             if rating:
-                result_text += (
-                    f"{i}位|{title}\n"
-                    f"⭐️{rating.group(1)}({rating.group(2)}件)\n"
-                    f"{value}\n"
-                    f"{product_url}\n\n"
-                )
+                result_text += f"{i}位|{title}\n⭐️{rating.group(1)}({rating.group(2)}件)\n{value}\n{product_url}\n\n"
             else:
                 # 評価がない場合
-                result_text += (
-                    f"{i}位|{title}\n"
-                    f"評価なし\n"
-                    f"{value}\n"
-                    f"{product_url}\n\n"
-                )
+                result_text += f"{i}位|{title}\n評価なし\n{value}\n{product_url}\n\n"
         except Exception as e:
             print(f"エラー: {i}位の商品の処理中にエラーが発生しました: {str(e)}")
             continue
 
     if not result_text.strip():
         raise Exception("商品情報の取得に失敗しました。一つも商品を取得できませんでした。")
-    
+
     return result_text.strip()
