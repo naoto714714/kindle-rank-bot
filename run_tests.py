@@ -2,6 +2,15 @@
 """
 ローカルでテストを実行するためのスクリプト
 開発中にスクレイピングが正常に動作するか確認する際に使用
+
+使用方法:
+  python run_tests.py               # ユニットテストを実行
+  python run_tests.py --quick       # クイックテスト（1件のみ取得）
+  python run_tests.py --stress 5    # ストレステスト（5回実行）
+  python run_tests.py --all         # すべてのテストを実行
+
+uv環境での使用:
+  uv run python run_tests.py --quick
 """
 
 import sys

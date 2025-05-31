@@ -7,32 +7,50 @@ Kindle売れ筋ランキング通知Bot - A Python bot that scrapes Amazon's Kin
 
 ## Common Commands
 
-### Development
+### Development (using uv)
 ```bash
-# Install dependencies
-pip install -r requirements.txt
+# Install uv (if not installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Install dependencies and create virtual environment
+uv sync
 
 # Run the bot locally (requires environment variables)
-cd src
-python main.py
+uv run python src/main.py
 
 # Format code with ruff
-ruff format .
+uv run ruff format .
+
+# Add new dependencies
+uv add package-name
+
+# Add development dependencies
+uv add --dev package-name
 ```
 
 ### Testing
 ```bash
 # Run all unit tests
-python run_tests.py
+uv run python run_tests.py
 
 # Quick test (fetch 1 item)
-python run_tests.py --quick
+uv run python run_tests.py --quick
 
 # Stress test (run multiple times)
-python run_tests.py --stress 5
+uv run python run_tests.py --stress 5
 
 # Run all test types
-python run_tests.py --all
+uv run python run_tests.py --all
+```
+
+### Legacy Commands (pip)
+For compatibility, you can still use pip with requirements.txt:
+```bash
+# Install dependencies with pip
+pip install -r requirements.txt
+
+# Run tests with pip environment
+python run_tests.py --quick
 ```
 
 ### Environment Variables

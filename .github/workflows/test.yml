@@ -13,23 +13,22 @@ jobs:
     
     steps:
     - name: リポジトリをチェックアウト
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+    
+    - name: uvをインストール
+      uses: astral-sh/setup-uv@v4
+      with:
+        version: "latest"
+        enable-cache: true
     
     - name: Python 3.12をセットアップ
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      run: uv python install 3.12
     
     - name: 依存パッケージをインストール
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-        pip install pytest pytest-cov
+      run: uv sync
     
     - name: スクレイピングテストを実行
-      run: |
-        cd tests
-        python -m pytest test_scraper.py -v --tb=short
+      run: uv run python run_tests.py
       continue-on-error: true  # テストが失敗してもワークフローは継続
     
     - name: テスト結果のサマリー
@@ -45,20 +44,20 @@ jobs:
     
     steps:
     - name: リポジトリをチェックアウト
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+    
+    - name: uvをインストール
+      uses: astral-sh/setup-uv@v4
+      with:
+        version: "latest"
+        enable-cache: true
     
     - name: Python 3.12をセットアップ
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      run: uv python install 3.12
     
     - name: 依存パッケージをインストール
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      run: uv sync
     
     - name: スクレイピングを実行（1件のみ）
-      run: |
-        cd src
-        python -c "from scraper import get_amazon_kindle_ranking; print('=== 取得結果 ==='); print(get_amazon_kindle_ranking(limit=1))"
+      run: uv run python run_tests.py --quick
       continue-on-error: true
