@@ -6,8 +6,8 @@ import logging
 from typing import Optional
 
 from google import genai
+from google.genai import errors as genai_errors
 from google.genai import types
-from google.api_core import exceptions as google_exceptions
 
 from config import config
 
@@ -56,7 +56,7 @@ def _call_gemini_api(prompt: str, system_instruction: str) -> str:
         生成されたテキスト
 
     Raises:
-        google_exceptions.GoogleAPIError: API呼び出しエラー
+        genai_errors.APIError: API呼び出しエラー
         ValueError: レスポンスが空の場合
     """
     client = genai.Client(api_key=config.gemini_api_key)
@@ -101,7 +101,7 @@ def generate_ranking_summary(ranking_text: str) -> Optional[str]:
         logger.info(f"Gemini要約生成成功: {len(summary)}文字")
         return summary
 
-    except google_exceptions.GoogleAPIError as e:
+    except genai_errors.APIError as e:
         logger.error(f"Gemini API呼び出しでエラーが発生しました: {str(e)}")
         return None
     except ValueError as e:
