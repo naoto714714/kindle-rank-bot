@@ -7,7 +7,7 @@ import json
 import logging
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Optional
 
 logger = logging.getLogger(__name__)
 
@@ -15,7 +15,7 @@ HISTORY_FILE = "ranking_history.json"
 MAX_HISTORY_COUNT = 3
 
 
-def load_history() -> List[Dict]:
+def load_history() -> list[dict]:
     """
     履歴ファイルからランキング履歴を読み込む
 
@@ -29,7 +29,7 @@ def load_history() -> List[Dict]:
         return []
 
     try:
-        with open(history_path, "r", encoding="utf-8") as f:
+        with open(history_path, encoding="utf-8") as f:
             data = json.load(f)
             return data.get("history", [])
     except Exception as e:
@@ -37,7 +37,7 @@ def load_history() -> List[Dict]:
         return []
 
 
-def save_history(history: List[Dict]) -> None:
+def save_history(history: list[dict]) -> None:
     """
     履歴データをファイルに保存
 
@@ -53,7 +53,7 @@ def save_history(history: List[Dict]) -> None:
         raise
 
 
-def add_ranking_to_history(ranking_data: List[Dict]) -> None:
+def add_ranking_to_history(ranking_data: list[dict]) -> None:
     """
     新しいランキングデータを履歴に追加
 
@@ -75,7 +75,7 @@ def add_ranking_to_history(ranking_data: List[Dict]) -> None:
     save_history(history)
 
 
-def get_previous_rankings() -> Optional[List[Dict]]:
+def get_previous_rankings() -> Optional[list[dict]]:
     """
     直前のランキングデータを取得
 
@@ -94,7 +94,7 @@ def get_previous_rankings() -> Optional[List[Dict]]:
         return None
 
 
-def analyze_ranking_changes(current: List[Dict], previous: List[Dict]) -> Dict:
+def analyze_ranking_changes(current: list[dict], previous: list[dict]) -> dict:
     """
     現在と過去のランキングを比較して変化を分析
 

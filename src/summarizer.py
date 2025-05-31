@@ -3,7 +3,7 @@ Gemini APIを使用してKindleランキングデータの要約を生成する�
 """
 
 import logging
-from typing import Dict, Optional
+from typing import Optional
 
 from google import genai
 from google.genai import errors as genai_errors
@@ -90,7 +90,7 @@ def _call_gemini_api(prompt: str, system_instruction: str) -> str:
     return response.text.strip()
 
 
-def generate_ranking_changes_summary(changes_analysis: Dict, current_ranking_text: str) -> Optional[str]:
+def generate_ranking_changes_summary(changes_analysis: dict, current_ranking_text: str) -> Optional[str]:
     """
     Gemini APIを使ってランキングの変化を要約
 
@@ -168,7 +168,7 @@ def generate_first_ranking_summary(ranking_text: str) -> Optional[str]:
         return None
 
 
-def _format_changes_for_prompt(analysis: Dict) -> str:
+def _format_changes_for_prompt(analysis: dict) -> str:
     """
     変化分析結果をプロンプト用のテキストに整形
     """
