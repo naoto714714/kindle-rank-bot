@@ -17,6 +17,21 @@ cd src
 python main.py
 ```
 
+### Testing
+```bash
+# Run all unit tests
+python run_tests.py
+
+# Quick test (fetch 1 item)
+python run_tests.py --quick
+
+# Stress test (run multiple times)
+python run_tests.py --stress 5
+
+# Run all test types
+python run_tests.py --all
+```
+
 ### Environment Variables
 Required for local development:
 - `LINE_CHANNEL_ACCESS_TOKEN`
@@ -26,15 +41,24 @@ Required for local development:
 
 ### Core Components
 1. **src/main.py**: Entry point that orchestrates the scraping and notification
+   - Error handling with detailed logging
+   - System exit on failure for GitHub Actions integration
 2. **src/scraper.py**: Scrapes Amazon Kindle rankings using BeautifulSoup
    - Fetches top 10 books from https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051/
    - Extracts title, rating, review count, price, and product URL
+   - Retry mechanism with exponential backoff (max 3 attempts)
+   - Handles missing data gracefully (ratings, prices, URLs)
 3. **src/notifier.py**: Sends messages via LINE Messaging API
+   - Environment variable validation
+   - Detailed error messages for API failures
+
+### Testing
+- **tests/test_scraper.py**: Comprehensive unit tests for scraping functionality
+- **run_tests.py**: Test runner with multiple modes (quick, stress, all)
 
 ### GitHub Actions
-- **Workflow**: `.github/workflows/daily-ranking.yml`
-- Runs daily at 12:00 JST (UTC 03:00)
-- Can be manually triggered via workflow_dispatch
+- **daily-ranking.yml**: Daily scraping and notification at 12:00 JST
+- **test.yml**: Automated testing on push and pull requests
 
 ## Git Workflow Requirements
 This project follows strict Git workflow practices defined in `rules/git.mdc`:
@@ -51,6 +75,12 @@ This project follows strict Git workflow practices defined in `rules/git.mdc`:
    git commit -m "Prefix: <change summary>"
    ```
 
+3. **Pull request creation**:
+   ```bash
+   git push -u origin <branch-name>
+   gh pr create --title "[Prefix]<title>" --body "<description>"
+   ```
+
 ### Prefix Convention
 - `feature`: New features
 - `update`: Improvements to existing features
@@ -64,4 +94,4 @@ This project follows strict Git workflow practices defined in `rules/git.mdc`:
 ## Important Notes
 - Never edit files directly on the main branch
 - Always check `rules/requirements-definition.mdc` for system requirements
-- The bot is scheduled to run at 12:00 JST (not 6:00 as mentioned in some docs)
+- The bot is scheduled to run at 12:00 JST
