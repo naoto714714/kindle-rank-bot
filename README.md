@@ -17,51 +17,79 @@ GitHub Actionsを使用して、毎日朝6時に自動実行されます。
 https://www.amazon.co.jp/dp/XXXXXXXXXX
 
 ## 技術スタック
-- Python 3.12
+- Python 3.12+
+- [uv](https://github.com/astral-sh/uv) (Fast Python package manager)
 - BeautifulSoup4（スクレイピング）
 - LINE Messaging API（通知）
 - GitHub Actions（定期実行）
 
 ## 環境変数
-GitHub Secretsに以下の環境変数を設定してください：
-- `LINE_CHANNEL_ACCESS_TOKEN`
-- `LINE_USER_ID`
+GitHub Secretsまたはローカルの.envファイルに以下の環境変数を設定してください：
 
-## テスト
+### 必須
+- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging APIのアクセストークン
+- `LINE_USER_ID`: 送信先のLINEユーザーID
 
-### ローカルでのテスト実行
+### オプション
+- `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
+- `LOG_LEVEL`: ログレベル（デフォルト: INFO）
+
+## 開発環境のセットアップ
+
+### 推奨方法（uv使用）
+
+#### 1. uvのインストール
+```bash
+# macOS/Linux
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Windows
+powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+#### 2. 依存関係のインストールと仮想環境作成
+```bash
+uv sync
+```
+
+#### 3. テストの実行方法
+
+**ユニットテストを実行:**
+```bash
+uv run python run_tests.py
+```
+
+**クイックテスト（1件のみ取得）:**
+```bash
+uv run python run_tests.py --quick
+# または
+uv run python run_tests.py -q
+```
+
+**ストレステスト（複数回実行）:**
+```bash
+uv run python run_tests.py --stress 5  # 5回実行
+# または
+uv run python run_tests.py -s 10      # 10回実行
+```
+
+**すべてのテストを実行:**
+```bash
+uv run python run_tests.py --all
+# または
+uv run python run_tests.py -a
+```
+
+### 従来の方法（pip使用）
 
 #### 1. 依存関係のインストール
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 2. テストの実行方法
-
-**ユニットテストを実行:**
-```bash
-python run_tests.py
-```
-
-**クイックテスト（1件のみ取得）:**
+#### 2. テストの実行
 ```bash
 python run_tests.py --quick
-# または
-python run_tests.py -q
-```
-
-**ストレステスト（複数回実行）:**
-```bash
-python run_tests.py --stress 5  # 5回実行
-# または
-python run_tests.py -s 10      # 10回実行
-```
-
-**すべてのテストを実行:**
-```bash
-python run_tests.py --all
-# または
-python run_tests.py -a
 ```
 
 ### GitHub Actionsでのテスト

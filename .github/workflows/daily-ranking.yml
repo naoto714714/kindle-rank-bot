@@ -12,22 +12,22 @@ jobs:
 
     steps:
     - name: リポジトリをチェックアウト
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+
+    - name: uvをインストール
+      uses: astral-sh/setup-uv@v4
+      with:
+        version: "latest"
+        enable-cache: true
 
     - name: Python 3.12をセットアップ
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      run: uv python install 3.12
 
     - name: 依存パッケージをインストール
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      run: uv sync
 
     - name: Kindleランキング通知を実行
       env:
         LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
         LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
-      run: |
-        cd src
-        python main.py
+      run: uv run python src/main.py
