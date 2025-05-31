@@ -26,15 +26,6 @@ dependencies = [
     "beautifulsoup4>=4.13.0",
 ]
 
-[project.optional-dependencies]
-dev = [
-    "ruff>=0.1.0",
-]
-
-[project.scripts]
-kindle-rank-bot = "src.main:main"
-run-tests = "run_tests:main"
-
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
@@ -63,7 +54,7 @@ select = [
     "UP", # pyupgrade
 ]
 ignore = [
-    "E501", # line too long, handled by black
+    "E501", # line too long, handled by ruff format
 ]
 
 [tool.ruff.format]

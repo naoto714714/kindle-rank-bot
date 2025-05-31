@@ -81,14 +81,12 @@ uv run python run_tests.py -a
 ```
 
 ### 従来の方法（pip使用）
-
-#### 1. 依存関係のインストール
+uvが利用できない環境では、pipでも実行可能です：
 ```bash
-pip install -r requirements.txt
-```
+# pyproject.tomlから依存関係をインストール
+pip install -e .
 
-#### 2. テストの実行
-```bash
+# テストの実行
 python run_tests.py --quick
 ```
 

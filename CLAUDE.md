@@ -44,10 +44,10 @@ uv run python run_tests.py --all
 ```
 
 ### Legacy Commands (pip)
-For compatibility, you can still use pip with requirements.txt:
+For compatibility, you can still use pip with pyproject.toml:
 ```bash
 # Install dependencies with pip
-pip install -r requirements.txt
+pip install -e .
 
 # Run tests with pip environment
 python run_tests.py --quick
