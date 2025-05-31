@@ -1,4 +1,5 @@
 import logging
+import os
 import sys
 
 from notifier import send_line_message
@@ -17,8 +18,12 @@ def main():
     try:
         logger.info("Kindleランキング取得処理を開始します...")
 
+        # 環境変数から取得件数を取得（デフォルト: 10）
+        ranking_limit = int(os.getenv("KINDLE_RANKING_LIMIT", "10"))
+        logger.info(f"ランキング取得件数: {ranking_limit}")
+
         # Kindleランキング情報を取得
-        ranking_text = get_amazon_kindle_ranking(limit=10)
+        ranking_text = get_amazon_kindle_ranking(limit=ranking_limit)
         logger.info(f"ランキング取得成功: {len(ranking_text)}文字")
 
         # LINEに送信

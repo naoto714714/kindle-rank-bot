@@ -37,8 +37,11 @@ python run_tests.py --all
 
 ### Environment Variables
 Required for local development:
-- `LINE_CHANNEL_ACCESS_TOKEN`
-- `LINE_USER_ID`
+- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging APIのアクセストークン
+- `LINE_USER_ID`: 送信先のLINEユーザーID
+
+Optional:
+- `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
 
 ## Architecture
 
