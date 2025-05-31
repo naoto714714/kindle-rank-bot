@@ -1,10 +1,13 @@
 import json
+import logging
 import os
 
 import requests
 
+logger = logging.getLogger(__name__)
 
-def send_line_message(message):
+
+def send_line_message(message: str) -> None:
     line_channel_access_token = os.getenv("LINE_CHANNEL_ACCESS_TOKEN")
     line_user_id = os.getenv("LINE_USER_ID")
 
@@ -31,14 +34,14 @@ def send_line_message(message):
 
         # 結果を表示
         if response.status_code == 200:
-            print("メッセージが正常に送信されました。")
+            logger.info("LINEメッセージが正常に送信されました")
         else:
             error_msg = f"LINE APIエラー: ステータスコード={response.status_code}"
             if response.text:
                 try:
                     error_detail = json.loads(response.text)
                     error_msg += f", エラー詳細={error_detail}"
-                except:
+                except (json.JSONDecodeError, ValueError):
                     error_msg += f", レスポンス={response.text}"
             raise Exception(error_msg)
 
