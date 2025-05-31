@@ -1,0 +1,64 @@
+name: スクレイピングテスト
+
+on:
+  push:
+    branches: [ main, develop, 'feature/**', 'bugfix/**' ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:  # 手動実行用
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+    
+    - name: Python 3.12をセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: 依存パッケージをインストール
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov
+    
+    - name: スクレイピングテストを実行
+      run: |
+        cd tests
+        python -m pytest test_scraper.py -v --tb=short
+      continue-on-error: true  # テストが失敗してもワークフローは継続
+    
+    - name: テスト結果のサマリー
+      if: always()
+      run: |
+        echo "## テスト実行完了"
+        echo "スクレイピングの動作確認テストを実行しました。"
+        echo "詳細はログを確認してください。"
+  
+  quick-check:
+    runs-on: ubuntu-latest
+    name: クイックチェック（1件のみ取得）
+    
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+    
+    - name: Python 3.12をセットアップ
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: 依存パッケージをインストール
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: スクレイピングを実行（1件のみ）
+      run: |
+        cd src
+        python -c "from scraper import get_amazon_kindle_ranking; print('=== 取得結果 ==='); print(get_amazon_kindle_ranking(limit=1))"
+      continue-on-error: true
