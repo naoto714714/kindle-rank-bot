@@ -33,9 +33,20 @@ def get_amazon_kindle_ranking(limit=10):
 
         # 評価と評価数を取得
         rating_row = item.find("div", {"class": "a-icon-row"})
-        rating_title = rating_row.find("a").get("title")
-        rating = re.search(r"5つ星のうち([0-9.]+)、([0-9,]+)件", rating_title)
-
+        if not rating_row:
+            continue
+        
+        rating_link = rating_row.find("a")
+        if not rating_link:
+            continue
+        
+        # aria-label属性から評価情報を取得
+        aria_label = rating_link.get("aria-label")
+        if not aria_label:
+            continue
+        
+        rating = re.search(r"5つ星のうち([0-9.]+)、([0-9,]+)件", aria_label)
+        
         value = item.find("span", {"class": "_cDEzb_p13n-sc-price_3mJ9Z"})
         value = value.get_text(strip=True) if value else "価格不明"
 
@@ -43,11 +54,20 @@ def get_amazon_kindle_ranking(limit=10):
         id = url_div["id"] if url_div else None
 
         # 順位とタイトル、評価、URLを追加
-        result_text += (
-            f"{i}位|{title}\n"
-            f"⭐️{rating.group(1)}({rating.group(2)}件)\n"
-            f"{value}\n"
-            f"https://www.amazon.co.jp/dp/{id}\n\n"
-        )
+        if rating:
+            result_text += (
+                f"{i}位|{title}\n"
+                f"⭐️{rating.group(1)}({rating.group(2)}件)\n"
+                f"{value}\n"
+                f"https://www.amazon.co.jp/dp/{id}\n\n"
+            )
+        else:
+            # 評価がない場合
+            result_text += (
+                f"{i}位|{title}\n"
+                f"評価なし\n"
+                f"{value}\n"
+                f"https://www.amazon.co.jp/dp/{id}\n\n"
+            )
 
     return result_text.strip()
