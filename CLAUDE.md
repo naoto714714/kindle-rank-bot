@@ -15,6 +15,9 @@ pip install -r requirements.txt
 # Run the bot locally (requires environment variables)
 cd src
 python main.py
+
+# Format code with ruff
+ruff format .
 ```
 
 ### Testing
@@ -95,3 +98,4 @@ This project follows strict Git workflow practices defined in `rules/git.mdc`:
 - Never edit files directly on the main branch
 - Always check `rules/requirements-definition.mdc` for system requirements
 - The bot is scheduled to run at 12:00 JST
+- Always run `ruff format .` after making code changes to ensure consistent formatting

@@ -1,0 +1,22 @@
+target-version = "py312"
+line-length = 120
+indent-width = 4
+cache-dir = "/tmp/.cache/ruff"
+
+exclude = ["**/versions/", "**/.venv/"]
+
+[lint]
+select = ["F", "E", "W", "I", "B", "Q"]
+ignore = []
+
+[format]
+# Like Black, use double quotes for strings.
+quote-style = "double"
+
+# Like Black, indent with spaces, rather than tabs.
+indent-style = "space"
+
+# Ignore settings
+[lint.per-file-ignores]
+"__init__.py" = ["E402"]  # import violations
+"*/settings/*.py" = ["E501"]  # Line too long
