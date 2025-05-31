@@ -24,8 +24,8 @@ jobs:
         version: "latest"
         enable-cache: true
 
-    - name: Python 3.12をセットアップ
-      run: uv python install 3.12
+    - name: Python 3.13をセットアップ
+      run: uv python install 3.13
 
     - name: 依存パッケージをインストール
       run: uv sync

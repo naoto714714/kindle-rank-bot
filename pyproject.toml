@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "Kindle売れ筋ランキング通知Bot - A Python bot that scrapes Amazon's Kindle bestseller rankings and sends daily notifications via LINE"
 readme = "README.md"
 license = { text = "MIT" }
-requires-python = ">=3.9"
+requires-python = ">=3.13"
 authors = [
     { name = "naoto714714", email = "naoto714714@users.noreply.github.com" }
 ]
@@ -13,10 +13,6 @@ classifiers = [
     "Intended Audience :: End Users/Desktop",
     "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.9",
-    "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
 ]
 
@@ -39,7 +35,7 @@ dev-dependencies = [
 ]
 
 [tool.ruff]
-target-version = "py39"
+target-version = "py313"
 line-length = 120
 src = ["src", "tests"]
 
