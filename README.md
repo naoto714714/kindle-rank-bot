@@ -122,7 +122,7 @@ uv run python src/main.py
 プッシュまたはプルリクエスト時に自動的にテストが実行されます。
 手動でテストを実行したい場合は、GitHubのActionsタブから「スクレイピングテスト」ワークフローを手動実行できます。
 
-### テスト内容
+#### テスト内容
 
 1. **基本的なスクレイピングテスト**: 実際にAmazonから3件のデータを取得
 2. **limitパラメータテスト**: 指定した件数が正しく取得できるか確認
@@ -130,3 +130,26 @@ uv run python src/main.py
 4. **リトライ機能テスト**: エラー時のリトライが正しく動作するか確認
 5. **エラーハンドリングテスト**: エラー時に適切なメッセージが表示されるか確認
 6. **パフォーマンステスト**: 処理時間が適切な範囲内か確認
+7. **履歴管理機能テスト**: ランキング履歴の保存・読み込み・変化分析のテスト
+
+## プロジェクト構成
+
+```
+kindle-rank-bot/
+├── src/
+│   ├── main.py              # メインエントリーポイント
+│   ├── scraper.py           # Amazonスクレイピング機能
+│   ├── notifier.py          # LINE通知機能
+│   ├── summarizer.py        # Gemini要約機能
+│   ├── history_manager.py   # ランキング履歴管理
+│   └── config.py            # 設定管理
+├── tests/
+│   ├── test_scraper.py      # スクレイピングのテスト
+│   └── test_history_manager.py # 履歴管理のテスト
+├── .github/workflows/
+│   ├── daily-ranking.yml    # 毎日12時の定期実行
+│   └── test.yml             # テスト自動実行
+├── pyproject.toml           # プロジェクト設定
+├── uv.lock                  # 依存関係ロックファイル
+└── ranking_history.json     # ランキング履歴（自動生成）
+```
