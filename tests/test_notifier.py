@@ -19,7 +19,7 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         mock_response = Mock()
         mock_response.status_code = 204
         mock_post.return_value = mock_response
@@ -33,7 +33,7 @@ class TestNotifier(unittest.TestCase):
             "https://discord.com/api/webhooks/test",
             headers={"Content-Type": "application/json"},
             data=json.dumps({"content": test_message}),
-            timeout=10
+            timeout=10,
         )
 
     @patch("src.notifier.requests.post")
@@ -43,7 +43,7 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         mock_response = Mock()
         mock_response.status_code = 400
         mock_response.text = "Bad Request"
@@ -64,8 +64,9 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         import requests
+
         mock_post.side_effect = requests.exceptions.ConnectionError("接続失敗")
 
         # テスト実行とアサーション
@@ -82,8 +83,9 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         import requests
+
         mock_post.side_effect = requests.exceptions.Timeout("タイムアウト")
 
         # テスト実行とアサーション
