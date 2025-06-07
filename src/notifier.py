@@ -8,34 +8,29 @@ from config import config
 logger = logging.getLogger(__name__)
 
 
-def send_line_message(message: str) -> None:
-    # ヘッダーにアクセストークンを設定
+def send_discord_message(message: str) -> None:
+    # ヘッダーを設定
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {config.line_channel_access_token}",
     }
 
-    # 送信するデータ（メッセージ内容と送信先ID）
-    payload = {"to": config.line_user_id, "messages": [{"type": "text", "text": message}]}
+    # 送信するデータ（メッセージ内容）
+    payload = {"content": message}
 
     try:
         # POSTリクエストを送信
         response = requests.post(
-            config.line_api_url, headers=headers, data=json.dumps(payload), timeout=config.request_timeout
+            config.discord_webhook_url, headers=headers, data=json.dumps(payload), timeout=config.request_timeout
         )
 
         # 結果を表示
-        if response.status_code == 200:
-            logger.info("LINEメッセージが正常に送信されました")
+        if response.status_code == 204:
+            logger.info("Discordメッセージが正常に送信されました")
         else:
-            error_msg = f"LINE APIエラー: ステータスコード={response.status_code}"
+            error_msg = f"Discord WebHook APIエラー: ステータスコード={response.status_code}"
             if response.text:
-                try:
-                    error_detail = json.loads(response.text)
-                    error_msg += f", エラー詳細={error_detail}"
-                except (json.JSONDecodeError, ValueError):
-                    error_msg += f", レスポンス={response.text}"
+                error_msg += f", レスポンス={response.text}"
             raise Exception(error_msg)
 
     except requests.exceptions.RequestException as e:
-        raise Exception(f"LINE APIへの接続エラー: {str(e)}")
+        raise Exception(f"Discord WebHook APIへの接続エラー: {str(e)}")

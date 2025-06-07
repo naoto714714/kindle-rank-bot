@@ -7,7 +7,7 @@ from history_manager import (
     analyze_ranking_changes,
     get_previous_rankings,
 )
-from notifier import send_line_message
+from notifier import send_discord_message
 from scraper import get_amazon_kindle_ranking_with_data
 from summarizer import (
     format_message_with_summary,
@@ -67,9 +67,9 @@ def main():
         final_message = format_message_with_summary(ranking_text, summary)
         logger.info(f"最終メッセージ作成完了: {len(final_message)}文字")
 
-        # LINEに送信
-        logger.info("LINEへの送信を開始します...")
-        send_line_message(final_message)
+        # Discordに送信
+        logger.info("Discordへの送信を開始します...")
+        send_discord_message(final_message)
         logger.info("処理が正常に完了しました")
 
     except Exception as e:
