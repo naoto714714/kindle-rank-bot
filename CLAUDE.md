@@ -2,6 +2,50 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## タスクを進めるとき、厳守するルール
+
+### 🚨 最重要: Gitコミットルール（必ず守ること）
+1. **必ず細かい単位でgit commitしながらタスクを進めること**
+   - 1つの論理的な変更 = 1コミット
+   - 複数のファイルを編集しても、同じ目的なら1コミットでOK
+   - 異なる目的の変更は必ず別コミットに分ける
+
+2. **異なる種類の作業を1つのコミットに混ぜない**
+   - ❌ 機能追加(feat)とリファクタリング(refactor)を同時にコミット
+   - ❌ バグ修正(fix)とテスト追加(test)を同時にコミット
+   - ✅ 各作業を別々にコミット
+
+3. **コミットメッセージの形式を厳守**
+   - 形式: `prefix: 日本語で説明`
+   - prefixの種類:
+     - `feat`: 新機能追加
+     - `fix`: バグ修正
+     - `refactor`: リファクタリング
+     - `test`: テストの追加・修正
+     - `docs`: ドキュメントの変更
+     - `style`: コードフォーマットなど
+     - `chore`: その他の変更
+
+4. **コミット前の確認事項**
+   - 関連するテストを実行して動作確認
+   - 1つの論理的な変更単位になっているか確認
+   - コミットメッセージが適切か確認
+
+### その他の開発ルール
+- 待機状態に戻る前に `afplay /Users/kimuranaoto/Music/notice.mp3` を必ず実行しなさい
+- コードに変更を加えた場合は、毎回ruffでフォーマットしなさい
+- テストを実行するときは、uvを使い、仮想環境で実行しなさい
+- CLAUDE.mdを適宜修正して、最新の情報を常に取得できるようにしなさい
+- mainブランチでは作業せず、別のブランチで作業しなさい
+- 特別な指示がない場合、リモートにgit pushする直前(一通りgit commitし終える)まで作業しなさい
+
+## プルリクエストにレビューするときの情報
+- 現在出ているプルリクエストの内容を確認してください
+- 以下のファイルを熟読し、則りながらレビューしてください
+  - レビューするときのガイドライン: `prompt/code_review_guide.md`
+  - レビューするときの人格: `prompt/reviewer_personality.md`
+- レビューが完了したら、プルリクエストに日本語でコメントとして投稿してください
+
 ## Project Overview
 Kindle売れ筋ランキング通知Bot - A Python bot that scrapes Amazon's Kindle bestseller rankings and sends daily notifications via LINE. The bot runs automatically every day at 12:00 JST using GitHub Actions.
 
