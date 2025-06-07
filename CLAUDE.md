@@ -47,7 +47,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - レビューが完了したら、プルリクエストに日本語でコメントとして投稿してください
 
 ## Project Overview
-Kindle売れ筋ランキング通知Bot - A Python bot that scrapes Amazon's Kindle bestseller rankings and sends daily notifications via LINE. The bot runs automatically every day at 12:00 JST using GitHub Actions.
+Kindle売れ筋ランキング通知Bot - A Python bot that scrapes Amazon's Kindle bestseller rankings and sends daily notifications via Discord WebHook. The bot runs automatically every day at 12:00 JST using GitHub Actions.
 
 ## Common Commands
 
@@ -99,8 +99,7 @@ python run_tests.py --quick
 
 ### Environment Variables
 Required for local development:
-- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging APIのアクセストークン
-- `LINE_USER_ID`: 送信先のLINEユーザーID
+- `DISCORD_WEBHOOK_URL`: Discord WebHookのURL
 
 Optional:
 - `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
@@ -120,7 +119,7 @@ Optional:
    - Extracts title, rating, review count, price, and product URL
    - Retry mechanism with exponential backoff (max 3 attempts)
    - Handles missing data gracefully (ratings, prices, URLs)
-3. **src/notifier.py**: Sends messages via LINE Messaging API
+3. **src/notifier.py**: Sends messages via Discord WebHook API
    - Environment variable validation
    - Detailed error messages for API failures
 4. **src/summarizer.py**: Gemini API integration for AI-powered summaries

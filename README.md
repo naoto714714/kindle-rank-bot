@@ -1,13 +1,13 @@
 # Kindle売れ筋ランキング通知Bot
 
 ## 概要
-Amazonの「Kindle電子書籍売れ筋ランキング」の上位10タイトルを毎日スクレイピングし、LINEで通知するbotです。
+Amazonの「Kindle電子書籍売れ筋ランキング」の上位10タイトルを毎日スクレイピングし、Discord WebHookで通知するbotです。
 GitHub Actionsを使用して、毎日正午12時（日本時間）に自動実行されます。
 
 ## 機能
 - Amazonの「Kindle本の売れ筋ランキング」から上位10タイトルをスクレイピング
   - https://www.amazon.co.jp/gp/bestsellers/digital-text/2275256051
-- スクレイピングしたデータをLINE Messaging APIを使ってLINEに通知
+- スクレイピングしたデータをDiscord WebHookを使ってDiscordに通知
 - GitHub Actionsによる定期実行（毎日正午12時）
 - **Gemini APIによるランキング変化の要約機能**
   - 前回のランキングと比較して変化を分析
@@ -44,15 +44,14 @@ https://www.amazon.co.jp/dp/XXXXXXXXXX
 - Python 3.13+
 - [uv](https://github.com/astral-sh/uv) (Fast Python package manager)
 - BeautifulSoup4（スクレイピング）
-- LINE Messaging API（通知）
+- Discord WebHook API（通知）
 - GitHub Actions（定期実行）
 
 ## 環境変数
 GitHub Secretsまたはローカルの.envファイルに以下の環境変数を設定してください：
 
 ### 必須
-- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging APIのアクセストークン
-- `LINE_USER_ID`: 送信先のLINEユーザーID
+- `DISCORD_WEBHOOK_URL`: Discord WebHookのURL
 
 ### オプション
 - `KINDLE_RANKING_LIMIT`: 取得するランキング件数（デフォルト: 10）
@@ -110,8 +109,7 @@ uv run python run_tests.py -a
 
 ```bash
 # 環境変数を設定してから実行
-export LINE_CHANNEL_ACCESS_TOKEN="your_token"
-export LINE_USER_ID="your_user_id"
+export DISCORD_WEBHOOK_URL="your_webhook_url"
 export GEMINI_API_KEY="your_api_key"  # オプション
 
 uv run python src/main.py
@@ -139,7 +137,7 @@ kindle-rank-bot/
 ├── src/
 │   ├── main.py              # メインエントリーポイント
 │   ├── scraper.py           # Amazonスクレイピング機能
-│   ├── notifier.py          # LINE通知機能
+│   ├── notifier.py          # Discord WebHook通知機能
 │   ├── summarizer.py        # Gemini要約機能
 │   ├── history_manager.py   # ランキング履歴管理
 │   └── config.py            # 設定管理
