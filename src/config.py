@@ -18,10 +18,8 @@ class Config:
     request_timeout: int = 10
     max_retries: int = 3
 
-    # LINE API 設定
-    line_api_url: str = "https://api.line.me/v2/bot/message/push"
-    line_channel_access_token: str = ""
-    line_user_id: str = ""
+    # Discord WebHook 設定
+    discord_webhook_url: str = ""
 
     # Gemini API 設定
     gemini_api_key: str = ""
@@ -37,8 +35,7 @@ class Config:
         """環境変数から設定を読み込む"""
         return cls(
             kindle_ranking_limit=int(os.getenv("KINDLE_RANKING_LIMIT", "10")),
-            line_channel_access_token=os.getenv("LINE_CHANNEL_ACCESS_TOKEN", ""),
-            line_user_id=os.getenv("LINE_USER_ID", ""),
+            discord_webhook_url=os.getenv("DISCORD_WEBHOOK_URL", ""),
             gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
             enable_gemini_summary=os.getenv("ENABLE_GEMINI_SUMMARY", "true").lower() == "true",
             log_level=os.getenv("LOG_LEVEL", "INFO"),
@@ -46,10 +43,8 @@ class Config:
 
     def validate(self) -> None:
         """設定の妥当性を検証"""
-        if not self.line_channel_access_token:
-            raise ValueError("環境変数 LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
-        if not self.line_user_id:
-            raise ValueError("環境変数 LINE_USER_ID が設定されていません")
+        if not self.discord_webhook_url:
+            raise ValueError("環境変数 DISCORD_WEBHOOK_URL が設定されていません")
         if self.kindle_ranking_limit <= 0:
             raise ValueError("KINDLE_RANKING_LIMIT は1以上である必要があります")
         if self.enable_gemini_summary and not self.gemini_api_key:
