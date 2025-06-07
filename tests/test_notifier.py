@@ -3,17 +3,22 @@ Discord WebHook通知機能のテスト
 """
 
 import json
+import os
+import sys
 import unittest
 from unittest.mock import Mock, patch
 
-from src.notifier import send_discord_message
+# srcディレクトリをパスに追加
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), "src"))
+
+from notifier import send_discord_message
 
 
 class TestNotifier(unittest.TestCase):
     """Discord WebHook通知機能のテストクラス"""
 
-    @patch("src.notifier.requests.post")
-    @patch("src.notifier.config")
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
     def test_send_discord_message_success(self, mock_config, mock_post):
         """Discord WebHookメッセージ送信成功のテスト"""
         # モック設定
@@ -36,8 +41,8 @@ class TestNotifier(unittest.TestCase):
             timeout=10,
         )
 
-    @patch("src.notifier.requests.post")
-    @patch("src.notifier.config")
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
     def test_send_discord_message_api_error(self, mock_config, mock_post):
         """Discord WebHook APIエラーのテスト"""
         # モック設定
@@ -57,8 +62,8 @@ class TestNotifier(unittest.TestCase):
         self.assertIn("ステータスコード=400", str(context.exception))
         self.assertIn("Bad Request", str(context.exception))
 
-    @patch("src.notifier.requests.post")
-    @patch("src.notifier.config")
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
     def test_send_discord_message_connection_error(self, mock_config, mock_post):
         """Discord WebHook接続エラーのテスト"""
         # モック設定
@@ -76,8 +81,8 @@ class TestNotifier(unittest.TestCase):
         self.assertIn("Discord WebHook APIへの接続エラー", str(context.exception))
         self.assertIn("接続失敗", str(context.exception))
 
-    @patch("src.notifier.requests.post")
-    @patch("src.notifier.config")
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
     def test_send_discord_message_timeout(self, mock_config, mock_post):
         """Discord WebHookタイムアウトのテスト"""
         # モック設定
