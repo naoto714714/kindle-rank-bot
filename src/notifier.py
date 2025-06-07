@@ -24,7 +24,7 @@ def send_discord_message(message: str) -> None:
         )
 
         # 結果を表示
-        if response.status_code == 204:
+        if response.status_code in (200, 204):
             logger.info("Discordメッセージが正常に送信されました")
         else:
             error_msg = f"Discord WebHook APIエラー: ステータスコード={response.status_code}"

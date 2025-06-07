@@ -19,14 +19,38 @@ class TestNotifier(unittest.TestCase):
 
     @patch("notifier.requests.post")
     @patch("notifier.config")
-    def test_send_discord_message_success(self, mock_config, mock_post):
-        """Discord WebHookメッセージ送信成功のテスト"""
+    def test_send_discord_message_success_204(self, mock_config, mock_post):
+        """Discord WebHookメッセージ送信成功のテスト（ステータスコード204）"""
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
 
         mock_response = Mock()
         mock_response.status_code = 204
+        mock_post.return_value = mock_response
+
+        # テスト実行
+        test_message = "テストメッセージ"
+        send_discord_message(test_message)
+
+        # アサーション
+        mock_post.assert_called_once_with(
+            "https://discord.com/api/webhooks/test",
+            headers={"Content-Type": "application/json"},
+            data=json.dumps({"content": test_message}),
+            timeout=10,
+        )
+
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
+    def test_send_discord_message_success_200(self, mock_config, mock_post):
+        """Discord WebHookメッセージ送信成功のテスト（ステータスコード200）"""
+        # モック設定
+        mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
+        mock_config.request_timeout = 10
+
+        mock_response = Mock()
+        mock_response.status_code = 200
         mock_post.return_value = mock_response
 
         # テスト実行
