@@ -26,6 +26,7 @@ class Config:
     gemini_api_key: str = ""
     gemini_model: str = "gemini-2.5-flash-preview-05-20"
     enable_gemini_summary: bool = True
+    gemini_summary_ranking_limit: int = 5
 
     # ログ設定
     log_level: str = "INFO"
