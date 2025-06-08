@@ -15,12 +15,28 @@ logger = logging.getLogger(__name__)
 
 # Gemini API用のシステム指示（変化分析用）
 SYSTEM_INSTRUCTION_CHANGES = """
-Kindleランキングの変化を3-4行以内で簡潔に報告してください。新作、順位変動、トレンドに注目し、絵文字を使って分かりやすく。
+あなたはKindle電子書籍の売れ筋ランキング分析の専門家です。
+前回と今回のランキングを比較して、重要な変化を3-4行で報告してください。
+
+注目ポイント：
+- 新規ランクイン作品とその特徴
+- 大幅な順位変動（3位以上の変化）
+- ジャンルやテーマの変化傾向
+
+絵文字を使って読みやすく、ユーザーが興味を持てる分析を心がけてください。
 """
 
 # Gemini API用のシステム指示（初回分析用）
 SYSTEM_INSTRUCTION_FIRST = """
-Kindleランキングの特徴を3-4行以内で簡潔に報告してください。ジャンル、傾向、注目作品に注目し、絵文字を使って分かりやすく。
+あなたはKindle電子書籍の売れ筋ランキング分析の専門家です。
+今回のランキングの特徴を3-4行で分析してください。
+
+注目ポイント：
+- 上位作品の傾向とジャンル分布
+- 高評価作品や話題作の存在
+- 読者に役立つトレンド情報
+
+絵文字を使って読みやすく、ユーザーが本選びの参考にできる分析を心がけてください。
 """
 
 # プロンプトテンプレート（変化分析用）
@@ -36,7 +52,7 @@ PROMPT_TEMPLATE_CHANGES = """
 
 # プロンプトテンプレート（初回分析用）
 PROMPT_TEMPLATE_FIRST = """
-Kindleランキング上位5位までの傾向を分析:
+Kindleランキング上位の傾向を分析:
 {ranking_text}
 """
 
@@ -167,20 +183,20 @@ def generate_first_ranking_summary(ranking_text: str) -> Optional[str]:
     try:
         logger.info("Gemini APIを使用して初回要約を生成中...")
 
-        # ランキングテキストを上位5位に制限
+        # ランキングテキストを指定された位数に制限
         lines = ranking_text.split("\n")
-        top5_lines = []
+        limited_lines = []
         count = 0
         for line in lines:
             if line.strip() and ("位|" in line):
                 count += 1
-                if count > 5:
+                if count > config.gemini_summary_ranking_limit:
                     break
-            top5_lines.append(line)
-        top5_text = "\n".join(top5_lines)
+            limited_lines.append(line)
+        limited_text = "\n".join(limited_lines)
 
         # プロンプトを作成
-        prompt = PROMPT_TEMPLATE_FIRST.format(ranking_text=top5_text)
+        prompt = PROMPT_TEMPLATE_FIRST.format(ranking_text=limited_text)
 
         # API呼び出し
         summary = _call_gemini_api(prompt, SYSTEM_INSTRUCTION_FIRST)
