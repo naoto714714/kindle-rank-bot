@@ -131,15 +131,15 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         # メインメッセージのレスポンス
         main_response = Mock()
         main_response.status_code = 200
-        
+
         # ランキングメッセージのレスポンス
         ranking_response = Mock()
         ranking_response.status_code = 200
-        
+
         # リクエストの順番に応じてレスポンスを返す
         mock_post.side_effect = [main_response, ranking_response]
 
@@ -150,13 +150,13 @@ class TestNotifier(unittest.TestCase):
 
         # アサーション - 2回のリクエストが送信されたことを確認
         self.assertEqual(mock_post.call_count, 2)
-        
+
         # 1回目（メインメッセージ）の呼び出しを確認
         first_call = mock_post.call_args_list[0]
         self.assertEqual(first_call[0][0], "https://discord.com/api/webhooks/test")
         first_payload = json.loads(first_call[1]["data"])
         self.assertEqual(first_payload["content"], test_summary)
-        
+
         # 2回目（ランキング）の呼び出しを確認
         second_call = mock_post.call_args_list[1]
         self.assertEqual(second_call[0][0], "https://discord.com/api/webhooks/test")
@@ -171,7 +171,7 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         # メインメッセージでエラー
         main_response = Mock()
         main_response.status_code = 400
@@ -192,15 +192,15 @@ class TestNotifier(unittest.TestCase):
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
-        
+
         # メインメッセージのレスポンス
         main_response = Mock()
         main_response.status_code = 200
-        
+
         # ランキングメッセージのレスポンス
         ranking_response = Mock()
         ranking_response.status_code = 200
-        
+
         mock_post.side_effect = [main_response, ranking_response]
 
         # テスト実行（要約なし）
