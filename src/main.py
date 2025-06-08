@@ -75,8 +75,14 @@ def main():
         logger.info("メインチャンネルへの要約送信完了")
 
         # スレッドにランキング詳細を送信
-        send_thread_message(ranking_text)
-        logger.info("スレッドへのランキング送信完了")
+        logger.info(f"設定されたスレッドID: {config.discord_thread_id}")
+        try:
+            send_thread_message(ranking_text)
+            logger.info("スレッドへのランキング送信完了")
+        except Exception as e:
+            logger.warning(f"スレッドへの送信に失敗しました: {e}")
+            logger.info("メインチャンネルにランキングも送信します")
+            send_main_message(f"**ランキング詳細**\n\n{ranking_text}")
 
         logger.info("処理が正常に完了しました")
 
