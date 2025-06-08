@@ -15,20 +15,12 @@ logger = logging.getLogger(__name__)
 
 # Gemini API用のシステム指示（変化分析用）
 SYSTEM_INSTRUCTION_CHANGES = """
-あなたはKindle電子書籍の売れ筋ランキング分析の専門家です。
-前回と今回のランキングを比較して、重要な変化を2-3文で簡潔に報告してください。
-
-以下の点に注目してください：
-- 新たにランクインした注目作品
-- 大きく順位が変動した作品
-- ランキングのトレンドの変化
-
-絵文字を使って分かりやすく、重要な変化のみを報告してください。
+Kindleランキングの変化を3-4行以内で簡潔に報告してください。新作、順位変動、トレンドに注目し、絵文字を使って分かりやすく。
 """
 
 # Gemini API用のシステム指示（初回分析用）
 SYSTEM_INSTRUCTION_FIRST = """
-Kindleランキングの特徴を1-2文で簡潔に報告してください。絵文字を使って分かりやすく。
+Kindleランキングの特徴を3-4行以内で簡潔に報告してください。ジャンル、傾向、注目作品に注目し、絵文字を使って分かりやすく。
 """
 
 # プロンプトテンプレート（変化分析用）
@@ -69,7 +61,7 @@ def _call_gemini_api(prompt: str, system_instruction: str) -> str:
     response = client.models.generate_content(
         model=config.gemini_model,
         config=types.GenerateContentConfig(
-            system_instruction=system_instruction, temperature=0.7, max_output_tokens=200
+            system_instruction=system_instruction, temperature=0.7, max_output_tokens=2000
         ),
         contents=prompt,
     )
