@@ -23,7 +23,7 @@ class Config:
 
     # Gemini API 設定
     gemini_api_key: str = ""
-    gemini_model: str = "gemini-2.0-flash"
+    gemini_model: str = "gemini-2.5-flash-preview-05-20"
     enable_gemini_summary: bool = True
 
     # ログ設定
