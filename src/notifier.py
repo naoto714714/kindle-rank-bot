@@ -47,5 +47,4 @@ def send_main_message(message: str) -> None:
 
 def send_thread_message(message: str) -> None:
     """指定されたスレッドにメッセージを送信"""
-    thread_id = "1381051518266118195"
-    send_discord_message(message, thread_id)
+    send_discord_message(message, config.discord_thread_id)
