@@ -217,3 +217,19 @@ def format_message_with_summary(ranking_text: str, summary: Optional[str] = None
         return f"{summary}\n\n---\n\n{ranking_text}"
     else:
         return ranking_text
+
+
+def format_summary_only_message(summary: Optional[str] = None) -> str:
+    """
+    要約のみのメッセージを作成
+
+    Args:
+        summary: Gemini生成の要約（Noneの場合はデフォルトメッセージ）
+
+    Returns:
+        要約メッセージテキスト
+    """
+    if summary:
+        return f"📚 **今日のKindleランキング分析**\n\n{summary}\n\n詳細なランキングはスレッドをご確認ください ⬇️"
+    else:
+        return "📚 **今日のKindleランキング**\n\n詳細なランキングはスレッドをご確認ください ⬇️"
