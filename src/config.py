@@ -20,7 +20,7 @@ class Config:
 
     # Discord WebHook 設定
     discord_webhook_url: str = ""
-    discord_thread_id: str = ""
+    discord_thread_id: str | None = None
 
     # Gemini API 設定
     gemini_api_key: str = ""
@@ -37,7 +37,7 @@ class Config:
         return cls(
             kindle_ranking_limit=int(os.getenv("KINDLE_RANKING_LIMIT", "10")),
             discord_webhook_url=os.getenv("DISCORD_WEBHOOK_URL", ""),
-            discord_thread_id=os.getenv("DISCORD_THREAD_ID", "1381242925043810345"),
+            discord_thread_id=os.getenv("DISCORD_THREAD_ID"),
             gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
             enable_gemini_summary=os.getenv("ENABLE_GEMINI_SUMMARY", "true").lower() == "true",
             log_level=os.getenv("LOG_LEVEL", "INFO"),
