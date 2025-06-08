@@ -7,10 +7,10 @@ from history_manager import (
     analyze_ranking_changes,
     get_previous_rankings,
 )
-from notifier import send_discord_message
+from notifier import send_main_message, send_thread_message
 from scraper import get_amazon_kindle_ranking_with_data
 from summarizer import (
-    format_message_with_summary,
+    format_summary_only_message,
     generate_first_ranking_summary,
     generate_ranking_changes_summary,
 )
@@ -63,13 +63,21 @@ def main():
         add_ranking_to_history(ranking_data)
         logger.info("ランキングデータを履歴に保存しました")
 
-        # ランキングと要約を組み合わせて最終メッセージを作成
-        final_message = format_message_with_summary(ranking_text, summary)
-        logger.info(f"最終メッセージ作成完了: {len(final_message)}文字")
+        # メインメッセージ（要約のみ）を作成
+        main_message = format_summary_only_message(summary)
+        logger.info(f"メインメッセージ作成完了: {len(main_message)}文字")
 
         # Discordに送信
         logger.info("Discordへの送信を開始します...")
-        send_discord_message(final_message)
+
+        # メインチャンネルに要約を送信
+        send_main_message(main_message)
+        logger.info("メインチャンネルへの要約送信完了")
+
+        # スレッドにランキング詳細を送信
+        send_thread_message(ranking_text)
+        logger.info("スレッドへのランキング送信完了")
+
         logger.info("処理が正常に完了しました")
 
     except Exception as e:
