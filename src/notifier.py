@@ -1,5 +1,6 @@
 import json
 import logging
+from typing import Optional
 
 import requests
 
@@ -8,7 +9,7 @@ from config import config
 logger = logging.getLogger(__name__)
 
 
-def send_discord_message(message: str, thread_id: str = None) -> None:
+def send_discord_message(message: str, thread_id: Optional[str] = None) -> None:
     # ヘッダーを設定
     headers = {
         "Content-Type": "application/json",
@@ -47,4 +48,6 @@ def send_main_message(message: str) -> None:
 
 def send_thread_message(message: str) -> None:
     """指定されたスレッドにメッセージを送信"""
+    if not config.discord_thread_id:
+        raise ValueError("DISCORD_THREAD_IDが設定されていません")
     send_discord_message(message, config.discord_thread_id)
