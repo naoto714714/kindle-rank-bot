@@ -66,32 +66,47 @@ def _call_gemini_api(prompt: str, system_instruction: str) -> str:
         contents=prompt,
     )
 
-    # テキスト取得の試行
-    text_content = None
+    text_content = _extract_text_from_response(response)
+
+    if not text_content:
+        logger.error("Gemini APIからテキストを取得できませんでした")
+        raise ValueError("Gemini APIからの応答が空です")
+
+    return text_content
+
+
+def _extract_text_from_response(response) -> str | None:
+    """
+    Gemini APIレスポンスからテキストを抽出
+
+    Args:
+        response: Gemini APIのレスポンス
+
+    Returns:
+        抽出されたテキスト（取得できない場合はNone）
+    """
+    # 直接textプロパティから取得を試行
     if response.text:
-        text_content = response.text.strip()
-    elif hasattr(response, "candidates") and response.candidates:
+        return response.text.strip()
+
+    # candidatesからテキストを抽出
+    if hasattr(response, "candidates") and response.candidates:
         candidate = response.candidates[0]
+
+        # デバッグ情報をログ出力
+        if hasattr(candidate, "finish_reason"):
+            logger.debug(f"finish_reason: {candidate.finish_reason}")
+
         if candidate.content and candidate.content.parts:
-            # パーツからテキストを直接取得
             text_parts = []
             for part in candidate.content.parts:
                 if hasattr(part, "text") and part.text:
                     text_parts.append(part.text)
+
             if text_parts:
-                text_content = "".join(text_parts).strip()
+                return "".join(text_parts).strip()
 
-    if not text_content:
-        logger.error("Gemini APIからテキストを取得できませんでした")
-        if hasattr(response, "candidates") and response.candidates:
-            candidate = response.candidates[0]
-            logger.error(f"finish_reason: {candidate.finish_reason}")
-            logger.error(f"content: {candidate.content}")
-            if candidate.content and candidate.content.parts:
-                logger.error(f"parts: {candidate.content.parts}")
-        raise ValueError("Gemini APIからの応答が空です")
-
-    return text_content
+    return None
 
 
 def generate_ranking_changes_summary(changes_analysis: dict, current_ranking_text: str) -> Optional[str]:
