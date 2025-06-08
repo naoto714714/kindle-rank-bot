@@ -28,15 +28,7 @@ SYSTEM_INSTRUCTION_CHANGES = """
 
 # Gemini API用のシステム指示（初回分析用）
 SYSTEM_INSTRUCTION_FIRST = """
-あなたはKindle電子書籍の売れ筋ランキング分析の専門家です。
-今回のランキングの特徴を2-3文で簡潔に報告してください。
-
-以下の点に注目してください：
-- 上位作品の傾向
-- 人気ジャンル
-- 高評価作品
-
-絵文字を使って分かりやすく報告してください。
+Kindleランキングの特徴を1-2文で簡潔に報告してください。絵文字を使って分かりやすく。
 """
 
 # プロンプトテンプレート（変化分析用）
@@ -52,9 +44,7 @@ PROMPT_TEMPLATE_CHANGES = """
 
 # プロンプトテンプレート（初回分析用）
 PROMPT_TEMPLATE_FIRST = """
-今回のKindleランキングを分析してください。
-
-【ランキング】
+Kindleランキング上位5位までの傾向を分析:
 {ranking_text}
 """
 
@@ -79,15 +69,37 @@ def _call_gemini_api(prompt: str, system_instruction: str) -> str:
     response = client.models.generate_content(
         model=config.gemini_model,
         config=types.GenerateContentConfig(
-            system_instruction=system_instruction, temperature=0.7, max_output_tokens=500
+            system_instruction=system_instruction, temperature=0.7, max_output_tokens=200
         ),
         contents=prompt,
     )
 
-    if not response.text:
+    # テキスト取得の試行
+    text_content = None
+    if response.text:
+        text_content = response.text.strip()
+    elif hasattr(response, "candidates") and response.candidates:
+        candidate = response.candidates[0]
+        if candidate.content and candidate.content.parts:
+            # パーツからテキストを直接取得
+            text_parts = []
+            for part in candidate.content.parts:
+                if hasattr(part, "text") and part.text:
+                    text_parts.append(part.text)
+            if text_parts:
+                text_content = "".join(text_parts).strip()
+
+    if not text_content:
+        logger.error("Gemini APIからテキストを取得できませんでした")
+        if hasattr(response, "candidates") and response.candidates:
+            candidate = response.candidates[0]
+            logger.error(f"finish_reason: {candidate.finish_reason}")
+            logger.error(f"content: {candidate.content}")
+            if candidate.content and candidate.content.parts:
+                logger.error(f"parts: {candidate.content.parts}")
         raise ValueError("Gemini APIからの応答が空です")
 
-    return response.text.strip()
+    return text_content
 
 
 def generate_ranking_changes_summary(changes_analysis: dict, current_ranking_text: str) -> Optional[str]:
@@ -148,8 +160,20 @@ def generate_first_ranking_summary(ranking_text: str) -> Optional[str]:
     try:
         logger.info("Gemini APIを使用して初回要約を生成中...")
 
+        # ランキングテキストを上位5位に制限
+        lines = ranking_text.split("\n")
+        top5_lines = []
+        count = 0
+        for line in lines:
+            if line.strip() and ("位|" in line):
+                count += 1
+                if count > 5:
+                    break
+            top5_lines.append(line)
+        top5_text = "\n".join(top5_lines)
+
         # プロンプトを作成
-        prompt = PROMPT_TEMPLATE_FIRST.format(ranking_text=ranking_text)
+        prompt = PROMPT_TEMPLATE_FIRST.format(ranking_text=top5_text)
 
         # API呼び出し
         summary = _call_gemini_api(prompt, SYSTEM_INSTRUCTION_FIRST)
