@@ -1,6 +1,8 @@
 import logging
 import sys
 
+import requests
+
 from config import config
 from history_manager import (
     add_ranking_to_history,
@@ -75,14 +77,14 @@ def main():
         logger.info("メインチャンネルへの要約送信完了")
 
         # スレッドにランキング詳細を送信
-        logger.info(f"設定されたスレッドID: {config.discord_thread_id}")
         try:
             send_thread_message(ranking_text)
             logger.info("スレッドへのランキング送信完了")
-        except Exception as e:
+        except (ValueError, requests.exceptions.RequestException) as e:
             logger.warning(f"スレッドへの送信に失敗しました: {e}")
-            logger.info("メインチャンネルにランキングも送信します")
-            send_main_message(f"**ランキング詳細**\n\n{ranking_text}")
+            logger.info("フォールバック: メインチャンネルにランキング詳細も送信します")
+            fallback_message = f"⚠️ **スレッド送信失敗のため、ここにランキング詳細を表示します**\n\n{ranking_text}"
+            send_main_message(fallback_message)
 
         logger.info("処理が正常に完了しました")
 
