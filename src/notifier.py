@@ -9,6 +9,24 @@ from config import config
 logger = logging.getLogger(__name__)
 
 
+class NotifierError(Exception):
+    """Notifier関連のエラーの基底クラス"""
+
+    pass
+
+
+class DiscordWebHookError(NotifierError):
+    """Discord WebHook送信エラー"""
+
+    pass
+
+
+class ThreadConfigurationError(NotifierError):
+    """スレッド設定エラー"""
+
+    pass
+
+
 def send_discord_message(message: str, thread_id: Optional[str] = None) -> None:
     # ヘッダーを設定
     headers = {
@@ -29,16 +47,16 @@ def send_discord_message(message: str, thread_id: Optional[str] = None) -> None:
 
         # 結果を表示
         if response.status_code in (200, 204):
-            target = "スレッド" if thread_id else "チャンネル"
-            logger.info(f"Discord{target}メッセージが正常に送信されました")
+            destination_type = "スレッド" if thread_id else "チャンネル"
+            logger.info(f"Discord{destination_type}メッセージが正常に送信されました")
         else:
             error_msg = f"Discord WebHook APIエラー: ステータスコード={response.status_code}"
             if response.text:
                 error_msg += f", レスポンス={response.text}"
-            raise Exception(error_msg)
+            raise DiscordWebHookError(error_msg)
 
     except requests.exceptions.RequestException as e:
-        raise Exception(f"Discord WebHook APIへの接続エラー: {str(e)}")
+        raise DiscordWebHookError(f"Discord WebHook APIへの接続エラー: {str(e)}")
 
 
 def send_main_message(message: str) -> None:
@@ -49,5 +67,5 @@ def send_main_message(message: str) -> None:
 def send_thread_message(message: str) -> None:
     """指定されたスレッドにメッセージを送信"""
     if not config.discord_thread_id:
-        raise ValueError("DISCORD_THREAD_IDが設定されていません")
+        raise ThreadConfigurationError("DISCORD_THREAD_IDが設定されていません")
     send_discord_message(message, config.discord_thread_id)
