@@ -11,7 +11,7 @@ from unittest.mock import Mock, patch
 # srcディレクトリをパスに追加
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(__file__)), "src"))
 
-from notifier import send_discord_message
+from notifier import send_discord_message, send_discord_message_with_thread
 
 
 class TestNotifier(unittest.TestCase):
@@ -123,6 +123,96 @@ class TestNotifier(unittest.TestCase):
 
         self.assertIn("Discord WebHook APIへの接続エラー", str(context.exception))
         self.assertIn("タイムアウト", str(context.exception))
+
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
+    def test_send_discord_message_with_thread_success(self, mock_config, mock_post):
+        """Discord WebHookスレッドメッセージ送信成功のテスト"""
+        # モック設定
+        mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
+        mock_config.request_timeout = 10
+        
+        # メインメッセージのレスポンス
+        main_response = Mock()
+        main_response.status_code = 200
+        main_response.json.return_value = {"id": "123456789"}
+        
+        # スレッドメッセージのレスポンス
+        thread_response = Mock()
+        thread_response.status_code = 200
+        
+        # リクエストの順番に応じてレスポンスを返す
+        mock_post.side_effect = [main_response, thread_response]
+
+        # テスト実行
+        test_summary = "テスト要約"
+        test_ranking = "テストランキング"
+        send_discord_message_with_thread(test_summary, test_ranking)
+
+        # アサーション - 2回のリクエストが送信されたことを確認
+        self.assertEqual(mock_post.call_count, 2)
+        
+        # 1回目（メインメッセージ）の呼び出しを確認
+        first_call = mock_post.call_args_list[0]
+        self.assertEqual(first_call[0][0], "https://discord.com/api/webhooks/test")
+        first_payload = json.loads(first_call[1]["data"])
+        self.assertEqual(first_payload["content"], test_summary)
+        self.assertTrue(first_payload["wait"])
+        
+        # 2回目（スレッド）の呼び出しを確認
+        second_call = mock_post.call_args_list[1]
+        self.assertEqual(second_call[0][0], "https://discord.com/api/webhooks/test")
+        second_payload = json.loads(second_call[1]["data"])
+        self.assertIn(test_ranking, second_payload["content"])
+        self.assertEqual(second_payload["thread_id"], "123456789")
+
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
+    def test_send_discord_message_with_thread_main_error(self, mock_config, mock_post):
+        """Discord WebHookスレッドメッセージ（メインエラー）のテスト"""
+        # モック設定
+        mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
+        mock_config.request_timeout = 10
+        
+        # メインメッセージでエラー
+        main_response = Mock()
+        main_response.status_code = 400
+        main_response.text = "Bad Request"
+        mock_post.return_value = main_response
+
+        # テスト実行とアサーション
+        with self.assertRaises(Exception) as context:
+            send_discord_message_with_thread("テスト要約", "テストランキング")
+
+        self.assertIn("Discord WebHook APIエラー（メインメッセージ）", str(context.exception))
+        self.assertIn("ステータスコード=400", str(context.exception))
+
+    @patch("notifier.requests.post")
+    @patch("notifier.config")
+    def test_send_discord_message_with_thread_no_summary(self, mock_config, mock_post):
+        """Discord WebHookスレッドメッセージ（要約なし）のテスト"""
+        # モック設定
+        mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
+        mock_config.request_timeout = 10
+        
+        # メインメッセージのレスポンス
+        main_response = Mock()
+        main_response.status_code = 200
+        main_response.json.return_value = {"id": "123456789"}
+        
+        # スレッドメッセージのレスポンス
+        thread_response = Mock()
+        thread_response.status_code = 200
+        
+        mock_post.side_effect = [main_response, thread_response]
+
+        # テスト実行（要約なし）
+        send_discord_message_with_thread(None, "テストランキング")
+
+        # アサーション - デフォルトメッセージが使用されることを確認
+        first_call = mock_post.call_args_list[0]
+        first_payload = json.loads(first_call[1]["data"])
+        self.assertEqual(first_payload["content"], "📊 本日のKindle売れ筋ランキングを取得しました")
 
 
 if __name__ == "__main__":
