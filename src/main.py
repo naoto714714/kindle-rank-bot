@@ -1,15 +1,13 @@
 import logging
 import sys
 
-import requests
-
 from config import config
 from history_manager import (
     add_ranking_to_history,
     analyze_ranking_changes,
     get_previous_rankings,
 )
-from notifier import send_main_message, send_thread_message
+from notifier import NotifierError, send_main_message, send_thread_message
 from scraper import get_amazon_kindle_ranking_with_data
 from summarizer import (
     format_summary_only_message,
@@ -80,7 +78,7 @@ def main():
         try:
             send_thread_message(ranking_text)
             logger.info("スレッドへのランキング送信完了")
-        except (ValueError, requests.exceptions.RequestException) as e:
+        except NotifierError as e:
             logger.warning(f"スレッドへの送信に失敗しました: {e}")
             logger.info("フォールバック: メインチャンネルにランキング詳細も送信します")
             fallback_message = f"⚠️ **スレッド送信失敗のため、ここにランキング詳細を表示します**\n\n{ranking_text}"
