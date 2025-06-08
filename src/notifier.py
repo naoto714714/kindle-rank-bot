@@ -45,8 +45,11 @@ def send_discord_message_with_thread(summary: Optional[str], ranking_text: str) 
             raise Exception(error_msg)
         
         # メッセージIDを取得
-        main_message_data = main_response.json()
-        message_id = main_message_data.get("id")
+        try:
+            main_message_data = main_response.json()
+            message_id = main_message_data.get("id")
+        except (ValueError, KeyError) as e:
+            raise Exception(f"メインメッセージのレスポンス解析エラー: {str(e)}, レスポンス: {main_response.text}")
         
         if not message_id:
             raise Exception("メインメッセージのIDを取得できませんでした")
@@ -54,14 +57,17 @@ def send_discord_message_with_thread(summary: Optional[str], ranking_text: str) 
         logger.info(f"メインメッセージ送信成功（ID: {message_id}）")
         
         # 2. スレッドとしてランキングを送信
+        # Discord WebHookではthread_idパラメータを使ってスレッド返信を作成
         thread_payload = {
-            "content": f"```\n{ranking_text}\n```",
-            "thread_id": message_id
+            "content": f"```\n{ranking_text}\n```"
         }
+        
+        # スレッド作成のためのURL（メッセージIDをパスに含める）
+        thread_url = f"{config.discord_webhook_url}?thread_id={message_id}"
         
         logger.info("Discordにランキング詳細をスレッドとして送信中...")
         thread_response = requests.post(
-            config.discord_webhook_url,
+            thread_url,
             headers=headers,
             data=json.dumps(thread_payload),
             timeout=config.request_timeout
