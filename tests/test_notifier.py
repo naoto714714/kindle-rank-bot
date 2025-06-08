@@ -127,7 +127,7 @@ class TestNotifier(unittest.TestCase):
     @patch("notifier.requests.post")
     @patch("notifier.config")
     def test_send_discord_message_with_thread_success(self, mock_config, mock_post):
-        """Discord WebHookスレッドメッセージ送信成功のテスト"""
+        """Discord WebHook分割メッセージ送信成功のテスト"""
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
@@ -135,14 +135,13 @@ class TestNotifier(unittest.TestCase):
         # メインメッセージのレスポンス
         main_response = Mock()
         main_response.status_code = 200
-        main_response.json.return_value = {"id": "123456789"}
         
-        # スレッドメッセージのレスポンス
-        thread_response = Mock()
-        thread_response.status_code = 200
+        # ランキングメッセージのレスポンス
+        ranking_response = Mock()
+        ranking_response.status_code = 200
         
         # リクエストの順番に応じてレスポンスを返す
-        mock_post.side_effect = [main_response, thread_response]
+        mock_post.side_effect = [main_response, ranking_response]
 
         # テスト実行
         test_summary = "テスト要約"
@@ -157,14 +156,13 @@ class TestNotifier(unittest.TestCase):
         self.assertEqual(first_call[0][0], "https://discord.com/api/webhooks/test")
         first_payload = json.loads(first_call[1]["data"])
         self.assertEqual(first_payload["content"], test_summary)
-        self.assertTrue(first_payload["wait"])
         
-        # 2回目（スレッド）の呼び出しを確認
+        # 2回目（ランキング）の呼び出しを確認
         second_call = mock_post.call_args_list[1]
         self.assertEqual(second_call[0][0], "https://discord.com/api/webhooks/test")
         second_payload = json.loads(second_call[1]["data"])
         self.assertIn(test_ranking, second_payload["content"])
-        self.assertEqual(second_payload["thread_id"], "123456789")
+        self.assertIn("詳細ランキング", second_payload["content"])
 
     @patch("notifier.requests.post")
     @patch("notifier.config")
@@ -190,7 +188,7 @@ class TestNotifier(unittest.TestCase):
     @patch("notifier.requests.post")
     @patch("notifier.config")
     def test_send_discord_message_with_thread_no_summary(self, mock_config, mock_post):
-        """Discord WebHookスレッドメッセージ（要約なし）のテスト"""
+        """Discord WebHook分割メッセージ（要約なし）のテスト"""
         # モック設定
         mock_config.discord_webhook_url = "https://discord.com/api/webhooks/test"
         mock_config.request_timeout = 10
@@ -198,13 +196,12 @@ class TestNotifier(unittest.TestCase):
         # メインメッセージのレスポンス
         main_response = Mock()
         main_response.status_code = 200
-        main_response.json.return_value = {"id": "123456789"}
         
-        # スレッドメッセージのレスポンス
-        thread_response = Mock()
-        thread_response.status_code = 200
+        # ランキングメッセージのレスポンス
+        ranking_response = Mock()
+        ranking_response.status_code = 200
         
-        mock_post.side_effect = [main_response, thread_response]
+        mock_post.side_effect = [main_response, ranking_response]
 
         # テスト実行（要約なし）
         send_discord_message_with_thread(None, "テストランキング")
