@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-06-12T03:43:28.498872",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 575,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 2,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 3.9,
+          "review_count": 425,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 3,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(10) (電撃文庫)",
+          "rating": 4.7,
+          "review_count": 33,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0FB35LZ64"
+        },
+        {
+          "rank": 4,
+          "title": "独学で英語を話せるようになった人がやっていること",
+          "rating": 4.5,
+          "review_count": 185,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0DPHCZF9T"
+        },
+        {
+          "rank": 5,
+          "title": "なぜ世界は存在しないのか (講談社選書メチエ)",
+          "rating": 4.1,
+          "review_count": 361,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B07KM1KJZ3"
+        },
+        {
+          "rank": 6,
+          "title": "如月ひめか『Kiss You』（168photos) (スパイスビジュアル)",
+          "rating": 4.0,
+          "review_count": 214,
+          "price": "￥660",
+          "url": "https://www.amazon.co.jp/dp/B0DNDWHVXN"
+        },
+        {
+          "rank": 7,
+          "title": "薬屋のひとりごと　１６ (ヒーロー文庫)",
+          "rating": 4.7,
+          "review_count": 1131,
+          "price": "￥819",
+          "url": "https://www.amazon.co.jp/dp/B0F53S1PWJ"
+        },
+        {
+          "rank": 8,
+          "title": "年間100万円の配当金が入ってくる最高の株式投資",
+          "rating": 4.2,
+          "review_count": 856,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
+        },
+        {
+          "rank": 9,
+          "title": "人は聞き方が９割",
+          "rating": 4.3,
+          "review_count": 3068,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        },
+        {
+          "rank": 10,
+          "title": "和食屋が教える、旨すぎる一汁一飯　汁とめし",
+          "rating": 4.5,
+          "review_count": 787,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0CH2WXN95"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-06-11T03:44:24.755742",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 591,
           "price": "￥562",
           "url": "https://www.amazon.co.jp/dp/B0BKT1H5B7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-06-09T03:48:39.158414",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 567,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 2,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 3.9,
-          "review_count": 409,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 3,
-          "title": "薬屋のひとりごと　１６ (ヒーロー文庫)",
-          "rating": 4.7,
-          "review_count": 988,
-          "price": "￥819",
-          "url": "https://www.amazon.co.jp/dp/B0F53S1PWJ"
-        },
-        {
-          "rank": 4,
-          "title": "如月ひめか『Kiss You』（168photos) (スパイスビジュアル)",
-          "rating": 4.0,
-          "review_count": 210,
-          "price": "￥660",
-          "url": "https://www.amazon.co.jp/dp/B0DNDWHVXN"
-        },
-        {
-          "rank": 5,
-          "title": "人体最強の臓器　皮膚のふしぎ　最新科学でわかった万能性 (ブルーバックス)",
-          "rating": 4.4,
-          "review_count": 106,
-          "price": "￥1,320",
-          "url": "https://www.amazon.co.jp/dp/B0BPSCLC97"
-        },
-        {
-          "rank": 6,
-          "title": "人は聞き方が９割",
-          "rating": 4.3,
-          "review_count": 3061,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        },
-        {
-          "rank": 7,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 853,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
-        },
-        {
-          "rank": 8,
-          "title": "和食屋が教える、旨すぎる一汁一飯　汁とめし",
-          "rating": 4.5,
-          "review_count": 785,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0CH2WXN95"
-        },
-        {
-          "rank": 9,
-          "title": "決算書の比較図鑑　見るだけで「儲かるビジネスモデル」までわかる",
-          "rating": 4.2,
-          "review_count": 197,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B09KGXJ8KP"
-        },
-        {
-          "rank": 10,
-          "title": "眠れなくなるほど面白い 図解 ヤバい心理学",
-          "rating": 3.7,
-          "review_count": 292,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B09P52T9SX"
         }
       ]
     }
