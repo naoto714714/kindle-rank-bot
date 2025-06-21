@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-06-21T03:41:23.532973",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 3.9,
+          "review_count": 472,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 2,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 599,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 3,
+          "title": "ワールド・オブ・サイバーパンク2077 (G-NOVELS)",
+          "rating": 4.7,
+          "review_count": 385,
+          "price": "￥4,400",
+          "url": "https://www.amazon.co.jp/dp/B0956SQ817"
+        },
+        {
+          "rank": 4,
+          "title": "近代美学入門 (ちくま新書)",
+          "rating": 4.2,
+          "review_count": 55,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0CKHQNV2N"
+        },
+        {
+          "rank": 5,
+          "title": "魔女と傭兵6上 (GCN文庫)",
+          "rating": 4.9,
+          "review_count": 10,
+          "price": "￥733",
+          "url": "https://www.amazon.co.jp/dp/B0FD98SM65"
+        },
+        {
+          "rank": 6,
+          "title": "人は聞き方が９割",
+          "rating": 4.3,
+          "review_count": 3088,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        },
+        {
+          "rank": 7,
+          "title": "年間100万円の配当金が入ってくる最高の株式投資",
+          "rating": 4.2,
+          "review_count": 874,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
+        },
+        {
+          "rank": 8,
+          "title": "国宝上青春篇 (朝日文庫)",
+          "rating": 4.5,
+          "review_count": 845,
+          "price": "￥850",
+          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
+        },
+        {
+          "rank": 9,
+          "title": "如月ひめか『Kiss You』（168photos) (スパイスビジュアル)",
+          "rating": 4.0,
+          "review_count": 240,
+          "price": "￥1,320",
+          "url": "https://www.amazon.co.jp/dp/B0DNDWHVXN"
+        },
+        {
+          "rank": 10,
+          "title": "和食屋が教える、旨すぎる一汁一飯　汁とめし",
+          "rating": 4.5,
+          "review_count": 795,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0CH2WXN95"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-06-20T03:43:34.340305",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 757,
           "price": "￥562",
           "url": "https://www.amazon.co.jp/dp/B0BKT1H5B7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-06-17T03:44:27.649695",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 593,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 2,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 3.9,
-          "review_count": 445,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 3,
-          "title": "薬屋のひとりごと　１６ (ヒーロー文庫)",
-          "rating": 4.7,
-          "review_count": 1322,
-          "price": "￥819",
-          "url": "https://www.amazon.co.jp/dp/B0F53S1PWJ"
-        },
-        {
-          "rank": 4,
-          "title": "国宝上青春篇 (朝日文庫)",
-          "rating": 4.4,
-          "review_count": 780,
-          "price": "￥850",
-          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
-        },
-        {
-          "rank": 5,
-          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(10) (電撃文庫)",
-          "rating": 4.5,
-          "review_count": 98,
-          "price": "￥776",
-          "url": "https://www.amazon.co.jp/dp/B0FB35LZ64"
-        },
-        {
-          "rank": 6,
-          "title": "人は聞き方が９割",
-          "rating": 4.3,
-          "review_count": 3078,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        },
-        {
-          "rank": 7,
-          "title": "如月ひめか『Kiss You』（168photos) (スパイスビジュアル)",
-          "rating": 4.0,
-          "review_count": 231,
-          "price": "￥1,320",
-          "url": "https://www.amazon.co.jp/dp/B0DNDWHVXN"
-        },
-        {
-          "rank": 8,
-          "title": "和食屋が教える、旨すぎる一汁一飯　汁とめし",
-          "rating": 4.5,
-          "review_count": 793,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0CH2WXN95"
-        },
-        {
-          "rank": 9,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 868,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
-        },
-        {
-          "rank": 10,
-          "title": "国宝下花道篇 (朝日文庫)",
-          "rating": 4.5,
-          "review_count": 751,
-          "price": "￥850",
-          "url": "https://www.amazon.co.jp/dp/B09FDL8DN4"
         }
       ]
     }
