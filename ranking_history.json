@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-06-26T03:45:33.300090",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 3.9,
+          "review_count": 502,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 2,
+          "title": "無職転生　～蛇足編～3　ジョブレス・レッドカーペット (MFブックス)",
+          "rating": 4.8,
+          "review_count": 37,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0FCRW2K4N"
+        },
+        {
+          "rank": 3,
+          "title": "知識ゼロからノーコードではじめる Studio Webサイト制作入門",
+          "rating": 4.2,
+          "review_count": 26,
+          "price": "￥1,210",
+          "url": "https://www.amazon.co.jp/dp/B0F18678S5"
+        },
+        {
+          "rank": 4,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 615,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 5,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13651,
+          "price": "￥600",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 6,
+          "title": "天使の遺言",
+          "rating": 4.4,
+          "review_count": 193,
+          "price": "￥1,336",
+          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
+        },
+        {
+          "rank": 7,
+          "title": "ChatGPT はじめてのプロンプトエンジニアリング",
+          "rating": 4.6,
+          "review_count": 25,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0F246TTMK"
+        },
+        {
+          "rank": 8,
+          "title": "佐々木とピーちゃん 11 大冒険！　異世界でダンジョン攻略、はじめました　～工事現場から太古に滅亡した文明の遺跡が出土しまして～【電子特典付き】",
+          "rating": 4.5,
+          "review_count": 6,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0FCRW3CBJ"
+        },
+        {
+          "rank": 9,
+          "title": "WHO NOT HOW （フーノットハウ） 「どうやるか」ではなく「誰とやるか」",
+          "rating": 4.4,
+          "review_count": 118,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B09Y1PNQ6S"
+        },
+        {
+          "rank": 10,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 5966,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-06-25T03:47:25.901496",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "人は聞き方が９割",
           "rating": 4.3,
           "review_count": 3097,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-06-23T03:52:31.424520",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 3.9,
-          "review_count": 484,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 2,
-          "title": "天使の遺言",
-          "rating": 4.4,
-          "review_count": 116,
-          "price": "￥1,336",
-          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
-        },
-        {
-          "rank": 3,
-          "title": "機械式時計大全 (講談社選書メチエ)",
-          "rating": 4.4,
-          "review_count": 239,
-          "price": "￥2,805",
-          "url": "https://www.amazon.co.jp/dp/B09BN9V7XM"
-        },
-        {
-          "rank": 4,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 602,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 5,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 877,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
-        },
-        {
-          "rank": 6,
-          "title": "国宝上青春篇 (朝日文庫)",
-          "rating": 4.5,
-          "review_count": 875,
-          "price": "￥850",
-          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
-        },
-        {
-          "rank": 7,
-          "title": "かわいいけどかわいくない【単行本版（特典付き）】 (from RED)",
-          "rating": 4.6,
-          "review_count": 317,
-          "price": "￥862",
-          "url": "https://www.amazon.co.jp/dp/B0C3GVF91G"
-        },
-        {
-          "rank": 8,
-          "title": "魔女と傭兵6上 (GCN文庫)",
-          "rating": 4.9,
-          "review_count": 65,
-          "price": "￥733",
-          "url": "https://www.amazon.co.jp/dp/B0FD98SM65"
-        },
-        {
-          "rank": 9,
-          "title": "如月ひめか『Kiss You』（168photos) (スパイスビジュアル)",
-          "rating": 4.0,
-          "review_count": 241,
-          "price": "￥1,320",
-          "url": "https://www.amazon.co.jp/dp/B0DNDWHVXN"
-        },
-        {
-          "rank": 10,
-          "title": "人は聞き方が９割",
-          "rating": 4.3,
-          "review_count": 3096,
           "price": "￥1,617",
           "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
         }
