@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-06-28T03:41:24.703236",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 518,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 2,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 618,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 3,
+          "title": "無職転生　～蛇足編～3　ジョブレス・レッドカーペット (MFブックス)",
+          "rating": 4.9,
+          "review_count": 157,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0FCRW2K4N"
+        },
+        {
+          "rank": 4,
+          "title": "落とした指輪を出品されて 警察沙汰になった話 (コルク)",
+          "rating": 4.6,
+          "review_count": 988,
+          "price": "￥165",
+          "url": "https://www.amazon.co.jp/dp/B0DG4ZG9BH"
+        },
+        {
+          "rank": 5,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13688,
+          "price": "￥600",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 6,
+          "title": "天使の遺言",
+          "rating": 4.4,
+          "review_count": 226,
+          "price": "￥1,336",
+          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
+        },
+        {
+          "rank": 7,
+          "title": "年間100万円の配当金が入ってくる最高の株式投資",
+          "rating": 4.2,
+          "review_count": 884,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
+        },
+        {
+          "rank": 8,
+          "title": "国宝上青春篇 (朝日文庫)",
+          "rating": 4.5,
+          "review_count": 957,
+          "price": "￥850",
+          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
+        },
+        {
+          "rank": 9,
+          "title": "人は聞き方が９割",
+          "rating": 4.3,
+          "review_count": 3111,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        },
+        {
+          "rank": 10,
+          "title": "佐々木とピーちゃん 11 大冒険！　異世界でダンジョン攻略、はじめました　～工事現場から太古に滅亡した文明の遺跡が出土しまして～【電子特典付き】",
+          "rating": 4.8,
+          "review_count": 53,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0FCRW3CBJ"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-06-27T03:46:14.141573",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 5966,
           "price": "￥1,155",
           "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-06-25T03:47:25.901496",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ChatGPT はじめてのプロンプトエンジニアリング",
-          "rating": 4.5,
-          "review_count": 22,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0F246TTMK"
-        },
-        {
-          "rank": 2,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 3.9,
-          "review_count": 496,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 3,
-          "title": "天使の遺言",
-          "rating": 4.4,
-          "review_count": 170,
-          "price": "￥1,336",
-          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
-        },
-        {
-          "rank": 4,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 612,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 5,
-          "title": "イザベラ・バードの日本紀行　合本版 (講談社学術文庫)",
-          "rating": 4.4,
-          "review_count": 77,
-          "price": "￥2,970",
-          "url": "https://www.amazon.co.jp/dp/B00NOTKTIW"
-        },
-        {
-          "rank": 6,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 5959,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 7,
-          "title": "道徳感情論 (講談社学術文庫)",
-          "rating": 4.1,
-          "review_count": 115,
-          "price": "￥2,310",
-          "url": "https://www.amazon.co.jp/dp/B00E3N00U0"
-        },
-        {
-          "rank": 8,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 6804,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 9,
-          "title": "私が見た未来　完全版",
-          "rating": 4.0,
-          "review_count": 13641,
-          "price": "￥600",
-          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
-        },
-        {
-          "rank": 10,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 881,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
         }
       ]
     }
