@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-02T03:47:20.152041",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6054,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 6872,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 3,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 548,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 4,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 626,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 5,
+          "title": "ゼロから学ぶ線形代数",
+          "rating": 4.3,
+          "review_count": 65,
+          "price": "￥2,200",
+          "url": "https://www.amazon.co.jp/dp/B00F2H37TW"
+        },
+        {
+          "rank": 6,
+          "title": "時々ボソッとロシア語でデレる隣のアーリャさん10 (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 17,
+          "price": "￥858",
+          "url": "https://www.amazon.co.jp/dp/B0FDKBYG8V"
+        },
+        {
+          "rank": 7,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13741,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 8,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 651,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 9,
+          "title": "Dジェネシス　ダンジョンが出来て３年　１０",
+          "rating": 4.7,
+          "review_count": 45,
+          "price": "￥1,595",
+          "url": "https://www.amazon.co.jp/dp/B0FD9BRB6C"
+        },
+        {
+          "rank": 10,
+          "title": "国宝上青春篇 (朝日文庫)",
+          "rating": 4.5,
+          "review_count": 1034,
+          "price": "￥765",
+          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-01T03:56:42.991793",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 993,
           "price": "￥850",
           "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-06-29T03:53:59.473579",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 525,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 2,
-          "title": "一外交官の見た明治維新 (講談社学術文庫)",
-          "rating": 4.1,
-          "review_count": 32,
-          "price": "￥2,255",
-          "url": "https://www.amazon.co.jp/dp/B091PWSQGW"
-        },
-        {
-          "rank": 3,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 619,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 4,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 5984,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 5,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 6824,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 6,
-          "title": "落とした指輪を出品されて 警察沙汰になった話 (コルク)",
-          "rating": 4.6,
-          "review_count": 1035,
-          "price": "￥165",
-          "url": "https://www.amazon.co.jp/dp/B0DG4ZG9BH"
-        },
-        {
-          "rank": 7,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 885,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
-        },
-        {
-          "rank": 8,
-          "title": "無職転生　～蛇足編～3　ジョブレス・レッドカーペット (MFブックス)",
-          "rating": 4.9,
-          "review_count": 198,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0FCRW2K4N"
-        },
-        {
-          "rank": 9,
-          "title": "私が見た未来　完全版",
-          "rating": 4.0,
-          "review_count": 13703,
-          "price": "￥600",
-          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
-        },
-        {
-          "rank": 10,
-          "title": "殊能将之　読書日記　２０００－２００９　Ｔｈｅ　Ｒｅａｄｉｎｇ　Ｄｉａｒｙ　ｏｆ　Ｍｅｒｃｙ　Ｓｎｏｗ",
-          "rating": 4.0,
-          "review_count": 11,
-          "price": "￥298",
-          "url": "https://www.amazon.co.jp/dp/B013DVKTBM"
         }
       ]
     }
