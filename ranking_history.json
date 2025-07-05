@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-05T03:41:30.215385",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ババヤガの夜 (河出文庫)",
+          "rating": 4.3,
+          "review_count": 262,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6179,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 3,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13807,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 4,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 6968,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 5,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 566,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 6,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 670,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 7,
+          "title": "全文完全対照版 老子コンプリート：本質を捉える「一文超訳」＋現代語訳・書き下し文・原文",
+          "rating": 4.2,
+          "review_count": 89,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B07PZ6ZK9N"
+        },
+        {
+          "rank": 8,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 628,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 9,
+          "title": "天使の遺言",
+          "rating": 4.4,
+          "review_count": 337,
+          "price": "￥1,336",
+          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
+        },
+        {
+          "rank": 10,
+          "title": "三つの石で地球がわかる　岩石がひもとくこの星のなりたち 藤岡換太郎〈地球の謎解き〉シリーズ (ブルーバックス)",
+          "rating": 4.5,
+          "review_count": 450,
+          "price": "￥1,012",
+          "url": "https://www.amazon.co.jp/dp/B072LV5CTG"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-03T03:50:24.256825",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1034,
           "price": "￥765",
           "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-01T03:56:42.991793",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 541,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6029,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 3,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 6850,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 4,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 623,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 5,
-          "title": "私が見た未来　完全版",
-          "rating": 4.0,
-          "review_count": 13730,
-          "price": "￥1,080",
-          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
-        },
-        {
-          "rank": 6,
-          "title": "Dジェネシス　ダンジョンが出来て３年　１０",
-          "rating": 4.5,
-          "review_count": 11,
-          "price": "￥1,595",
-          "url": "https://www.amazon.co.jp/dp/B0FD9BRB6C"
-        },
-        {
-          "rank": 7,
-          "title": "「怠惰」なんて存在しない 終わりなき生産性競争から抜け出すための幸福論",
-          "rating": 4.0,
-          "review_count": 293,
-          "price": "￥2,277",
-          "url": "https://www.amazon.co.jp/dp/B0CZ7KG8BN"
-        },
-        {
-          "rank": 8,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 649,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 9,
-          "title": "構造化思考のレッスン",
-          "rating": 4.4,
-          "review_count": 65,
-          "price": "￥1,881",
-          "url": "https://www.amazon.co.jp/dp/B0DVG7G2GV"
-        },
-        {
-          "rank": 10,
-          "title": "年間100万円の配当金が入ってくる最高の株式投資",
-          "rating": 4.2,
-          "review_count": 887,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BTGPTKKP"
         }
       ]
     }
