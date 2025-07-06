@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-06T03:52:23.877845",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ババヤガの夜 (河出文庫)",
+          "rating": 4.4,
+          "review_count": 310,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6225,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 3,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 7011,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 4,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13853,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 5,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 580,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 6,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 678,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 7,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 629,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 8,
+          "title": "「死」とは何か　イェール大学で23年連続の人気講義　完全翻訳版",
+          "rating": 4.2,
+          "review_count": 363,
+          "price": "￥3,118",
+          "url": "https://www.amazon.co.jp/dp/B07TLWTF6Q"
+        },
+        {
+          "rank": 9,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2167,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 10,
+          "title": "ChatGPT超実践活用法: 【GPT-4対応版】【code interpreter解説有】｢ビジネスシーン｣におけるマジで使える利用方法25選【使い方・入門・教科書・初心者・利用法】 ChatGPT・IT・テクノロジー (AI技術・テクノロジー・人工知能)",
+          "rating": 3.7,
+          "review_count": 544,
+          "price": "￥390",
+          "url": "https://www.amazon.co.jp/dp/B0BW4BKR5G"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-05T03:41:30.215385",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 65,
           "price": "￥2,200",
           "url": "https://www.amazon.co.jp/dp/B00F2H37TW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-02T03:47:20.152041",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6054,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 6872,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 3,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 548,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 4,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 626,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 5,
-          "title": "ゼロから学ぶ線形代数",
-          "rating": 4.3,
-          "review_count": 65,
-          "price": "￥2,200",
-          "url": "https://www.amazon.co.jp/dp/B00F2H37TW"
-        },
-        {
-          "rank": 6,
-          "title": "時々ボソッとロシア語でデレる隣のアーリャさん10 (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 17,
-          "price": "￥858",
-          "url": "https://www.amazon.co.jp/dp/B0FDKBYG8V"
-        },
-        {
-          "rank": 7,
-          "title": "私が見た未来　完全版",
-          "rating": 4.0,
-          "review_count": 13741,
-          "price": "￥832",
-          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
-        },
-        {
-          "rank": 8,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 651,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 9,
-          "title": "Dジェネシス　ダンジョンが出来て３年　１０",
-          "rating": 4.7,
-          "review_count": 45,
-          "price": "￥1,595",
-          "url": "https://www.amazon.co.jp/dp/B0FD9BRB6C"
-        },
-        {
-          "rank": 10,
-          "title": "国宝上青春篇 (朝日文庫)",
-          "rating": 4.5,
-          "review_count": 1034,
-          "price": "￥765",
-          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
         }
       ]
     }
