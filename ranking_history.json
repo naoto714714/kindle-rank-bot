@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-08T03:47:45.658603",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6317,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 7083,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 3,
+          "title": "ババヤガの夜 (河出文庫)",
+          "rating": 4.3,
+          "review_count": 425,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
+        },
+        {
+          "rank": 4,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 704,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 5,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 592,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 6,
+          "title": "ゼロからできるＭＣＭＣ　マルコフ連鎖モンテカルロ法の実践的入門 (ＫＳ理工学専門書)",
+          "rating": 4.4,
+          "review_count": 77,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B08JV9YC1F"
+        },
+        {
+          "rank": 7,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 632,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 8,
+          "title": "認知バイアス　心に潜むふしぎな働き (ブルーバックス)",
+          "rating": 4.2,
+          "review_count": 510,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B08LD8MJFW"
+        },
+        {
+          "rank": 9,
+          "title": "私が見た未来　完全版",
+          "rating": 4.0,
+          "review_count": 13894,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
+        },
+        {
+          "rank": 10,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2172,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-07T03:52:18.158085",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 544,
           "price": "￥390",
           "url": "https://www.amazon.co.jp/dp/B0BW4BKR5G"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-05T03:41:30.215385",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ババヤガの夜 (河出文庫)",
-          "rating": 4.3,
-          "review_count": 262,
-          "price": "￥673",
-          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6179,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 3,
-          "title": "私が見た未来　完全版",
-          "rating": 4.0,
-          "review_count": 13807,
-          "price": "￥832",
-          "url": "https://www.amazon.co.jp/dp/B09H2ZCNNY"
-        },
-        {
-          "rank": 4,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 6968,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 5,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 566,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 6,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 670,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 7,
-          "title": "全文完全対照版 老子コンプリート：本質を捉える「一文超訳」＋現代語訳・書き下し文・原文",
-          "rating": 4.2,
-          "review_count": 89,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B07PZ6ZK9N"
-        },
-        {
-          "rank": 8,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 628,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 9,
-          "title": "天使の遺言",
-          "rating": 4.4,
-          "review_count": 337,
-          "price": "￥1,336",
-          "url": "https://www.amazon.co.jp/dp/B0FBM5KMV4"
-        },
-        {
-          "rank": 10,
-          "title": "三つの石で地球がわかる　岩石がひもとくこの星のなりたち 藤岡換太郎〈地球の謎解き〉シリーズ (ブルーバックス)",
-          "rating": 4.5,
-          "review_count": 450,
-          "price": "￥1,012",
-          "url": "https://www.amazon.co.jp/dp/B072LV5CTG"
         }
       ]
     }
