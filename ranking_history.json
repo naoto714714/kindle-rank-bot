@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-12T03:51:15.734044",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 737,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 2,
+          "title": "映像の原則　改訂二版",
+          "rating": 4.4,
+          "review_count": 14,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0DKSR3F9K"
+        },
+        {
+          "rank": 3,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6480,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 4,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 7223,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 5,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 617,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 6,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 633,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 7,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2180,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 8,
+          "title": "ババヤガの夜 (河出文庫)",
+          "rating": 4.4,
+          "review_count": 570,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
+        },
+        {
+          "rank": 9,
+          "title": "眠れなくなるほど面白い 図解 ヤバい心理学",
+          "rating": 3.6,
+          "review_count": 305,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B09P52T9SX"
+        },
+        {
+          "rank": 10,
+          "title": "＃赤ちゃん相談室",
+          "rating": 4.2,
+          "review_count": 306,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B08JTHG3SQ"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-11T03:55:53.574059",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 261,
           "price": "￥3,300",
           "url": "https://www.amazon.co.jp/dp/B08PV83L3N"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-09T03:50:38.793873",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6358,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 7129,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 3,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 711,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 4,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 594,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 5,
-          "title": "ババヤガの夜 (河出文庫)",
-          "rating": 4.3,
-          "review_count": 458,
-          "price": "￥673",
-          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
-        },
-        {
-          "rank": 6,
-          "title": "問題解決力を鍛える！アルゴリズムとデータ構造 (ＫＳ情報科学専門書)",
-          "rating": 4.4,
-          "review_count": 261,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B08PV83L3N"
-        },
-        {
-          "rank": 7,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 632,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 8,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2175,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 9,
-          "title": "眠れなくなるほど面白い 図解 ヤバい心理学",
-          "rating": 3.6,
-          "review_count": 304,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B09P52T9SX"
-        },
-        {
-          "rank": 10,
-          "title": "ChatGPT超実践活用法: 【GPT-4対応版】【code interpreter解説有】｢ビジネスシーン｣におけるマジで使える利用方法25選【使い方・入門・教科書・初心者・利用法】 ChatGPT・IT・テクノロジー (AI技術・テクノロジー・人工知能)",
-          "rating": 3.7,
-          "review_count": 545,
-          "price": "￥390",
-          "url": "https://www.amazon.co.jp/dp/B0BW4BKR5G"
         }
       ]
     }
