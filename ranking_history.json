@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-14T03:59:24.030936",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6545,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 7300,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 3,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 755,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 4,
+          "title": "映像の原則　改訂二版",
+          "rating": 4.5,
+          "review_count": 16,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0DKSR3F9K"
+        },
+        {
+          "rank": 5,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 630,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 6,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2186,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 7,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 636,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 8,
+          "title": "りゅうおうのおしごと！２０ (GA文庫)",
+          "rating": 4.6,
+          "review_count": 64,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0F9KYKPJH"
+        },
+        {
+          "rank": 9,
+          "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
+          "rating": 4.7,
+          "review_count": 1163,
+          "price": "￥660",
+          "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
+        },
+        {
+          "rank": 10,
+          "title": "百冊で耕す〈自由に、なる〉ための読書術",
+          "rating": 4.4,
+          "review_count": 183,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0BWDLPXLW"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-13T03:56:51.402576",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 306,
           "price": "￥1,188",
           "url": "https://www.amazon.co.jp/dp/B08JTHG3SQ"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-11T03:55:53.574059",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 725,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6447,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 3,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 7189,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 4,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 608,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 5,
-          "title": "ババヤガの夜 (河出文庫)",
-          "rating": 4.3,
-          "review_count": 530,
-          "price": "￥673",
-          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
-        },
-        {
-          "rank": 6,
-          "title": "＃赤ちゃん相談室",
-          "rating": 4.2,
-          "review_count": 300,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B08JTHG3SQ"
-        },
-        {
-          "rank": 7,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 633,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 8,
-          "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 15 (カドカワBOOKS)",
-          "rating": 4.8,
-          "review_count": 24,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0FFJVW1SZ"
-        },
-        {
-          "rank": 9,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2177,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 10,
-          "title": "コンセプチュアル思考 物事の本質を見極め、解釈し、獲得する",
-          "rating": 4.1,
-          "review_count": 145,
-          "price": "￥2,673",
-          "url": "https://www.amazon.co.jp/dp/B09QG8RT8B"
         }
       ]
     }
