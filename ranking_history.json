@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-17T03:55:01.606438",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 781,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6655,
+          "price": "￥2,264",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 3,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 642,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 4,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 641,
+          "price": "￥1,725",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 5,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 7409,
+          "price": "￥2,264",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 6,
+          "title": "AI分析でわかったトップ5％社員の読書術",
+          "rating": 4.4,
+          "review_count": 71,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0D4TT75SL"
+        },
+        {
+          "rank": 7,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2193,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 8,
+          "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
+          "rating": 4.7,
+          "review_count": 1197,
+          "price": "￥660",
+          "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
+        },
+        {
+          "rank": 9,
+          "title": "スタンフォード大学・オンラインハイスクール校長が教える　脳が一生忘れないインプット術",
+          "rating": 4.2,
+          "review_count": 205,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D66FY4D7"
+        },
+        {
+          "rank": 10,
+          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
+          "rating": 4.2,
+          "review_count": 45,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-16T03:55:32.528015",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 183,
           "price": "￥1,584",
           "url": "https://www.amazon.co.jp/dp/B0BWDLPXLW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-13T03:56:51.402576",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "映像の原則　改訂二版",
-          "rating": 4.5,
-          "review_count": 16,
-          "price": "￥880",
-          "url": "https://www.amazon.co.jp/dp/B0DKSR3F9K"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6510,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 3,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 7253,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 4,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 746,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 5,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 623,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 6,
-          "title": "りゅうおうのおしごと！２０ (GA文庫)",
-          "rating": 4.4,
-          "review_count": 24,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0F9KYKPJH"
-        },
-        {
-          "rank": 7,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2182,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 8,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 634,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 9,
-          "title": "ババヤガの夜 (河出文庫)",
-          "rating": 4.3,
-          "review_count": 605,
-          "price": "￥673",
-          "url": "https://www.amazon.co.jp/dp/B0C3M2X661"
-        },
-        {
-          "rank": 10,
-          "title": "眠れなくなるほど面白い 図解 ヤバい心理学",
-          "rating": 3.6,
-          "review_count": 306,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B09P52T9SX"
         }
       ]
     }
