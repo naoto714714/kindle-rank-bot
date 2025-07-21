@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-21T04:01:06.349509",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 816,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 2,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2201,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 3,
+          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
+          "rating": 4.0,
+          "review_count": 669,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
+        },
+        {
+          "rank": 4,
+          "title": "考えすぎない練習",
+          "rating": 4.1,
+          "review_count": 647,
+          "price": "￥1,725",
+          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
+        },
+        {
+          "rank": 5,
+          "title": "ラストインタビュー―藤島ジュリー景子との47時間―",
+          "rating": 4.5,
+          "review_count": 133,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0FCDT2C8J"
+        },
+        {
+          "rank": 6,
+          "title": "国宝上青春篇 (朝日文庫)",
+          "rating": 4.6,
+          "review_count": 1388,
+          "price": "￥850",
+          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
+        },
+        {
+          "rank": 7,
+          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
+          "rating": 4.4,
+          "review_count": 183,
+          "price": "￥2,587",
+          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
+        },
+        {
+          "rank": 8,
+          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
+          "rating": 4.0,
+          "review_count": 62,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
+        },
+        {
+          "rank": 9,
+          "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
+          "rating": 4.7,
+          "review_count": 1225,
+          "price": "￥1,294",
+          "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
+        },
+        {
+          "rank": 10,
+          "title": "国宝下花道篇 (朝日文庫)",
+          "rating": 4.6,
+          "review_count": 1182,
+          "price": "￥850",
+          "url": "https://www.amazon.co.jp/dp/B09FDL8DN4"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-20T04:01:19.537104",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 7459,
           "price": "￥2,264",
           "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-17T03:55:01.606438",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 781,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 2,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6655,
-          "price": "￥2,264",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 3,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 642,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 4,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 641,
-          "price": "￥1,725",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 5,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 7409,
-          "price": "￥2,264",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 6,
-          "title": "AI分析でわかったトップ5％社員の読書術",
-          "rating": 4.4,
-          "review_count": 71,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0D4TT75SL"
-        },
-        {
-          "rank": 7,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2193,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 8,
-          "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
-          "rating": 4.7,
-          "review_count": 1197,
-          "price": "￥660",
-          "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
-        },
-        {
-          "rank": 9,
-          "title": "スタンフォード大学・オンラインハイスクール校長が教える　脳が一生忘れないインプット術",
-          "rating": 4.2,
-          "review_count": 205,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D66FY4D7"
-        },
-        {
-          "rank": 10,
-          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
-          "rating": 4.2,
-          "review_count": 45,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
         }
       ]
     }
