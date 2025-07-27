@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-27T04:02:46.663174",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
+          "rating": 3.8,
+          "review_count": 123,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
+        },
+        {
+          "rank": 2,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月１日号 [雑誌] FRIDAY",
+          "rating": 3.6,
+          "review_count": 87,
+          "price": "￥620",
+          "url": "https://www.amazon.co.jp/dp/B0FC64PZ1T"
+        },
+        {
+          "rank": 3,
+          "title": "家電批評 2025年7月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.7,
+          "review_count": 138,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0F2S8NNVQ"
+        },
+        {
+          "rank": 4,
+          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
+          "rating": 3.9,
+          "review_count": 85,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
+        },
+        {
+          "rank": 5,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 872,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 6,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
+          "rating": 3.7,
+          "review_count": 16,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
+        },
+        {
+          "rank": 7,
+          "title": "Oggi (オッジ) 2025年 7月号 [雑誌]",
+          "rating": 4.1,
+          "review_count": 118,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0DXK9DJ3M"
+        },
+        {
+          "rank": 8,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2214,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 9,
+          "title": "週刊文春 2025年7月31日号[雑誌]",
+          "rating": 3.7,
+          "review_count": 22,
+          "price": "￥480",
+          "url": "https://www.amazon.co.jp/dp/B0F7W7D6PC"
+        },
+        {
+          "rank": 10,
+          "title": "MONOQLO (モノクロ) 2025年 09月号 [雑誌]",
+          "rating": 3.6,
+          "review_count": 36,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPHH8X"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-25T03:56:43.959670",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
           "rating": 4.7,
           "review_count": 1253,
-          "price": "￥1,294",
-          "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-23T03:58:03.410367",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 841,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 2,
-          "title": "魔女と傭兵6下 (GCN文庫)",
-          "rating": 4.9,
-          "review_count": 24,
-          "price": "￥733",
-          "url": "https://www.amazon.co.jp/dp/B0FHPJX26W"
-        },
-        {
-          "rank": 3,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2205,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 4,
-          "title": "ドイツ人のすごい働き方 日本の３倍休んで成果は1.5倍の秘密",
-          "rating": 4.0,
-          "review_count": 676,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CXN8FSB8"
-        },
-        {
-          "rank": 5,
-          "title": "考えすぎない練習",
-          "rating": 4.1,
-          "review_count": 650,
-          "price": "￥1,725",
-          "url": "https://www.amazon.co.jp/dp/B0CQLXLM5M"
-        },
-        {
-          "rank": 6,
-          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
-          "rating": 4.4,
-          "review_count": 188,
-          "price": "￥2,587",
-          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
-        },
-        {
-          "rank": 7,
-          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
-          "rating": 4.0,
-          "review_count": 66,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
-        },
-        {
-          "rank": 8,
-          "title": "今さら聞けない！政治のキホンが２時間で全部頭に入る 今さら聞けない！２時間で全部頭に入るシリーズ",
-          "rating": 4.2,
-          "review_count": 1268,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B07HQ58BLM"
-        },
-        {
-          "rank": 9,
-          "title": "国宝上青春篇 (朝日文庫)",
-          "rating": 4.6,
-          "review_count": 1443,
-          "price": "￥850",
-          "url": "https://www.amazon.co.jp/dp/B09FDC3MVH"
-        },
-        {
-          "rank": 10,
-          "title": "サイレント・ウィッチ　沈黙の魔女の隠しごと (カドカワBOOKS)",
-          "rating": 4.7,
-          "review_count": 1245,
           "price": "￥1,294",
           "url": "https://www.amazon.co.jp/dp/B095XR7V9Y"
         }
