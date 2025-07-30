@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-07-30T04:01:17.178771",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
+          "rating": 3.8,
+          "review_count": 128,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
+        },
+        {
+          "rank": 2,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
+          "rating": 3.6,
+          "review_count": 45,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
+        },
+        {
+          "rank": 3,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 907,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 4,
+          "title": "ようこそ実力至上主義の教室へ　３年生編２ (MF文庫J)",
+          "rating": 4.7,
+          "review_count": 8,
+          "price": "￥798",
+          "url": "https://www.amazon.co.jp/dp/B0FHVMGLY2"
+        },
+        {
+          "rank": 5,
+          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
+          "rating": 3.9,
+          "review_count": 94,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
+        },
+        {
+          "rank": 6,
+          "title": "家電批評 2025年7月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.7,
+          "review_count": 140,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0F2S8NNVQ"
+        },
+        {
+          "rank": 7,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2217,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 8,
+          "title": "GetNavi 2025年8月号[雑誌]",
+          "rating": 3.8,
+          "review_count": 71,
+          "price": "￥529",
+          "url": "https://www.amazon.co.jp/dp/B0DXVK7M7B"
+        },
+        {
+          "rank": 9,
+          "title": "人づきあいはコスパで考えるとうまくいく コミュニケーションはスキルが9割",
+          "rating": 4.5,
+          "review_count": 69,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0F23PN7ZC"
+        },
+        {
+          "rank": 10,
+          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
+          "rating": 4.4,
+          "review_count": 199,
+          "price": "￥2,587",
+          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-07-29T04:04:19.508335",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 36,
           "price": "￥730",
           "url": "https://www.amazon.co.jp/dp/B0F7XKFPS4"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-07-27T04:02:46.663174",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
-          "rating": 3.8,
-          "review_count": 123,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
-        },
-        {
-          "rank": 2,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月１日号 [雑誌] FRIDAY",
-          "rating": 3.6,
-          "review_count": 87,
-          "price": "￥620",
-          "url": "https://www.amazon.co.jp/dp/B0FC64PZ1T"
-        },
-        {
-          "rank": 3,
-          "title": "家電批評 2025年7月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.7,
-          "review_count": 138,
-          "price": "￥880",
-          "url": "https://www.amazon.co.jp/dp/B0F2S8NNVQ"
-        },
-        {
-          "rank": 4,
-          "title": "sabra第4号（2025年夏） (電子雑誌sabra)",
-          "rating": 3.9,
-          "review_count": 85,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0FFFBQY4Y"
-        },
-        {
-          "rank": 5,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 872,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 6,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
-          "rating": 3.7,
-          "review_count": 16,
-          "price": "￥737",
-          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
-        },
-        {
-          "rank": 7,
-          "title": "Oggi (オッジ) 2025年 7月号 [雑誌]",
-          "rating": 4.1,
-          "review_count": 118,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0DXK9DJ3M"
-        },
-        {
-          "rank": 8,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2214,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 9,
-          "title": "週刊文春 2025年7月31日号[雑誌]",
-          "rating": 3.7,
-          "review_count": 22,
-          "price": "￥480",
-          "url": "https://www.amazon.co.jp/dp/B0F7W7D6PC"
-        },
-        {
-          "rank": 10,
-          "title": "MONOQLO (モノクロ) 2025年 09月号 [雑誌]",
-          "rating": 3.6,
-          "review_count": 36,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKPHH8X"
         }
       ]
     }
