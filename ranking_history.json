@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-08-11T04:01:37.268591",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）５",
+          "rating": 4.9,
+          "review_count": 233,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0FCJ7H8KD"
+        },
+        {
+          "rank": 2,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）４",
+          "rating": 4.9,
+          "review_count": 384,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DWMFKHXW"
+        },
+        {
+          "rank": 3,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）３",
+          "rating": 4.9,
+          "review_count": 479,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DJQK5P6D"
+        },
+        {
+          "rank": 4,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）２",
+          "rating": 4.9,
+          "review_count": 607,
+          "price": "￥123",
+          "url": "https://www.amazon.co.jp/dp/B0CYP6Z8PS"
+        },
+        {
+          "rank": 5,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）１",
+          "rating": 4.8,
+          "review_count": 1014,
+          "price": "￥123",
+          "url": "https://www.amazon.co.jp/dp/B0CQ4YPBD3"
+        },
+        {
+          "rank": 6,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6832,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 7,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 8072,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 8,
+          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
+          "rating": 3.7,
+          "review_count": 145,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
+        },
+        {
+          "rank": 9,
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科　人生が変わるテクニック112個集めました",
+          "rating": 4.7,
+          "review_count": 20,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0F2HGTDSV"
+        },
+        {
+          "rank": 10,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
+          "rating": 3.5,
+          "review_count": 143,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-08-10T04:00:06.672286",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 122,
           "price": "￥737",
           "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-08-08T04:01:52.782492",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
-          "rating": 3.7,
-          "review_count": 141,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
-        },
-        {
-          "rank": 2,
-          "title": "週刊ファミ通 2025年8月21・28日合併号　No.1910 [雑誌]",
-          "rating": 3.8,
-          "review_count": 8,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0FGYYMJ5L"
-        },
-        {
-          "rank": 3,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
-          "rating": 3.6,
-          "review_count": 117,
-          "price": "￥737",
-          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
-        },
-        {
-          "rank": 4,
-          "title": "週刊文春 2025年8月7日号[雑誌]",
-          "rating": 3.2,
-          "review_count": 59,
-          "price": "￥480",
-          "url": "https://www.amazon.co.jp/dp/B0F7W3HL9T"
-        },
-        {
-          "rank": 5,
-          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 73,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
-        },
-        {
-          "rank": 6,
-          "title": "anan(アンアン) 2025年 8月20日号 No.2458[愛とSEX] [雑誌]",
-          "rating": 4.5,
-          "review_count": 66,
-          "price": "￥810",
-          "url": "https://www.amazon.co.jp/dp/B0FL1VD21Y"
-        },
-        {
-          "rank": 7,
-          "title": "真夜中の俺を見て【単行本版】2（特典付き） (from RED)",
-          "rating": 5.0,
-          "review_count": 65,
-          "price": "￥802",
-          "url": "https://www.amazon.co.jp/dp/B0FHP9SV3D"
-        },
-        {
-          "rank": 8,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 985,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 9,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2233,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 10,
-          "title": "GetNavi 2025年8月号[雑誌]",
-          "rating": 3.8,
-          "review_count": 77,
-          "price": "￥529",
-          "url": "https://www.amazon.co.jp/dp/B0DXVK7M7B"
         }
       ]
     }
