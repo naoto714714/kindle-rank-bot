@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-08-12T03:45:09.239530",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）５",
+          "rating": 4.9,
+          "review_count": 240,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0FCJ7H8KD"
+        },
+        {
+          "rank": 2,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）４",
+          "rating": 4.8,
+          "review_count": 391,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DWMFKHXW"
+        },
+        {
+          "rank": 3,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）２",
+          "rating": 4.9,
+          "review_count": 615,
+          "price": "￥123",
+          "url": "https://www.amazon.co.jp/dp/B0CYP6Z8PS"
+        },
+        {
+          "rank": 4,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）３",
+          "rating": 4.9,
+          "review_count": 490,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DJQK5P6D"
+        },
+        {
+          "rank": 5,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）１",
+          "rating": 4.8,
+          "review_count": 1030,
+          "price": "￥123",
+          "url": "https://www.amazon.co.jp/dp/B0CQ4YPBD3"
+        },
+        {
+          "rank": 6,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 6866,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 7,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 8106,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 8,
+          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
+          "rating": 3.7,
+          "review_count": 146,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
+        },
+        {
+          "rank": 9,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
+          "rating": 3.5,
+          "review_count": 149,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
+        },
+        {
+          "rank": 10,
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科　人生が変わるテクニック112個集めました",
+          "rating": 4.7,
+          "review_count": 21,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0F2HGTDSV"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-08-11T04:01:37.268591",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 75,
           "price": "￥730",
           "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-08-09T03:47:19.636116",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）５",
-          "rating": 4.9,
-          "review_count": 227,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0FCJ7H8KD"
-        },
-        {
-          "rank": 2,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）４",
-          "rating": 4.9,
-          "review_count": 374,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0DWMFKHXW"
-        },
-        {
-          "rank": 3,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）３",
-          "rating": 4.9,
-          "review_count": 470,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0DJQK5P6D"
-        },
-        {
-          "rank": 4,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）２",
-          "rating": 4.9,
-          "review_count": 584,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0CYP6Z8PS"
-        },
-        {
-          "rank": 5,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）１",
-          "rating": 4.8,
-          "review_count": 989,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0CQ4YPBD3"
-        },
-        {
-          "rank": 6,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 6790,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 7,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 8034,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 8,
-          "title": "週刊ファミ通 2025年8月21・28日合併号　No.1910 [雑誌]",
-          "rating": 4.1,
-          "review_count": 26,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0FGYYMJ5L"
-        },
-        {
-          "rank": 9,
-          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
-          "rating": 3.7,
-          "review_count": 142,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
-        },
-        {
-          "rank": 10,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
-          "rating": 3.6,
-          "review_count": 122,
-          "price": "￥737",
-          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
         }
       ]
     }
