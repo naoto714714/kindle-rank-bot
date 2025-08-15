@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-08-15T03:49:32.083741",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
+          "rating": 3.8,
+          "review_count": 150,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 7370,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 3,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 8214,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 4,
+          "title": "Tarzan(ターザン) 2025年8月28日号 No.908 [休む技術。] [雑誌]",
+          "rating": 4.0,
+          "review_count": 45,
+          "price": "￥721",
+          "url": "https://www.amazon.co.jp/dp/B0FH971SV3"
+        },
+        {
+          "rank": 5,
+          "title": "週刊文春 2025年8月14日・21日合併号[雑誌]",
+          "rating": 3.7,
+          "review_count": 50,
+          "price": "￥560",
+          "url": "https://www.amazon.co.jp/dp/B0F7VZ1NHL"
+        },
+        {
+          "rank": 6,
+          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
+          "rating": 3.9,
+          "review_count": 83,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
+        },
+        {
+          "rank": 7,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
+          "rating": 3.5,
+          "review_count": 167,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
+        },
+        {
+          "rank": 8,
+          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）５",
+          "rating": 4.9,
+          "review_count": 263,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0FCJ7H8KD"
+        },
+        {
+          "rank": 9,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2253,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 10,
+          "title": "家電批評 2025年8月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.9,
+          "review_count": 97,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0FCY275D7"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-08-12T03:45:09.239530",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 143,
           "price": "￥737",
           "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-08-10T04:00:06.672286",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）５",
-          "rating": 4.9,
-          "review_count": 228,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0FCJ7H8KD"
-        },
-        {
-          "rank": 2,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）４",
-          "rating": 4.9,
-          "review_count": 377,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0DWMFKHXW"
-        },
-        {
-          "rank": 3,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）３",
-          "rating": 4.9,
-          "review_count": 474,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0DJQK5P6D"
-        },
-        {
-          "rank": 4,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）２",
-          "rating": 4.9,
-          "review_count": 594,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0CYP6Z8PS"
-        },
-        {
-          "rank": 5,
-          "title": "オルクセン王国史～野蛮なオークの国は、如何にして平和なエルフの国を焼き払うに至ったか～（サーガフォレスト）１",
-          "rating": 4.8,
-          "review_count": 998,
-          "price": "￥11",
-          "url": "https://www.amazon.co.jp/dp/B0CQ4YPBD3"
-        },
-        {
-          "rank": 6,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 7,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 8052,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 8,
-          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
-          "rating": 3.7,
-          "review_count": 145,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
-        },
-        {
-          "rank": 9,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年８月８・１５日号 [雑誌] FRIDAY",
-          "rating": 3.5,
-          "review_count": 132,
-          "price": "￥737",
-          "url": "https://www.amazon.co.jp/dp/B0FC68C1HF"
-        },
-        {
-          "rank": 10,
-          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 75,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
         }
       ]
     }
