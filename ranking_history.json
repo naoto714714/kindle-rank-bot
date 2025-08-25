@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-08-25T03:43:08.961154",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "Tarzan(ターザン) 2025年8月28日号 No.908 [休む技術。] [雑誌]",
+          "rating": 3.9,
+          "review_count": 116,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B0FH971SV3"
+        },
+        {
+          "rank": 2,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年９月５日号 [雑誌] FRIDAY",
+          "rating": 4.4,
+          "review_count": 9,
+          "price": "￥620",
+          "url": "https://www.amazon.co.jp/dp/B0FGZ95XRH"
+        },
+        {
+          "rank": 3,
+          "title": "MONOQLO (モノクロ) 2025年 09月号 [雑誌]",
+          "rating": 3.8,
+          "review_count": 111,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPHH8X"
+        },
+        {
+          "rank": 4,
+          "title": "クロワッサン　2025年8月10日号　No.1146 [新時代の節約術。] [雑誌]",
+          "rating": 3.8,
+          "review_count": 73,
+          "price": "￥567",
+          "url": "https://www.amazon.co.jp/dp/B0FCY4NRDS"
+        },
+        {
+          "rank": 5,
+          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
+          "rating": 3.9,
+          "review_count": 87,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
+        },
+        {
+          "rank": 6,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2267,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 7,
+          "title": "MonoMax　2025年8月号 [雑誌]",
+          "rating": 3.9,
+          "review_count": 88,
+          "price": "￥440",
+          "url": "https://www.amazon.co.jp/dp/B0FCXVD6FM"
+        },
+        {
+          "rank": 8,
+          "title": "家電批評 2025年8月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.9,
+          "review_count": 104,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B0FCY275D7"
+        },
+        {
+          "rank": 9,
+          "title": "コンサルティングビジネス",
+          "rating": 4.4,
+          "review_count": 25,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0F2HGWK4D"
+        },
+        {
+          "rank": 10,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 1149,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-08-24T03:44:10.759065",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "週刊文春 2025年8月14日・21日合併号[雑誌]",
           "rating": 3.5,
           "review_count": 90,
-          "price": "￥560",
-          "url": "https://www.amazon.co.jp/dp/B0F7VZ1NHL"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-08-21T03:36:35.844696",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "Tarzan(ターザン) 2025年8月28日号 No.908 [休む技術。] [雑誌]",
-          "rating": 4.0,
-          "review_count": 90,
-          "price": "￥721",
-          "url": "https://www.amazon.co.jp/dp/B0FH971SV3"
-        },
-        {
-          "rank": 2,
-          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 88,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
-        },
-        {
-          "rank": 3,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 7531,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 4,
-          "title": "MONOQLO (モノクロ) 2025年 08月号 [雑誌]",
-          "rating": 3.8,
-          "review_count": 155,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKQHYJY"
-        },
-        {
-          "rank": 5,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2264,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 6,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 8377,
-          "price": "￥1,155",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
-        },
-        {
-          "rank": 7,
-          "title": "クロワッサン　2025年8月10日号　No.1146 [新時代の節約術。] [雑誌]",
-          "rating": 3.8,
-          "review_count": 69,
-          "price": "￥630",
-          "url": "https://www.amazon.co.jp/dp/B0FCY4NRDS"
-        },
-        {
-          "rank": 8,
-          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
-          "rating": 4.3,
-          "review_count": 238,
-          "price": "￥2,376",
-          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 1117,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "週刊文春 2025年8月14日・21日合併号[雑誌]",
-          "rating": 3.5,
-          "review_count": 87,
           "price": "￥560",
           "url": "https://www.amazon.co.jp/dp/B0F7VZ1NHL"
         }
