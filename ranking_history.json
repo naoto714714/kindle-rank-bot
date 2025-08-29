@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-08-29T03:31:03.142185",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "Tarzan(ターザン) 2025年8月28日号 No.908 [休む技術。] [雑誌]",
+          "rating": 4.0,
+          "review_count": 182,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B0FH971SV3"
+        },
+        {
+          "rank": 2,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年９月５日号 [雑誌] FRIDAY",
+          "rating": 3.7,
+          "review_count": 45,
+          "price": "￥620",
+          "url": "https://www.amazon.co.jp/dp/B0FGZ95XRH"
+        },
+        {
+          "rank": 3,
+          "title": "MONOQLO (モノクロ) 2025年 09月号 [雑誌]",
+          "rating": 3.8,
+          "review_count": 116,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPHH8X"
+        },
+        {
+          "rank": 4,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2283,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 5,
+          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
+          "rating": 4.3,
+          "review_count": 247,
+          "price": "￥2,376",
+          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
+        },
+        {
+          "rank": 6,
+          "title": "MonoMax　2025年8月号 [雑誌]",
+          "rating": 3.9,
+          "review_count": 92,
+          "price": "￥440",
+          "url": "https://www.amazon.co.jp/dp/B0FCXVD6FM"
+        },
+        {
+          "rank": 7,
+          "title": "GetNavi 2025年9月･10月号[雑誌]",
+          "rating": 3.4,
+          "review_count": 70,
+          "price": "￥529",
+          "url": "https://www.amazon.co.jp/dp/B0DXVL9B6G"
+        },
+        {
+          "rank": 8,
+          "title": "LDK the Beauty 2025年9月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 4.0,
+          "review_count": 31,
+          "price": "￥675",
+          "url": "https://www.amazon.co.jp/dp/B0FCXZSFSH"
+        },
+        {
+          "rank": 9,
+          "title": "クロワッサン　2025年8月25日号　No.1147 [暑い日の簡単スピードごはん。] [雑誌]",
+          "rating": 3.8,
+          "review_count": 36,
+          "price": "￥630",
+          "url": "https://www.amazon.co.jp/dp/B0FDWMRB2S"
+        },
+        {
+          "rank": 10,
+          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
+          "rating": 4.0,
+          "review_count": 23,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-08-28T03:31:39.764281",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 54,
           "price": "￥621",
           "url": "https://www.amazon.co.jp/dp/B0F2S9YHLB"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-08-26T03:37:40.279561",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "Tarzan(ターザン) 2025年8月28日号 No.908 [休む技術。] [雑誌]",
-          "rating": 3.9,
-          "review_count": 132,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B0FH971SV3"
-        },
-        {
-          "rank": 2,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年９月５日号 [雑誌] FRIDAY",
-          "rating": 4.2,
-          "review_count": 22,
-          "price": "￥620",
-          "url": "https://www.amazon.co.jp/dp/B0FGZ95XRH"
-        },
-        {
-          "rank": 3,
-          "title": "MONOQLO (モノクロ) 2025年 09月号 [雑誌]",
-          "rating": 3.8,
-          "review_count": 113,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0DQKPHH8X"
-        },
-        {
-          "rank": 4,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2271,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
-        },
-        {
-          "rank": 5,
-          "title": "Oggi (オッジ) 2025年 8月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 87,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0DXJYZRZY"
-        },
-        {
-          "rank": 6,
-          "title": "MonoMax　2025年8月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 91,
-          "price": "￥440",
-          "url": "https://www.amazon.co.jp/dp/B0FCXVD6FM"
-        },
-        {
-          "rank": 7,
-          "title": "クロワッサン　2025年8月10日号　No.1146 [新時代の節約術。] [雑誌]",
-          "rating": 3.8,
-          "review_count": 76,
-          "price": "￥567",
-          "url": "https://www.amazon.co.jp/dp/B0FCY4NRDS"
-        },
-        {
-          "rank": 8,
-          "title": "家電批評 2025年8月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 104,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B0FCY275D7"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 1158,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "心穏やかに生きる哲学 ストア派に学ぶストレスフルな時代を生きる考え方",
-          "rating": 4.4,
-          "review_count": 245,
-          "price": "￥2,376",
-          "url": "https://www.amazon.co.jp/dp/B0D9N9ZFJG"
         }
       ]
     }
