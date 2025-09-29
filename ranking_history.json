@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-09-29T03:33:39.313873",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
+          "rating": 4.0,
+          "review_count": 69,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
+        },
+        {
+          "rank": 2,
+          "title": "家電批評 2025年9月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.8,
+          "review_count": 99,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B0FDWLTVTM"
+        },
+        {
+          "rank": 3,
+          "title": "クロワッサン　2025年9月25日号　No.1149 [上手に休む、リカバリー術。] [雑誌]",
+          "rating": 3.9,
+          "review_count": 45,
+          "price": "￥567",
+          "url": "https://www.amazon.co.jp/dp/B0FDWK771F"
+        },
+        {
+          "rank": 4,
+          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
+          "rating": 4.1,
+          "review_count": 116,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
+        },
+        {
+          "rank": 5,
+          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
+          "rating": 4.0,
+          "review_count": 24,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
+        },
+        {
+          "rank": 6,
+          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
+          "rating": 4.2,
+          "review_count": 65,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
+        },
+        {
+          "rank": 7,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 1423,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 8,
+          "title": "クリエイターのためのChatGPT活用大全 創作の幅が一気に広がる！",
+          "rating": 4.1,
+          "review_count": 61,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CLGCYFSB"
+        },
+        {
+          "rank": 9,
+          "title": "世界の一流は「雑談」で何を話しているのか",
+          "rating": 4.0,
+          "review_count": 2342,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
+        },
+        {
+          "rank": 10,
+          "title": "Casa BRUTUS(カーサ ブルータス) 2025年 9月号 [日本のBEST美術館] [雑誌]",
+          "rating": 4.4,
+          "review_count": 60,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B0FDWKNK7L"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-09-28T03:34:22.679492",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 6,
           "price": "￥520",
           "url": "https://www.amazon.co.jp/dp/B0F7W4YH7Z"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-09-26T03:28:25.993966",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.0,
-          "review_count": 66,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 2,
-          "title": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?） 8 (ダッシュエックス文庫DIGITAL)",
-          "rating": 4.8,
-          "review_count": 40,
-          "price": "￥814",
-          "url": "https://www.amazon.co.jp/dp/B0FQJNKN86"
-        },
-        {
-          "rank": 3,
-          "title": "家電批評 2025年9月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.8,
-          "review_count": 98,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B0FDWLTVTM"
-        },
-        {
-          "rank": 4,
-          "title": "Oggi (オッジ) 2025年 9月号 [雑誌]",
-          "rating": 4.0,
-          "review_count": 113,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F97TX8L6"
-        },
-        {
-          "rank": 5,
-          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
-          "rating": 4.2,
-          "review_count": 20,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
-        },
-        {
-          "rank": 6,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 1413,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 7,
-          "title": "超鬼速PDCA",
-          "rating": 4.4,
-          "review_count": 42,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0DZH2G4GB"
-        },
-        {
-          "rank": 8,
-          "title": "クリエイターのためのChatGPT活用大全 創作の幅が一気に広がる！",
-          "rating": 4.1,
-          "review_count": 60,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0CLGCYFSB"
-        },
-        {
-          "rank": 9,
-          "title": "週刊FLASH（フラッシュ） 2025年10月7日号（1788号） [雑誌]",
-          "rating": 3.8,
-          "review_count": 13,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0FLCZWNZ6"
-        },
-        {
-          "rank": 10,
-          "title": "世界の一流は「雑談」で何を話しているのか",
-          "rating": 4.0,
-          "review_count": 2339,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0BZTVKKMR"
         }
       ]
     }
