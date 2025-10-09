@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-10-09T03:28:31.844520",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "カードゲームで本当に強くなる考え方 (ちくまプリマー新書)",
+          "rating": 3.2,
+          "review_count": 12,
+          "price": "￥935",
+          "url": "https://www.amazon.co.jp/dp/B0FTS1MJV9"
+        },
+        {
+          "rank": 2,
+          "title": "一度読んだら絶対に忘れない世界史の教科書【宗教編】　公立高校教師YouTuberが書いた",
+          "rating": 4.4,
+          "review_count": 161,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B09MS2DCCP"
+        },
+        {
+          "rank": 3,
+          "title": "クロワッサン　2025年9月25日号　No.1149 [上手に休む、リカバリー術。] [雑誌]",
+          "rating": 4.0,
+          "review_count": 85,
+          "price": "￥630",
+          "url": "https://www.amazon.co.jp/dp/B0FDWK771F"
+        },
+        {
+          "rank": 4,
+          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
+          "rating": 4.0,
+          "review_count": 139,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
+        },
+        {
+          "rank": 5,
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科　人生が変わるテクニック112個集めました",
+          "rating": 4.3,
+          "review_count": 122,
+          "price": "￥1,725",
+          "url": "https://www.amazon.co.jp/dp/B0F2HGTDSV"
+        },
+        {
+          "rank": 6,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.2,
+          "review_count": 326,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 7,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 331,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 8,
+          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.8,
+          "review_count": 68,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
+        },
+        {
+          "rank": 9,
+          "title": "１秒収納",
+          "rating": 4.2,
+          "review_count": 153,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
+        },
+        {
+          "rank": 10,
+          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
+          "rating": 4.2,
+          "review_count": 91,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-07T03:26:27.480280",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "週刊FLASH（フラッシュ） 2025年10月14日号（1789号） [雑誌]",
           "rating": 3.2,
           "review_count": 29,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0FK9SCZVS"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-05T03:32:15.999417",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "クロワッサン　2025年9月25日号　No.1149 [上手に休む、リカバリー術。] [雑誌]",
-          "rating": 3.9,
-          "review_count": 75,
-          "price": "￥630",
-          "url": "https://www.amazon.co.jp/dp/B0FDWK771F"
-        },
-        {
-          "rank": 2,
-          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
-          "rating": 4.1,
-          "review_count": 129,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
-        },
-        {
-          "rank": 3,
-          "title": "１秒収納",
-          "rating": 4.3,
-          "review_count": 125,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        },
-        {
-          "rank": 4,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.2,
-          "review_count": 310,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 5,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 326,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 6,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 77,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 7,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.8,
-          "review_count": 58,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 8,
-          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
-          "rating": 4.2,
-          "review_count": 83,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
-        },
-        {
-          "rank": 9,
-          "title": "GetNavi 2025年10.5月号[雑誌]",
-          "rating": 3.5,
-          "review_count": 72,
-          "price": "￥529",
-          "url": "https://www.amazon.co.jp/dp/B0DXVLBC6C"
-        },
-        {
-          "rank": 10,
-          "title": "週刊FLASH（フラッシュ） 2025年10月14日号（1789号） [雑誌]",
-          "rating": 3.3,
-          "review_count": 18,
           "price": "￥550",
           "url": "https://www.amazon.co.jp/dp/B0FK9SCZVS"
         }
