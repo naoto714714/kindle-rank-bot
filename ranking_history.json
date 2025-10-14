@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-10-14T03:29:53.275070",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.2,
+          "review_count": 345,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 2,
+          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.9,
+          "review_count": 82,
+          "price": "￥621",
+          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
+        },
+        {
+          "rank": 3,
+          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２１ (GA文庫)",
+          "rating": 4.8,
+          "review_count": 315,
+          "price": "￥906",
+          "url": "https://www.amazon.co.jp/dp/B0FB2PWCD7"
+        },
+        {
+          "rank": 4,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 342,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 5,
+          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
+          "rating": 4.0,
+          "review_count": 144,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
+        },
+        {
+          "rank": 6,
+          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年１０月２４・３１日号 [雑誌] FRIDAY",
+          "rating": 4.0,
+          "review_count": 26,
+          "price": "￥737",
+          "url": "https://www.amazon.co.jp/dp/B0FKMPGVVK"
+        },
+        {
+          "rank": 7,
+          "title": "１秒収納",
+          "rating": 4.1,
+          "review_count": 186,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
+        },
+        {
+          "rank": 8,
+          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
+          "rating": 4.2,
+          "review_count": 99,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
+        },
+        {
+          "rank": 9,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 758,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 10,
+          "title": "大人のための生物学の教科書　最新の知識を本質的に理解する (ブルーバックス)",
+          "rating": 4.4,
+          "review_count": 47,
+          "price": "￥1,320",
+          "url": "https://www.amazon.co.jp/dp/B0CHRPM3Y2"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-13T03:38:33.558734",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 81,
           "price": "￥529",
           "url": "https://www.amazon.co.jp/dp/B0DXVLBC6C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-11T03:21:47.203057",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 71,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 2,
-          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
-          "rating": 4.0,
-          "review_count": 140,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
-        },
-        {
-          "rank": 3,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.2,
-          "review_count": 332,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 4,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 335,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 5,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 80,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 6,
-          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
-          "rating": 4.2,
-          "review_count": 93,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
-        },
-        {
-          "rank": 7,
-          "title": "１秒収納",
-          "rating": 4.2,
-          "review_count": 163,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        },
-        {
-          "rank": 8,
-          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２１ (GA文庫)",
-          "rating": 5.0,
-          "review_count": 1,
-          "price": "￥924",
-          "url": "https://www.amazon.co.jp/dp/B0FB2PWCD7"
-        },
-        {
-          "rank": 9,
-          "title": "GetNavi 2025年10.5月号[雑誌]",
-          "rating": 3.6,
-          "review_count": 81,
-          "price": "￥529",
-          "url": "https://www.amazon.co.jp/dp/B0DXVLBC6C"
-        },
-        {
-          "rank": 10,
-          "title": "Excel 最強の教科書［完全版］　【2nd Edition】",
-          "rating": 4.0,
-          "review_count": 558,
-          "price": "￥1,725",
-          "url": "https://www.amazon.co.jp/dp/B09RSM2GLX"
         }
       ]
     }
