@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-10-15T03:33:36.779604",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.2,
+          "review_count": 347,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 2,
+          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.9,
+          "review_count": 87,
+          "price": "￥621",
+          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
+        },
+        {
+          "rank": 3,
+          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２１ (GA文庫)",
+          "rating": 4.9,
+          "review_count": 384,
+          "price": "￥906",
+          "url": "https://www.amazon.co.jp/dp/B0FB2PWCD7"
+        },
+        {
+          "rank": 4,
+          "title": "ポーズの美術解剖学　人体表現の幅が広がる",
+          "rating": 4.4,
+          "review_count": 242,
+          "price": "￥3,025",
+          "url": "https://www.amazon.co.jp/dp/B0CFZJS3VD"
+        },
+        {
+          "rank": 5,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 344,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 6,
+          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
+          "rating": 4.0,
+          "review_count": 145,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
+        },
+        {
+          "rank": 7,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 776,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 8,
+          "title": "１秒収納",
+          "rating": 4.1,
+          "review_count": 189,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
+        },
+        {
+          "rank": 9,
+          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
+          "rating": 4.2,
+          "review_count": 101,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
+        },
+        {
+          "rank": 10,
+          "title": "ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア１６ (GA文庫)",
+          "rating": 4.8,
+          "review_count": 127,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B0FB36BV3M"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-14T03:29:53.275070",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 19,
           "price": "￥737",
           "url": "https://www.amazon.co.jp/dp/B0FKMPGVVK"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-12T03:30:10.495677",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２１ (GA文庫)",
-          "rating": 4.9,
-          "review_count": 47,
-          "price": "￥906",
-          "url": "https://www.amazon.co.jp/dp/B0FB2PWCD7"
-        },
-        {
-          "rank": 2,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 73,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 3,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.2,
-          "review_count": 336,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 4,
-          "title": "MONOQLO (モノクロ) 2025年 10月号 [雑誌]",
-          "rating": 4.0,
-          "review_count": 142,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKPCNFN"
-        },
-        {
-          "rank": 5,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 337,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 6,
-          "title": "ダンジョンに出会いを求めるのは間違っているだろうか外伝　ソード・オラトリア１６ (GA文庫)",
-          "rating": 4.9,
-          "review_count": 13,
-          "price": "￥924",
-          "url": "https://www.amazon.co.jp/dp/B0FB36BV3M"
-        },
-        {
-          "rank": 7,
-          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
-          "rating": 4.2,
-          "review_count": 93,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
-        },
-        {
-          "rank": 8,
-          "title": "１秒収納",
-          "rating": 4.2,
-          "review_count": 169,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        },
-        {
-          "rank": 9,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 80,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 10,
-          "title": "GetNavi 2025年10.5月号[雑誌]",
-          "rating": 3.6,
-          "review_count": 81,
-          "price": "￥529",
-          "url": "https://www.amazon.co.jp/dp/B0DXVLBC6C"
         }
       ]
     }
