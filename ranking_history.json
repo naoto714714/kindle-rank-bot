@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-10-22T03:40:36.388152",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.8,
+          "review_count": 98,
+          "price": "￥621",
+          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
+        },
+        {
+          "rank": 2,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.2,
+          "review_count": 363,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 3,
+          "title": "クロワッサン　2025年10月10日号　No.1150 [老舗のいいもの。] [雑誌]",
+          "rating": 3.9,
+          "review_count": 75,
+          "price": "￥567",
+          "url": "https://www.amazon.co.jp/dp/B0FDWNQBY1"
+        },
+        {
+          "rank": 4,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 357,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 5,
+          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
+          "rating": 3.9,
+          "review_count": 100,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
+        },
+        {
+          "rank": 6,
+          "title": "家電批評 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
+          "rating": 3.9,
+          "review_count": 90,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0FDW345GG"
+        },
+        {
+          "rank": 7,
+          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
+          "rating": 4.1,
+          "review_count": 110,
+          "price": "￥730",
+          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
+        },
+        {
+          "rank": 8,
+          "title": "１秒収納",
+          "rating": 4.1,
+          "review_count": 225,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
+        },
+        {
+          "rank": 9,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 885,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 10,
+          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-21T03:35:14.783251",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1249,
           "price": "￥2,178",
           "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-19T03:42:14.934209",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.2,
-          "review_count": 357,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 2,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 91,
-          "price": "￥621",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 3,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 354,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 4,
-          "title": "クロワッサン　2025年10月10日号　No.1150 [老舗のいいもの。] [雑誌]",
-          "rating": 3.9,
-          "review_count": 69,
-          "price": "￥567",
-          "url": "https://www.amazon.co.jp/dp/B0FDWNQBY1"
-        },
-        {
-          "rank": 5,
-          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
-          "rating": 4.2,
-          "review_count": 105,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
-        },
-        {
-          "rank": 6,
-          "title": "１秒収納",
-          "rating": 4.1,
-          "review_count": 213,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        },
-        {
-          "rank": 7,
-          "title": "家電批評 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 87,
-          "price": "￥880",
-          "url": "https://www.amazon.co.jp/dp/B0FDW345GG"
-        },
-        {
-          "rank": 8,
-          "title": "ザ・ロイヤルファミリー（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 844,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
-        },
-        {
-          "rank": 9,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1249,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 10,
-          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 97,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
         }
       ]
     }
