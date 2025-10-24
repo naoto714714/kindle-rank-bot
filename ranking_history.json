@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-10-24T03:30:01.084388",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "教養としての「民法」入門",
+          "rating": 4.5,
+          "review_count": 11,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0F181CSVC"
+        },
+        {
+          "rank": 2,
+          "title": "スレイヤーズ1(新装版) スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.5,
+          "review_count": 175,
+          "price": "￥37",
+          "url": "https://www.amazon.co.jp/dp/B0093SY2YK"
+        },
+        {
+          "rank": 3,
+          "title": "増補改訂版 スマホ時代の哲学 なぜ不安や退屈をスマホで埋めてしまうのか (ディスカヴァー携書)",
+          "rating": 4.2,
+          "review_count": 104,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0F2SJ9D2N"
+        },
+        {
+          "rank": 4,
+          "title": "スレイヤーズ2　アトラスの魔道士(新装版) スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 88,
+          "price": "￥184",
+          "url": "https://www.amazon.co.jp/dp/B0093SY4AM"
+        },
+        {
+          "rank": 5,
+          "title": "スレイヤーズ3　サイラーグの妖魔(新装版) スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.5,
+          "review_count": 75,
+          "price": "￥184",
+          "url": "https://www.amazon.co.jp/dp/B009FUYE44"
+        },
+        {
+          "rank": 6,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 369,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 7,
+          "title": "スレイヤーズ4　聖王都動乱(新装版) スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.5,
+          "review_count": 70,
+          "price": "￥184",
+          "url": "https://www.amazon.co.jp/dp/B009NNZQP4"
+        },
+        {
+          "rank": 8,
+          "title": "スレイヤーズ5　白銀の魔獣(新装版) スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 66,
+          "price": "￥184",
+          "url": "https://www.amazon.co.jp/dp/B009NNZQMW"
+        },
+        {
+          "rank": 9,
+          "title": "スレイヤーズ17　遥かなる帰路 スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 560,
+          "price": "￥347",
+          "url": "https://www.amazon.co.jp/dp/B07Z4HCV12"
+        },
+        {
+          "rank": 10,
+          "title": "スレイヤーズ16　アテッサの邂逅 スレイヤーズ (新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 523,
+          "price": "￥330",
+          "url": "https://www.amazon.co.jp/dp/B07JGFBT3G"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-23T03:32:46.321469",
       "rankings": [
         {
@@ -157,91 +242,6 @@
           "title": "ザ・ロイヤルファミリー（新潮文庫）",
           "rating": 4.4,
           "review_count": 885,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
-        },
-        {
-          "rank": 10,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 82,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-21T03:35:14.783251",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.8,
-          "review_count": 96,
-          "price": "￥621",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 2,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.2,
-          "review_count": 361,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 3,
-          "title": "クロワッサン　2025年10月10日号　No.1150 [老舗のいいもの。] [雑誌]",
-          "rating": 3.9,
-          "review_count": 73,
-          "price": "￥567",
-          "url": "https://www.amazon.co.jp/dp/B0FDWNQBY1"
-        },
-        {
-          "rank": 4,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 357,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 5,
-          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 99,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
-        },
-        {
-          "rank": 6,
-          "title": "家電批評 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 88,
-          "price": "￥880",
-          "url": "https://www.amazon.co.jp/dp/B0FDW345GG"
-        },
-        {
-          "rank": 7,
-          "title": "Oggi (オッジ) 2025年 10月号 [雑誌]",
-          "rating": 4.1,
-          "review_count": 108,
-          "price": "￥730",
-          "url": "https://www.amazon.co.jp/dp/B0F98G3SDH"
-        },
-        {
-          "rank": 8,
-          "title": "１秒収納",
-          "rating": 4.1,
-          "review_count": 218,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        },
-        {
-          "rank": 9,
-          "title": "ザ・ロイヤルファミリー（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 866,
           "price": "￥891",
           "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
         },
