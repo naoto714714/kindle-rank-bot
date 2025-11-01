@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-01T03:39:34.141092",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "変な地図",
+          "rating": 4.9,
+          "review_count": 11,
+          "price": "￥1,744",
+          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
+        },
+        {
+          "rank": 2,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 388,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 3,
+          "title": "ビジュアル図鑑　中世ヨーロッパ",
+          "rating": 4.5,
+          "review_count": 142,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B09WMNR33F"
+        },
+        {
+          "rank": 4,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 376,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 5,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1255,
+          "price": "￥2,178",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        },
+        {
+          "rank": 6,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1047,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 7,
+          "title": "週刊ポストGOLD　グラビア傑作選2025秋号 週刊ポストGOLD グラビア傑作選",
+          "rating": 4.1,
+          "review_count": 72,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FSR5B45F"
+        },
+        {
+          "rank": 8,
+          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
+          "rating": 4.1,
+          "review_count": 84,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
+        },
+        {
+          "rank": 9,
+          "title": "１秒収納",
+          "rating": 4.0,
+          "review_count": 252,
+          "price": "￥1,540",
+          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
+        },
+        {
+          "rank": 10,
+          "title": "いつも好印象な人がしている言葉の選び方――言い方ひとつで、私たちはもっと生きやすくなる",
+          "rating": 4.8,
+          "review_count": 22,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0FKSHWNS5"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-10-30T03:39:50.666325",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 241,
           "price": "￥1,540",
           "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-10-27T03:48:12.227620",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 380,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 2,
-          "title": "LDK 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.8,
-          "review_count": 107,
-          "price": "￥621",
-          "url": "https://www.amazon.co.jp/dp/B0FDWN1ZB8"
-        },
-        {
-          "rank": 3,
-          "title": "MONOQLO (モノクロ) 2025年 11月号 [雑誌]",
-          "rating": 3.9,
-          "review_count": 106,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKRYJLP"
-        },
-        {
-          "rank": 4,
-          "title": "ＦＲＩＤＡＹ (フライデー)　２０２５年１１月７日号 [雑誌] FRIDAY",
-          "rating": 4.0,
-          "review_count": 2,
-          "price": "￥620",
-          "url": "https://www.amazon.co.jp/dp/B0FGX25KPD"
-        },
-        {
-          "rank": 5,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 367,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 6,
-          "title": "家電批評 2025年10月号【電子書籍版限定特典付き】 [雑誌]",
-          "rating": 3.9,
-          "review_count": 93,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B0FDW345GG"
-        },
-        {
-          "rank": 7,
-          "title": "GetNavi 2025年11月号[雑誌]",
-          "rating": 3.5,
-          "review_count": 85,
-          "price": "￥529",
-          "url": "https://www.amazon.co.jp/dp/B0DXVHP7G7"
-        },
-        {
-          "rank": 8,
-          "title": "MONOQLO (モノクロ) 2025年 12月号 [雑誌]",
-          "rating": 3.5,
-          "review_count": 12,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DQKR5PKY"
-        },
-        {
-          "rank": 9,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1253,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 10,
-          "title": "週刊大衆 2025年11月３日号[雑誌]",
-          "rating": 5.0,
-          "review_count": 4,
-          "price": "￥479",
-          "url": "https://www.amazon.co.jp/dp/B0FMQ224VP"
         }
       ]
     }
