@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-06T03:43:54.548961",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "変な地図",
+          "rating": 4.4,
+          "review_count": 80,
+          "price": "￥1,673",
+          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
+        },
+        {
+          "rank": 2,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 398,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 3,
+          "title": "コンセプチュアル思考 物事の本質を見極め、解釈し、獲得する",
+          "rating": 4.1,
+          "review_count": 155,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B09QG8RT8B"
+        },
+        {
+          "rank": 4,
+          "title": "週刊ポストGOLD　グラビア傑作選2025秋号 週刊ポストGOLD グラビア傑作選",
+          "rating": 4.0,
+          "review_count": 88,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0FSR5B45F"
+        },
+        {
+          "rank": 5,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1257,
+          "price": "￥2,178",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        },
+        {
+          "rank": 6,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 384,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 7,
+          "title": "船体解剖図",
+          "rating": 4.3,
+          "review_count": 105,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B09L4QPMFS"
+        },
+        {
+          "rank": 8,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1144,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 9,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 825,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 10,
+          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
+          "rating": 4.1,
+          "review_count": 238,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-11-05T03:40:50.581151",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 236,
           "price": "￥941",
           "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-11-03T03:46:41.957309",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "変な地図",
-          "rating": 4.2,
-          "review_count": 40,
-          "price": "￥1,673",
-          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
-        },
-        {
-          "rank": 2,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 393,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 3,
-          "title": "週刊ポストGOLD　グラビア傑作選2025秋号 週刊ポストGOLD グラビア傑作選",
-          "rating": 4.1,
-          "review_count": 81,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0FSR5B45F"
-        },
-        {
-          "rank": 4,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 379,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 5,
-          "title": "コンセプチュアル思考 物事の本質を見極め、解釈し、獲得する",
-          "rating": 4.1,
-          "review_count": 155,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B09QG8RT8B"
-        },
-        {
-          "rank": 6,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1256,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 7,
-          "title": "ザ・ロイヤルファミリー（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1095,
-          "price": "￥970",
-          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
-        },
-        {
-          "rank": 8,
-          "title": "ビジュアル図鑑　中世ヨーロッパ",
-          "rating": 4.4,
-          "review_count": 143,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B09WMNR33F"
-        },
-        {
-          "rank": 9,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 84,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 10,
-          "title": "１秒収納",
-          "rating": 4.0,
-          "review_count": 256,
-          "price": "￥1,540",
-          "url": "https://www.amazon.co.jp/dp/B0DM57XSSN"
         }
       ]
     }
