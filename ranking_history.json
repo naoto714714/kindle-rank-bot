@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-13T03:43:22.188418",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "転生したらスライムだった件 23 (GCノベルズ)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
+        },
+        {
+          "rank": 2,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 837,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 3,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 411,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 4,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1264,
+          "price": "￥2,372",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        },
+        {
+          "rank": 5,
+          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
+          "rating": 4.1,
+          "review_count": 242,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
+        },
+        {
+          "rank": 6,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 401,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 7,
+          "title": "変な地図",
+          "rating": 4.8,
+          "review_count": 379,
+          "price": "￥1,707",
+          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
+        },
+        {
+          "rank": 8,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1241,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        },
+        {
+          "rank": 9,
+          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
+          "rating": 4.1,
+          "review_count": 86,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
+        },
+        {
+          "rank": 10,
+          "title": "人に優しく、自分に甘く　楽しい人生を生きる宇宙法則 (知的生きかた文庫)",
+          "rating": 4.5,
+          "review_count": 447,
+          "price": "￥852",
+          "url": "https://www.amazon.co.jp/dp/B0D8KY516V"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-11-12T03:41:18.786310",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 445,
           "price": "￥852",
           "url": "https://www.amazon.co.jp/dp/B0D8KY516V"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-11-10T03:47:16.683246",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 408,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 2,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 832,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 3,
-          "title": "変な地図",
-          "rating": 4.4,
-          "review_count": 118,
-          "price": "￥1,707",
-          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
-        },
-        {
-          "rank": 4,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1261,
-          "price": "￥2,372",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 5,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 391,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 6,
-          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
-          "rating": 4.1,
-          "review_count": 238,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        },
-        {
-          "rank": 7,
-          "title": "週刊ポストGOLD　グラビア傑作選2025秋号 週刊ポストGOLD グラビア傑作選",
-          "rating": 4.0,
-          "review_count": 99,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0FSR5B45F"
-        },
-        {
-          "rank": 8,
-          "title": "ザ・ロイヤルファミリー（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1195,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
-        },
-        {
-          "rank": 9,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 85,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 10,
-          "title": "はじめての言語学 (講談社現代新書)",
-          "rating": 4.2,
-          "review_count": 187,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B00BB1ZRDM"
         }
       ]
     }
