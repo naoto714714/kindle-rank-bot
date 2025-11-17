@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-17T03:45:16.986975",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 850,
+          "price": "￥1,178",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 2,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 418,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 3,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1266,
+          "price": "￥2,178",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        },
+        {
+          "rank": 4,
+          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
+          "rating": 4.1,
+          "review_count": 246,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
+        },
+        {
+          "rank": 5,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 409,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 6,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 377,
+          "price": "￥2,455",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 7,
+          "title": "つくりたくなる日々レシピ【Amazon.co.jp限定特典付】",
+          "rating": 4.6,
+          "review_count": 618,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B0C33BYPB4"
+        },
+        {
+          "rank": 8,
+          "title": "転生したらスライムだった件 23 (GCノベルズ)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
+        },
+        {
+          "rank": 9,
+          "title": "【ChatGPT×GPTs】生成AI完全活用バイブル 副業・効率化・販売までこれ1冊: 副業から業務効率化、そして販売まで ― AI活用の決定版",
+          "rating": 4.9,
+          "review_count": 394,
+          "price": "￥780",
+          "url": "https://www.amazon.co.jp/dp/B0G1Z6L5WG"
+        },
+        {
+          "rank": 10,
+          "title": "ザ・ロイヤルファミリー（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1309,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-11-16T03:44:59.102739",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 577,
           "price": "￥1,707",
           "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-11-14T03:41:54.818662",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "転生したらスライムだった件 23 (GCノベルズ)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
-        },
-        {
-          "rank": 2,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 842,
-          "price": "￥1,178",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 3,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 411,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 4,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1265,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 5,
-          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
-          "rating": 4.1,
-          "review_count": 242,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        },
-        {
-          "rank": 6,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 403,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 7,
-          "title": "ザ・ロイヤルファミリー（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1257,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BKRHWGL3"
-        },
-        {
-          "rank": 8,
-          "title": "もっと！誕生日が教えてくれる本当のあなた（電子版特典つき：ともこ式数秘術で納得！著名人の読み解き実例集）",
-          "rating": 4.1,
-          "review_count": 86,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0CTJZX9NV"
-        },
-        {
-          "rank": 9,
-          "title": "変な地図",
-          "rating": 4.8,
-          "review_count": 484,
-          "price": "￥1,707",
-          "url": "https://www.amazon.co.jp/dp/B0FXB75Y2L"
-        },
-        {
-          "rank": 10,
-          "title": "人に優しく、自分に甘く　楽しい人生を生きる宇宙法則 (知的生きかた文庫)",
-          "rating": 4.5,
-          "review_count": 449,
-          "price": "￥852",
-          "url": "https://www.amazon.co.jp/dp/B0D8KY516V"
         }
       ]
     }
