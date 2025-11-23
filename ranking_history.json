@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-23T03:54:10.862214",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 879,
+          "price": "￥1,178",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 2,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 377,
+          "price": "￥2,455",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 3,
+          "title": "フルメタル・パニック！せまるニック・オブ・タイム(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 178,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIHW"
+        },
+        {
+          "rank": 4,
+          "title": "フルメタル・パニック！つづくオン・マイ・オウン(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 161,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIN6"
+        },
+        {
+          "rank": 5,
+          "title": "フルメタル・パニック！終わるデイ・バイ・デイ(下) (新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.8,
+          "review_count": 165,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIW2"
+        },
+        {
+          "rank": 6,
+          "title": "フルメタル・パニック！燃えるワン・マン・フォース(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 162,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIPO"
+        },
+        {
+          "rank": 7,
+          "title": "フルメタル・パニック！つどうメイク・マイ・デイ(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 163,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIMM"
+        },
+        {
+          "rank": 8,
+          "title": "フルメタル・パニック！終わるデイ・バイ・デイ(上)(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 156,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIJ5S"
+        },
+        {
+          "rank": 9,
+          "title": "フルメタル・パニック！踊るベリー・メリー・クリスマス(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.5,
+          "review_count": 158,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIRC"
+        },
+        {
+          "rank": 10,
+          "title": "フルメタル・パニック！ずっとスタンド・バイ・ミー(上)(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 210,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIG8"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-11-22T03:34:15.292110",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 420,
           "price": "￥1,980",
           "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-11-20T03:39:51.745451",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ゲーム理論の〈裏口〉入門　ボードゲームで学ぶ戦略的思考法 (ＫＳ科学一般書)",
-          "rating": 4.0,
-          "review_count": 45,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0C5WP6KWJ"
-        },
-        {
-          "rank": 2,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 855,
-          "price": "￥1,178",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 3,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 422,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 4,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 377,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 5,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1270,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 6,
-          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
-          "rating": 4.1,
-          "review_count": 254,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        },
-        {
-          "rank": 7,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1254,
-          "price": "￥1,811",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 8,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 418,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 9,
-          "title": "【デジタル限定】竹中知華写真集「TOMOKA」 (週プレ PHOTO BOOK)",
-          "rating": 4.7,
-          "review_count": 10,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0G2B6QSX4"
-        },
-        {
-          "rank": 10,
-          "title": "つくりたくなる日々レシピ【Amazon.co.jp限定特典付】",
-          "rating": 4.6,
-          "review_count": 626,
-          "price": "￥825",
-          "url": "https://www.amazon.co.jp/dp/B0C33BYPB4"
         }
       ]
     }
