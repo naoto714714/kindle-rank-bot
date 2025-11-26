@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-11-26T03:44:20.527805",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "生殖記",
+          "rating": 4.2,
+          "review_count": 932,
+          "price": "￥1,178",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 2,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 377,
+          "price": "￥2,455",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 3,
+          "title": "ようこそ実力至上主義の教室へ　３年生編３ (MF文庫J)",
+          "rating": 3.3,
+          "review_count": 3,
+          "price": "￥814",
+          "url": "https://www.amazon.co.jp/dp/B0G2KW8F1Y"
+        },
+        {
+          "rank": 4,
+          "title": "フルメタル・パニック！踊るベリー・メリー・クリスマス(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.5,
+          "review_count": 158,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIRC"
+        },
+        {
+          "rank": 5,
+          "title": "フルメタル・パニック！つづくオン・マイ・オウン(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 161,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIN6"
+        },
+        {
+          "rank": 6,
+          "title": "フルメタル・パニック！燃えるワン・マン・フォース(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 162,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIPO"
+        },
+        {
+          "rank": 7,
+          "title": "フルメタル・パニック！ずっとスタンド・バイ・ミー(上)(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 210,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIG8"
+        },
+        {
+          "rank": 8,
+          "title": "フルメタル・パニック！戦うボーイ・ミーツ・ガール(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.6,
+          "review_count": 361,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B0093SYBBO"
+        },
+        {
+          "rank": 9,
+          "title": "フルメタル・パニック！ずっとスタンド・バイ・ミー(下) (新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.8,
+          "review_count": 344,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIF4"
+        },
+        {
+          "rank": 10,
+          "title": "フルメタル・パニック！せまるニック・オブ・タイム(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
+          "rating": 4.7,
+          "review_count": 178,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B009ROIIHW"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-11-25T03:44:34.988413",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 161,
           "price": "￥99",
           "url": "https://www.amazon.co.jp/dp/B009ROIIN6"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-11-23T03:54:10.862214",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 879,
-          "price": "￥1,178",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 2,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 377,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 3,
-          "title": "フルメタル・パニック！せまるニック・オブ・タイム(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.7,
-          "review_count": 178,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIHW"
-        },
-        {
-          "rank": 4,
-          "title": "フルメタル・パニック！つづくオン・マイ・オウン(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.7,
-          "review_count": 161,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIN6"
-        },
-        {
-          "rank": 5,
-          "title": "フルメタル・パニック！終わるデイ・バイ・デイ(下) (新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.8,
-          "review_count": 165,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIW2"
-        },
-        {
-          "rank": 6,
-          "title": "フルメタル・パニック！燃えるワン・マン・フォース(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.6,
-          "review_count": 162,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIPO"
-        },
-        {
-          "rank": 7,
-          "title": "フルメタル・パニック！つどうメイク・マイ・デイ(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.7,
-          "review_count": 163,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIMM"
-        },
-        {
-          "rank": 8,
-          "title": "フルメタル・パニック！終わるデイ・バイ・デイ(上)(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.7,
-          "review_count": 156,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIJ5S"
-        },
-        {
-          "rank": 9,
-          "title": "フルメタル・パニック！踊るベリー・メリー・クリスマス(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.5,
-          "review_count": 158,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIRC"
-        },
-        {
-          "rank": 10,
-          "title": "フルメタル・パニック！ずっとスタンド・バイ・ミー(上)(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.7,
-          "review_count": 210,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B009ROIIG8"
         }
       ]
     }
