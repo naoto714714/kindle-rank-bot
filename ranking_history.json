@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-06T03:39:09.716752",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ようこそ実力至上主義の教室へ　３年生編３ (MF文庫J)",
+          "rating": 4.1,
+          "review_count": 40,
+          "price": "￥798",
+          "url": "https://www.amazon.co.jp/dp/B0G2KW8F1Y"
+        },
+        {
+          "rank": 2,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 379,
+          "price": "￥2,455",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 3,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7030,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 4,
+          "title": "朝イチの「ひとり時間」が人生を変える",
+          "rating": 4.2,
+          "review_count": 1280,
+          "price": "￥1,663",
+          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
+        },
+        {
+          "rank": 5,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 1143,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 6,
+          "title": "転生したらスライムだった件 23 (GCノベルズ)",
+          "rating": 4.4,
+          "review_count": 66,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
+        },
+        {
+          "rank": 7,
+          "title": "行動経済学が最強の学問である",
+          "rating": 4.4,
+          "review_count": 1531,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0C14JJWSH"
+        },
+        {
+          "rank": 8,
+          "title": "成瀬は都を駆け抜ける （「成瀬」シリーズ）",
+          "rating": 4.8,
+          "review_count": 50,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0FQ4K3TW2"
+        },
+        {
+          "rank": 9,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 462,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 10,
+          "title": "見てわかる、迷わず決まる配色アイデア 3色だけでセンスのいい色 見てわかる、迷わず決まるシリーズ",
+          "rating": 4.5,
+          "review_count": 1434,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B089VPT2D7"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-05T03:48:11.749395",
       "rankings": [
         {
@@ -159,91 +244,6 @@
           "review_count": 145,
           "price": "￥506",
           "url": "https://www.amazon.co.jp/dp/B0DP45PL1P"
-        },
-        {
-          "rank": 10,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1282,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-03T03:47:27.997967",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ようこそ実力至上主義の教室へ　３年生編３ (MF文庫J)",
-          "rating": 4.0,
-          "review_count": 27,
-          "price": "￥733",
-          "url": "https://www.amazon.co.jp/dp/B0G2KW8F1Y"
-        },
-        {
-          "rank": 2,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 379,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 3,
-          "title": "転生したらスライムだった件 23 (GCノベルズ)",
-          "rating": 4.4,
-          "review_count": 40,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
-        },
-        {
-          "rank": 4,
-          "title": "生殖記",
-          "rating": 4.2,
-          "review_count": 1064,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 5,
-          "title": "成瀬は都を駆け抜ける （「成瀬」シリーズ）",
-          "rating": 4.9,
-          "review_count": 20,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0FQ4K3TW2"
-        },
-        {
-          "rank": 6,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 451,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 7,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7008,
-          "price": "￥624",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 8,
-          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
-          "rating": 4.1,
-          "review_count": 289,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        },
-        {
-          "rank": 9,
-          "title": "フルメタル・パニック！戦うボーイ・ミーツ・ガール(新装版) フルメタル・パニック！(新装版) (富士見ファンタジア文庫)",
-          "rating": 4.6,
-          "review_count": 367,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B0093SYBBO"
         },
         {
           "rank": 10,
