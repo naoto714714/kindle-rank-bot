@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-07T03:54:01.124176",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 379,
+          "price": "￥2,455",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 2,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7039,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 3,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 1185,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 4,
+          "title": "朝イチの「ひとり時間」が人生を変える",
+          "rating": 4.2,
+          "review_count": 1287,
+          "price": "￥1,663",
+          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
+        },
+        {
+          "rank": 5,
+          "title": "ようこそ実力至上主義の教室へ　３年生編３ (MF文庫J)",
+          "rating": 4.1,
+          "review_count": 41,
+          "price": "￥733",
+          "url": "https://www.amazon.co.jp/dp/B0G2KW8F1Y"
+        },
+        {
+          "rank": 6,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 466,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 7,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1288,
+          "price": "￥2,178",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        },
+        {
+          "rank": 8,
+          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
+          "rating": 4.1,
+          "review_count": 307,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
+        },
+        {
+          "rank": 9,
+          "title": "成瀬は都を駆け抜ける （「成瀬」シリーズ）",
+          "rating": 4.8,
+          "review_count": 55,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0FQ4K3TW2"
+        },
+        {
+          "rank": 10,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 471,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-06T03:39:09.716752",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
           "rating": 4.3,
           "review_count": 1283,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-04T03:49:27.274837",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ようこそ実力至上主義の教室へ　３年生編３ (MF文庫J)",
-          "rating": 4.0,
-          "review_count": 32,
-          "price": "￥733",
-          "url": "https://www.amazon.co.jp/dp/B0G2KW8F1Y"
-        },
-        {
-          "rank": 2,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 379,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 3,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 1092,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 4,
-          "title": "転生したらスライムだった件 23 (GCノベルズ)",
-          "rating": 4.4,
-          "review_count": 50,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
-        },
-        {
-          "rank": 5,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7015,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 6,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 458,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 7,
-          "title": "成瀬は都を駆け抜ける （「成瀬」シリーズ）",
-          "rating": 4.8,
-          "review_count": 35,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0FQ4K3TW2"
-        },
-        {
-          "rank": 8,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1273,
-          "price": "￥1,663",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 9,
-          "title": "GOAT",
-          "rating": 4.2,
-          "review_count": 145,
-          "price": "￥506",
-          "url": "https://www.amazon.co.jp/dp/B0DP45PL1P"
-        },
-        {
-          "rank": 10,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1282,
           "price": "￥2,178",
           "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
         }
