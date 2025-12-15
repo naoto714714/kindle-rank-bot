@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-15T04:01:26.013550",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "今敏アニメ全仕事",
+          "rating": 4.5,
+          "review_count": 64,
+          "price": "￥1,047",
+          "url": "https://www.amazon.co.jp/dp/B00KW0A4JA"
+        },
+        {
+          "rank": 2,
+          "title": "「死」とは何か　イェール大学で23年連続の人気講義　完全翻訳版",
+          "rating": 4.2,
+          "review_count": 385,
+          "price": "￥3,118",
+          "url": "https://www.amazon.co.jp/dp/B07TLWTF6Q"
+        },
+        {
+          "rank": 3,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 380,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 4,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7200,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 5,
+          "title": "<新版>日本語の作文技術 (朝日文庫)",
+          "rating": 4.2,
+          "review_count": 1003,
+          "price": "￥630",
+          "url": "https://www.amazon.co.jp/dp/B01MYXH4J1"
+        },
+        {
+          "rank": 6,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 485,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 7,
+          "title": "朝イチの「ひとり時間」が人生を変える",
+          "rating": 4.2,
+          "review_count": 1309,
+          "price": "￥1,663",
+          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
+        },
+        {
+          "rank": 8,
+          "title": "人生をガラリと変える「帰宅後ルーティン」",
+          "rating": 4.0,
+          "review_count": 240,
+          "price": "￥1,663",
+          "url": "https://www.amazon.co.jp/dp/B0C9CLJVWB"
+        },
+        {
+          "rank": 9,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 1415,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 10,
+          "title": "未来に先回りする思考法",
+          "rating": 4.3,
+          "review_count": 1831,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B014J1FDIO"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-14T03:56:46.479919",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 998,
           "price": "￥495",
           "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-12T03:54:22.884303",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 380,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 2,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7116,
-          "price": "￥624",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 3,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 1335,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 4,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1299,
-          "price": "￥1,663",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 5,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 476,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 6,
-          "title": "中堅・中小企業のための　サイバーセキュリティ対策の新常識―経営者が知っておくべき最新知識",
-          "rating": 4.3,
-          "review_count": 10,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0F329K1CG"
-        },
-        {
-          "rank": 7,
-          "title": "眠れなくなるほど面白い 図解 疲労回復の話",
-          "rating": 4.1,
-          "review_count": 319,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        },
-        {
-          "rank": 8,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1295,
-          "price": "￥1,210",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 9,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 482,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 10,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 11810,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
         }
       ]
     }
