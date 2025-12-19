@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-19T03:54:30.473105",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロジェクト・ヘイル・メアリー　上",
+          "rating": 4.8,
+          "review_count": 8613,
+          "price": "￥2,264",
+          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
+        },
+        {
+          "rank": 2,
+          "title": "プロジェクト・ヘイル・メアリー　下",
+          "rating": 4.8,
+          "review_count": 9765,
+          "price": "￥2,264",
+          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
+        },
+        {
+          "rank": 3,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7337,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 4,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 380,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 5,
+          "title": "今敏アニメ全仕事",
+          "rating": 4.5,
+          "review_count": 67,
+          "price": "￥1,047",
+          "url": "https://www.amazon.co.jp/dp/B00KW0A4JA"
+        },
+        {
+          "rank": 6,
+          "title": "朝イチの「ひとり時間」が人生を変える",
+          "rating": 4.2,
+          "review_count": 1322,
+          "price": "￥1,811",
+          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
+        },
+        {
+          "rank": 7,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 493,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 8,
+          "title": "生殖記",
+          "rating": 4.3,
+          "review_count": 1496,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1004,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 10,
+          "title": "転生したらスライムだった件 23 (GCノベルズ)",
+          "rating": 4.8,
+          "review_count": 1095,
+          "price": "￥1,401",
+          "url": "https://www.amazon.co.jp/dp/B0FZRXXRLX"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-18T03:52:24.343371",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 490,
           "price": "￥1,100",
           "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-16T03:54:42.946984",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "今敏アニメ全仕事",
-          "rating": 4.5,
-          "review_count": 65,
-          "price": "￥1,047",
-          "url": "https://www.amazon.co.jp/dp/B00KW0A4JA"
-        },
-        {
-          "rank": 2,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 380,
-          "price": "￥2,455",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 3,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7226,
-          "price": "￥624",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 4,
-          "title": "「死」とは何か　イェール大学で23年連続の人気講義　完全翻訳版",
-          "rating": 4.2,
-          "review_count": 385,
-          "price": "￥3,396",
-          "url": "https://www.amazon.co.jp/dp/B07TLWTF6Q"
-        },
-        {
-          "rank": 5,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1312,
-          "price": "￥1,663",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 6,
-          "title": "<新版>日本語の作文技術 (朝日文庫)",
-          "rating": 4.2,
-          "review_count": 1003,
-          "price": "￥567",
-          "url": "https://www.amazon.co.jp/dp/B01MYXH4J1"
-        },
-        {
-          "rank": 7,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 1429,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 8,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 486,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 9,
-          "title": "異伝　淡海乃海～羽林、乱世を翔る～六【電子書籍限定書き下ろしSS付き】",
-          "rating": 4.6,
-          "review_count": 6,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B0FW3XL9RB"
-        },
-        {
-          "rank": 10,
-          "title": "STORY COLOR BOOK 物語を感じる配色アイデア",
-          "rating": 4.6,
-          "review_count": 38,
-          "price": "￥2,372",
-          "url": "https://www.amazon.co.jp/dp/B0DJ1C37CK"
         }
       ]
     }
