@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-25T03:56:50.715416",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 381,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 2,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7523,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 3,
+          "title": "【Ｋｉｎｄｌｅ限定カット１１ページ付き！】後藤真希　写真集　ｆｌｏｓ　ｔｈａｎｋｓ　ｅｄｉｔｉｏｎ【オール未公開　１５０ページ　特別編】",
+          "rating": 3.4,
+          "review_count": 13,
+          "price": "￥2,860",
+          "url": "https://www.amazon.co.jp/dp/B0G64FH6MY"
+        },
+        {
+          "rank": 4,
+          "title": "新装版　ロードス島戦記　灰色の魔女 (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 470,
+          "price": "￥152",
+          "url": "https://www.amazon.co.jp/dp/B00G6E9CWG"
+        },
+        {
+          "rank": 5,
+          "title": "新装版　ロードス島戦記　６　ロードスの聖騎士（上） (角川スニーカー文庫)",
+          "rating": 4.5,
+          "review_count": 176,
+          "price": "￥147",
+          "url": "https://www.amazon.co.jp/dp/B00I5BS3UA"
+        },
+        {
+          "rank": 6,
+          "title": "新装版　ロードス島戦記　７　ロードスの聖騎士（下） (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 211,
+          "price": "￥156",
+          "url": "https://www.amazon.co.jp/dp/B00I5BS3W8"
+        },
+        {
+          "rank": 7,
+          "title": "新装版　ロードス島戦記　５　王たちの聖戦 (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 208,
+          "price": "￥156",
+          "url": "https://www.amazon.co.jp/dp/B00HCETKVM"
+        },
+        {
+          "rank": 8,
+          "title": "新装版　ロードス島戦記　２　炎の魔神 (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 293,
+          "price": "￥151",
+          "url": "https://www.amazon.co.jp/dp/B00GZK2I86"
+        },
+        {
+          "rank": 9,
+          "title": "新装版　ロードス島戦記　４　火竜山の魔竜（下） (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 231,
+          "price": "￥147",
+          "url": "https://www.amazon.co.jp/dp/B00HCETKRQ"
+        },
+        {
+          "rank": 10,
+          "title": "新装版　ロードス島戦記　３　火竜山の魔竜（上） (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 222,
+          "price": "￥143",
+          "url": "https://www.amazon.co.jp/dp/B00GZK2I54"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-24T03:54:35.227416",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 119,
           "price": "￥1,540",
           "url": "https://www.amazon.co.jp/dp/B086WB6P98"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-22T04:01:19.572286",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 381,
-          "price": "￥2,673",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 2,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7437,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 3,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 499,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 4,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1333,
-          "price": "￥1,811",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 5,
-          "title": "勝負眼　「押し引き」を見極める思考と技術 (文春e-book)",
-          "rating": 4.2,
-          "review_count": 198,
-          "price": "￥1,800",
-          "url": "https://www.amazon.co.jp/dp/B0G1LRNZ4K"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1011,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 7,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 1568,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        },
-        {
-          "rank": 8,
-          "title": "【電子版限定24ページ増】岡田紗佳写真集　おかぴのぴ",
-          "rating": 4.2,
-          "review_count": 197,
-          "price": "￥3,520",
-          "url": "https://www.amazon.co.jp/dp/B0DBL6T5J7"
-        },
-        {
-          "rank": 9,
-          "title": "プロジェクト・ヘイル・メアリー　上",
-          "rating": 4.8,
-          "review_count": 8629,
-          "price": "￥2,264",
-          "url": "https://www.amazon.co.jp/dp/B09NBZLC7J"
-        },
-        {
-          "rank": 10,
-          "title": "プロジェクト・ヘイル・メアリー　下",
-          "rating": 4.8,
-          "review_count": 9794,
-          "price": "￥2,264",
-          "url": "https://www.amazon.co.jp/dp/B09NBZ4Z3S"
         }
       ]
     }
