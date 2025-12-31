@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2025-12-31T03:57:18.333802",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 384,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 2,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7727,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 3,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1028,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 4,
+          "title": "週刊GoodsPress Digital 2025年12月12日号",
+          "rating": 3.9,
+          "review_count": 7,
+          "price": "￥429",
+          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
+        },
+        {
+          "rank": 5,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 511,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 6,
+          "title": "猫の地球儀　焔の章 (電撃文庫)",
+          "rating": 4.6,
+          "review_count": 183,
+          "price": "￥168",
+          "url": "https://www.amazon.co.jp/dp/B00IUAYCXS"
+        },
+        {
+          "rank": 7,
+          "title": "猫の地球儀 その2　幽の章 (電撃文庫)",
+          "rating": 4.7,
+          "review_count": 172,
+          "price": "￥174",
+          "url": "https://www.amazon.co.jp/dp/B00IUAYCY2"
+        },
+        {
+          "rank": 8,
+          "title": "朝イチの「ひとり時間」が人生を変える",
+          "rating": 4.2,
+          "review_count": 1360,
+          "price": "￥1,811",
+          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
+        },
+        {
+          "rank": 9,
+          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
+          "rating": 4.3,
+          "review_count": 521,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
+        },
+        {
+          "rank": 10,
+          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
+          "rating": 4.3,
+          "review_count": 1323,
+          "price": "￥2,372",
+          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-30T03:58:08.628114",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1661,
           "price": "￥1,683",
           "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-27T03:52:37.820075",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "【Ｋｉｎｄｌｅ限定カット１１ページ付き！】後藤真希　写真集　ｆｌｏｓ　ｔｈａｎｋｓ　ｅｄｉｔｉｏｎ【オール未公開　１５０ページ　特別編】",
-          "rating": 3.0,
-          "review_count": 25,
-          "price": "￥2,860",
-          "url": "https://www.amazon.co.jp/dp/B0G64FH6MY"
-        },
-        {
-          "rank": 2,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 382,
-          "price": "￥2,673",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 3,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7611,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1021,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1347,
-          "price": "￥1,811",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 6,
-          "title": "新装版　ロードス島戦記　灰色の魔女 (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 472,
-          "price": "￥683",
-          "url": "https://www.amazon.co.jp/dp/B00G6E9CWG"
-        },
-        {
-          "rank": 7,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 504,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 8,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 508,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 9,
-          "title": "若い読者のための科学史 【イェール大学出版局 リトル・ヒストリー 第２期】",
-          "rating": 4.2,
-          "review_count": 54,
-          "price": "￥3,168",
-          "url": "https://www.amazon.co.jp/dp/B08DCPQGFQ"
-        },
-        {
-          "rank": 10,
-          "title": "新装版　ロードス島戦記　６　ロードスの聖騎士（上） (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 177,
-          "price": "￥663",
-          "url": "https://www.amazon.co.jp/dp/B00I5BS3UA"
         }
       ]
     }
