@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-03T03:51:48.456691",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7822,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1037,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "週刊GoodsPress Digital 2025年12月12日号",
+          "rating": 3.2,
+          "review_count": 26,
+          "price": "￥429",
+          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
+        },
+        {
+          "rank": 4,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 638,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 5,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 680,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 6,
+          "title": "1日1ページ、読むだけで身につく日本の教養365",
+          "rating": 3.9,
+          "review_count": 384,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
+        },
+        {
+          "rank": 7,
+          "title": "陛下、お望みどおり死にました。 ～石の皇妃は転生後の人生で冷酷な夫から逃れたい～ (上) (こはく文庫)",
+          "rating": 4.5,
+          "review_count": 34,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
+        },
+        {
+          "rank": 8,
+          "title": "さようなら、私を選ばなかった元婚約者様。一夜で大国君主の身ごもり妃になりました【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.1,
+          "review_count": 135,
+          "price": "￥1,455",
+          "url": "https://www.amazon.co.jp/dp/B0FYDC55B4"
+        },
+        {
+          "rank": 9,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12128,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 10,
+          "title": "【電子版限定24ページ増】岡田紗佳写真集　おかぴのぴ",
+          "rating": 4.2,
+          "review_count": 253,
+          "price": "￥3,520",
+          "url": "https://www.amazon.co.jp/dp/B0DBL6T5J7"
+        }
+      ]
+    },
+    {
       "timestamp": "2025-12-31T03:57:18.333802",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "生殖記",
           "rating": 4.3,
           "review_count": 1701,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
-        }
-      ]
-    },
-    {
-      "timestamp": "2025-12-28T04:04:09.098968",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 382,
-          "price": "￥2,673",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 2,
-          "title": "【Ｋｉｎｄｌｅ限定カット１１ページ付き！】後藤真希　写真集　ｆｌｏｓ　ｔｈａｎｋｓ　ｅｄｉｔｉｏｎ【オール未公開　１５０ページ　特別編】",
-          "rating": 3.0,
-          "review_count": 30,
-          "price": "￥2,860",
-          "url": "https://www.amazon.co.jp/dp/B0G64FH6MY"
-        },
-        {
-          "rank": 3,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7642,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1022,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 505,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 6,
-          "title": "朝イチの「ひとり時間」が人生を変える",
-          "rating": 4.2,
-          "review_count": 1348,
-          "price": "￥1,811",
-          "url": "https://www.amazon.co.jp/dp/B0BZP3T7L5"
-        },
-        {
-          "rank": 7,
-          "title": "イシューからはじめよ［改訂版］――知的生産の「シンプルな本質」",
-          "rating": 4.3,
-          "review_count": 512,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0DCGDMCVD"
-        },
-        {
-          "rank": 8,
-          "title": "解像度を上げる――曖昧な思考を明晰にする「深さ・広さ・構造・時間」の４視点と行動法",
-          "rating": 4.3,
-          "review_count": 1321,
-          "price": "￥2,372",
-          "url": "https://www.amazon.co.jp/dp/B0BH3ZBK7C"
-        },
-        {
-          "rank": 9,
-          "title": "理工学者が書いた数学の本　線形代数 (ちくま学芸文庫)",
-          "rating": 3.8,
-          "review_count": 7,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0CNCK6TR6"
-        },
-        {
-          "rank": 10,
-          "title": "生殖記",
-          "rating": 4.3,
-          "review_count": 1661,
           "price": "￥1,683",
           "url": "https://www.amazon.co.jp/dp/B0D86NGY6Q"
         }
