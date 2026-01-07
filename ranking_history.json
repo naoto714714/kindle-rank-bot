@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-07T03:59:16.632084",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1054,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "ポーズの美術解剖学　人体表現の幅が広がる",
+          "rating": 4.4,
+          "review_count": 261,
+          "price": "￥3,025",
+          "url": "https://www.amazon.co.jp/dp/B0CFZJS3VD"
+        },
+        {
+          "rank": 3,
+          "title": "軸から人体を描く美術解剖学　全身を美しく表現できるようになる",
+          "rating": 4.9,
+          "review_count": 39,
+          "price": "￥3,025",
+          "url": "https://www.amazon.co.jp/dp/B0DLGLL98C"
+        },
+        {
+          "rank": 4,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 7980,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 5,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 655,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 6,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 692,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 7,
+          "title": "週刊GoodsPress Digital 2025年12月12日号",
+          "rating": 3.3,
+          "review_count": 51,
+          "price": "￥429",
+          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
+        },
+        {
+          "rank": 8,
+          "title": "陛下、お望みどおり死にました。 ～石の皇妃は転生後の人生で冷酷な夫から逃れたい～ (上) (こはく文庫)",
+          "rating": 4.4,
+          "review_count": 129,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
+        },
+        {
+          "rank": 9,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12198,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 10,
+          "title": "【電子版限定24ページ増】岡田紗佳写真集　おかぴのぴ",
+          "rating": 4.2,
+          "review_count": 270,
+          "price": "￥3,520",
+          "url": "https://www.amazon.co.jp/dp/B0DBL6T5J7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-06T03:58:59.253406",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 359,
           "price": "￥941",
           "url": "https://www.amazon.co.jp/dp/B0DHXBJTNB"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-03T03:51:48.456691",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 7822,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 2,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1037,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 3,
-          "title": "週刊GoodsPress Digital 2025年12月12日号",
-          "rating": 3.2,
-          "review_count": 26,
-          "price": "￥429",
-          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
-        },
-        {
-          "rank": 4,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 638,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 5,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 680,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 6,
-          "title": "1日1ページ、読むだけで身につく日本の教養365",
-          "rating": 3.9,
-          "review_count": 384,
-          "price": "￥2,673",
-          "url": "https://www.amazon.co.jp/dp/B08K2V7XLX"
-        },
-        {
-          "rank": 7,
-          "title": "陛下、お望みどおり死にました。 ～石の皇妃は転生後の人生で冷酷な夫から逃れたい～ (上) (こはく文庫)",
-          "rating": 4.5,
-          "review_count": 34,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
-        },
-        {
-          "rank": 8,
-          "title": "さようなら、私を選ばなかった元婚約者様。一夜で大国君主の身ごもり妃になりました【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.1,
-          "review_count": 135,
-          "price": "￥1,455",
-          "url": "https://www.amazon.co.jp/dp/B0FYDC55B4"
-        },
-        {
-          "rank": 9,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 12128,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
-        },
-        {
-          "rank": 10,
-          "title": "【電子版限定24ページ増】岡田紗佳写真集　おかぴのぴ",
-          "rating": 4.2,
-          "review_count": 253,
-          "price": "￥3,520",
-          "url": "https://www.amazon.co.jp/dp/B0DBL6T5J7"
         }
       ]
     }
