@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-13T03:59:47.267572",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1081,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 683,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 3,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 707,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 4,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 8190,
+          "price": "￥679",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 5,
+          "title": "転生した大聖女は、聖女であることをひた隠す12【電子書店共通特典SS付】 (アース・スターノベル)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,430",
+          "url": "https://www.amazon.co.jp/dp/B0GF8Y3KJT"
+        },
+        {
+          "rank": 6,
+          "title": "週刊GoodsPress Digital 2025年12月12日号",
+          "rating": 3.2,
+          "review_count": 87,
+          "price": "￥429",
+          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
+        },
+        {
+          "rank": 7,
+          "title": "一汁三菜おぼん献立",
+          "rating": 4.6,
+          "review_count": 377,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
+        },
+        {
+          "rank": 8,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12329,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 9,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 887,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 10,
+          "title": "人は聞き方が９割",
+          "rating": 4.2,
+          "review_count": 3284,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-10T03:53:29.737968",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 12240,
           "price": "￥690",
           "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-08T03:59:05.869148",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1059,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "ポーズの美術解剖学　人体表現の幅が広がる",
-          "rating": 4.4,
-          "review_count": 263,
-          "price": "￥3,025",
-          "url": "https://www.amazon.co.jp/dp/B0CFZJS3VD"
-        },
-        {
-          "rank": 3,
-          "title": "【Amazon.co.jp限定】見やすい・読みやすい・伝わるをつくる 文字組力（オリジナルデザイン「文字組力チェックリスト」データ配信）",
-          "rating": 4.7,
-          "review_count": 33,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0FP4S6XNB"
-        },
-        {
-          "rank": 4,
-          "title": "軸から人体を描く美術解剖学　全身を美しく表現できるようになる",
-          "rating": 4.9,
-          "review_count": 39,
-          "price": "￥3,025",
-          "url": "https://www.amazon.co.jp/dp/B0DLGLL98C"
-        },
-        {
-          "rank": 5,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 8014,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 6,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 659,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 7,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 696,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 8,
-          "title": "地面師　他人の土地を売り飛ばす闇の詐欺集団 (講談社文庫)",
-          "rating": 4.0,
-          "review_count": 575,
-          "price": "￥726",
-          "url": "https://www.amazon.co.jp/dp/B0BD4FGVFR"
-        },
-        {
-          "rank": 9,
-          "title": "週刊GoodsPress Digital 2025年12月12日号",
-          "rating": 3.3,
-          "review_count": 54,
-          "price": "￥429",
-          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
-        },
-        {
-          "rank": 10,
-          "title": "陛下、お望みどおり死にました。 ～石の皇妃は転生後の人生で冷酷な夫から逃れたい～ (上) (こはく文庫)",
-          "rating": 4.4,
-          "review_count": 145,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
         }
       ]
     }
