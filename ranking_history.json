@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-17T03:52:19.836518",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1101,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 717,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 3,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 717,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 4,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 8361,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 5,
+          "title": "転生した大聖女は、聖女であることをひた隠す12【電子書店共通特典SS付】 (アース・スターノベル)",
+          "rating": 4.9,
+          "review_count": 18,
+          "price": "￥1,401",
+          "url": "https://www.amazon.co.jp/dp/B0GF8Y3KJT"
+        },
+        {
+          "rank": 6,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 900,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 7,
+          "title": "一汁三菜おぼん献立",
+          "rating": 4.6,
+          "review_count": 383,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
+        },
+        {
+          "rank": 8,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12443,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 9,
+          "title": "死亡遊戯で飯を食う。【電子特典付き】 (MF文庫J)",
+          "rating": 4.6,
+          "review_count": 205,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B0BLXHQV9Y"
+        },
+        {
+          "rank": 10,
+          "title": "人は聞き方が９割",
+          "rating": 4.2,
+          "review_count": 3305,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-13T03:59:47.267572",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 181,
           "price": "￥770",
           "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-09T03:59:16.847828",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1063,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "ポーズの美術解剖学　人体表現の幅が広がる",
-          "rating": 4.4,
-          "review_count": 264,
-          "price": "￥5,929",
-          "url": "https://www.amazon.co.jp/dp/B0CFZJS3VD"
-        },
-        {
-          "rank": 3,
-          "title": "軸から人体を描く美術解剖学　全身を美しく表現できるようになる",
-          "rating": 4.9,
-          "review_count": 39,
-          "price": "￥5,929",
-          "url": "https://www.amazon.co.jp/dp/B0DLGLL98C"
-        },
-        {
-          "rank": 4,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 8059,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 5,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 663,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 6,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 698,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 7,
-          "title": "【Amazon.co.jp限定】見やすい・読みやすい・伝わるをつくる 文字組力（オリジナルデザイン「文字組力チェックリスト」データ配信）",
-          "rating": 4.7,
-          "review_count": 33,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0FP4S6XNB"
-        },
-        {
-          "rank": 8,
-          "title": "正しいデータ分析でビジネスを加速する 因果推論入門",
-          "rating": 4.8,
-          "review_count": 35,
-          "price": "￥2,475",
-          "url": "https://www.amazon.co.jp/dp/B0FMCHZGDT"
-        },
-        {
-          "rank": 9,
-          "title": "週刊GoodsPress Digital 2025年12月12日号",
-          "rating": 3.2,
-          "review_count": 63,
-          "price": "￥429",
-          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
-        },
-        {
-          "rank": 10,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 12240,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
         }
       ]
     }
