@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-19T04:08:23.915522",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1114,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 738,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 3,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 725,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 4,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 8443,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 5,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 906,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 6,
+          "title": "一汁三菜おぼん献立",
+          "rating": 4.6,
+          "review_count": 385,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
+        },
+        {
+          "rank": 7,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12481,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 8,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 101,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 9,
+          "title": "人は聞き方が９割",
+          "rating": 4.2,
+          "review_count": 3312,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
+        },
+        {
+          "rank": 10,
+          "title": "お気楽領主の楽しい領地防衛 1　～生産系魔術で名もなき村を最強の城塞都市に～ (オーバーラップノベルス)",
+          "rating": 4.6,
+          "review_count": 811,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B09FJV63TC"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-17T03:52:19.836518",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 3284,
           "price": "￥1,617",
           "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-10T03:53:29.737968",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1068,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 666,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 3,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 8084,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 4,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 698,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 5,
-          "title": "ポーズの美術解剖学　人体表現の幅が広がる",
-          "rating": 4.4,
-          "review_count": 265,
-          "price": "￥5,929",
-          "url": "https://www.amazon.co.jp/dp/B0CFZJS3VD"
-        },
-        {
-          "rank": 6,
-          "title": "サイレント・ウィッチ XI　沈黙の魔女の隠しごと (カドカワBOOKS)",
-          "rating": 5.0,
-          "review_count": 1,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0G6B51L1Z"
-        },
-        {
-          "rank": 7,
-          "title": "軸から人体を描く美術解剖学　全身を美しく表現できるようになる",
-          "rating": 4.9,
-          "review_count": 39,
-          "price": "￥5,929",
-          "url": "https://www.amazon.co.jp/dp/B0DLGLL98C"
-        },
-        {
-          "rank": 8,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 12253,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
-        },
-        {
-          "rank": 9,
-          "title": "週刊GoodsPress Digital 2025年12月12日号",
-          "rating": 3.1,
-          "review_count": 70,
-          "price": "￥429",
-          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
-        },
-        {
-          "rank": 10,
-          "title": "陛下、お望みどおり死にました。 ～石の皇妃は転生後の人生で冷酷な夫から逃れたい～ (上) (こはく文庫)",
-          "rating": 4.3,
-          "review_count": 181,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0G4L8LR1Q"
         }
       ]
     }
