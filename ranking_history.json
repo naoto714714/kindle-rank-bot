@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-24T03:56:26.116415",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1143,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 775,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 3,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 913,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 4,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 734,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 5,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 8603,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 6,
+          "title": "一汁三菜おぼん献立",
+          "rating": 4.6,
+          "review_count": 391,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
+        },
+        {
+          "rank": 7,
+          "title": "「書く」って、どんなこと？ NHK出版　学びのきほん",
+          "rating": 4.2,
+          "review_count": 97,
+          "price": "￥449",
+          "url": "https://www.amazon.co.jp/dp/B0D9Y3DNGY"
+        },
+        {
+          "rank": 8,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12581,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        },
+        {
+          "rank": 9,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 104,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 10,
+          "title": "魔女と傭兵 7 (GCN文庫)",
+          "rating": 4.6,
+          "review_count": 77,
+          "price": "￥776",
+          "url": "https://www.amazon.co.jp/dp/B0GGXD5PWQ"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-19T04:08:23.915522",
       "rankings": [
         {
@@ -166,91 +251,6 @@
           "rating": 4.2,
           "review_count": 3305,
           "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-13T03:59:47.267572",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1081,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 683,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 3,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 707,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 4,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 8190,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 5,
-          "title": "転生した大聖女は、聖女であることをひた隠す12【電子書店共通特典SS付】 (アース・スターノベル)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,430",
-          "url": "https://www.amazon.co.jp/dp/B0GF8Y3KJT"
-        },
-        {
-          "rank": 6,
-          "title": "週刊GoodsPress Digital 2025年12月12日号",
-          "rating": 3.2,
-          "review_count": 87,
-          "price": "￥429",
-          "url": "https://www.amazon.co.jp/dp/B0FWBPZP2J"
-        },
-        {
-          "rank": 7,
-          "title": "一汁三菜おぼん献立",
-          "rating": 4.6,
-          "review_count": 377,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
-        },
-        {
-          "rank": 8,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 12329,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
-        },
-        {
-          "rank": 9,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 887,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 10,
-          "title": "人は聞き方が９割",
-          "rating": 4.2,
-          "review_count": 3284,
-          "price": "￥1,617",
           "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
         }
       ]
