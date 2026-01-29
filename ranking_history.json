@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-01-29T04:24:07.327989",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 814,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.8,
+          "review_count": 1158,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "負けヒロインが多すぎる！　８．５ (ガガガ文庫)",
+          "rating": 4.8,
+          "review_count": 245,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0G7D8ZHXW"
+        },
+        {
+          "rank": 4,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 919,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 5,
+          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,320",
+          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
+        },
+        {
+          "rank": 6,
+          "title": "すべてを蒸したい せいろレシピ",
+          "rating": 4.2,
+          "review_count": 749,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
+        },
+        {
+          "rank": 7,
+          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
+          "rating": 4.4,
+          "review_count": 8741,
+          "price": "￥624",
+          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
+        },
+        {
+          "rank": 8,
+          "title": "一汁三菜おぼん献立",
+          "rating": 4.6,
+          "review_count": 399,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
+        },
+        {
+          "rank": 9,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 104,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 10,
+          "title": "コンビニ人間 (文春文庫)",
+          "rating": 4.2,
+          "review_count": 12689,
+          "price": "￥690",
+          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-01-26T04:12:58.620990",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 77,
           "price": "￥776",
           "url": "https://www.amazon.co.jp/dp/B0GGXD5PWQ"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-01-19T04:08:23.915522",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1114,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 738,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 3,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 725,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 4,
-          "title": "成瀬は天下を取りにいく（新潮文庫） （「成瀬」シリーズ）",
-          "rating": 4.4,
-          "review_count": 8443,
-          "price": "￥624",
-          "url": "https://www.amazon.co.jp/dp/B0F4259M1G"
-        },
-        {
-          "rank": 5,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 906,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 6,
-          "title": "一汁三菜おぼん献立",
-          "rating": 4.6,
-          "review_count": 385,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0DNZ2F8C4"
-        },
-        {
-          "rank": 7,
-          "title": "コンビニ人間 (文春文庫)",
-          "rating": 4.2,
-          "review_count": 12481,
-          "price": "￥690",
-          "url": "https://www.amazon.co.jp/dp/B07GYMDBCM"
-        },
-        {
-          "rank": 8,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 101,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        },
-        {
-          "rank": 9,
-          "title": "人は聞き方が９割",
-          "rating": 4.2,
-          "review_count": 3312,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B09HM2RJK7"
-        },
-        {
-          "rank": 10,
-          "title": "お気楽領主の楽しい領地防衛 1　～生産系魔術で名もなき村を最強の城塞都市に～ (オーバーラップノベルス)",
-          "rating": 4.6,
-          "review_count": 811,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B09FJV63TC"
         }
       ]
     }
