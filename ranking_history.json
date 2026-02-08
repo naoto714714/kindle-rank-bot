@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-02-08T04:57:05.848207",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（上） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 1346,
+          "price": "￥110",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBTRK"
+        },
+        {
+          "rank": 2,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（下） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 1088,
+          "price": "￥347",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBTZ2"
+        },
+        {
+          "rank": 3,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（中） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.5,
+          "review_count": 1058,
+          "price": "￥347",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBUFG"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1185,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 905,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 6,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 937,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 7,
+          "title": "syunkonカフェ どこにでもある素材でだれでもできるレシピを一冊にまとめた「作る気になる」本 (別冊ＥＳＳＥ)",
+          "rating": 4.4,
+          "review_count": 460,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B07LGPPTQW"
+        },
+        {
+          "rank": 8,
+          "title": "誕生日でわかる　あなたの本当の性格・才能・運命　2026　増補完全版",
+          "rating": 3.5,
+          "review_count": 27,
+          "price": "￥1,250",
+          "url": "https://www.amazon.co.jp/dp/B0G6YPCQSF"
+        },
+        {
+          "rank": 9,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 111,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 10,
+          "title": "超かぐや姫！ (ファミ通文庫)",
+          "rating": 4.9,
+          "review_count": 312,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-02-07T04:24:36.214665",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 762,
           "price": "￥770",
           "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-02-05T04:43:39.982871",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（上） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 1301,
-          "price": "￥110",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTRK"
-        },
-        {
-          "rank": 2,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（下） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 1063,
-          "price": "￥347",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTZ2"
-        },
-        {
-          "rank": 3,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（中） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 1030,
-          "price": "￥347",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBUFG"
-        },
-        {
-          "rank": 4,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 875,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.8,
-          "review_count": 1175,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 149,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 7,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 928,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 8,
-          "title": "シリコンバレー最重要思想家ナヴァル・ラヴィカント",
-          "rating": 4.5,
-          "review_count": 675,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B0BB6G7H8D"
-        },
-        {
-          "rank": 9,
-          "title": "機動戦士ガンダム 逆襲のシャア　ベルトーチカ・チルドレン (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 577,
-          "price": "￥391",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTAM"
-        },
-        {
-          "rank": 10,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 108,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
         }
       ]
     }
