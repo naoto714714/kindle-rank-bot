@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-02-13T04:48:08.526268",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（上） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 1413,
+          "price": "￥663",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBTRK"
+        },
+        {
+          "rank": 2,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（下） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.6,
+          "review_count": 1132,
+          "price": "￥347",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBTZ2"
+        },
+        {
+          "rank": 3,
+          "title": "機動戦士ガンダム 閃光のハサウェイ（中） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
+          "rating": 4.5,
+          "review_count": 1090,
+          "price": "￥347",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBUFG"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1204,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.2,
+          "review_count": 942,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 6,
+          "title": "日本異界図典",
+          "rating": 4.2,
+          "review_count": 87,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B09CGFLHR8"
+        },
+        {
+          "rank": 7,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 950,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 8,
+          "title": "誕生日でわかる　あなたの本当の性格・才能・運命　2026　増補完全版",
+          "rating": 3.4,
+          "review_count": 31,
+          "price": "￥1,250",
+          "url": "https://www.amazon.co.jp/dp/B0G6YPCQSF"
+        },
+        {
+          "rank": 9,
+          "title": "ネットワーク 入門・構築の教科書",
+          "rating": 4.0,
+          "review_count": 90,
+          "price": "￥2,950",
+          "url": "https://www.amazon.co.jp/dp/B09NLZ8X8F"
+        },
+        {
+          "rank": 10,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.4,
+          "review_count": 22,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-02-11T04:57:07.569449",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 353,
           "price": "￥752",
           "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-02-09T04:55:17.012418",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（上） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 1359,
-          "price": "￥110",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTRK"
-        },
-        {
-          "rank": 2,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（下） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 1098,
-          "price": "￥347",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTZ2"
-        },
-        {
-          "rank": 3,
-          "title": "機動戦士ガンダム 閃光のハサウェイ（中） 機動戦士ガンダム閃光のハサウェイ (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 1063,
-          "price": "￥347",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBUFG"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1189,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 914,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 6,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 940,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 7,
-          "title": "誕生日でわかる　あなたの本当の性格・才能・運命　2026　増補完全版",
-          "rating": 3.5,
-          "review_count": 28,
-          "price": "￥1,250",
-          "url": "https://www.amazon.co.jp/dp/B0G6YPCQSF"
-        },
-        {
-          "rank": 8,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 111,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        },
-        {
-          "rank": 9,
-          "title": "すべてを蒸したい せいろレシピ",
-          "rating": 4.2,
-          "review_count": 766,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0DD9P48NT"
-        },
-        {
-          "rank": 10,
-          "title": "【電子書籍限定】MONOQLO ビジネスグッズ大全2026",
-          "rating": 3.5,
-          "review_count": 20,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0GJ3S1VCM"
         }
       ]
     }
