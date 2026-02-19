@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-02-19T04:47:47.941805",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1230,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "いつも幸せな人は、２時間の使い方の天才",
+          "rating": 4.3,
+          "review_count": 983,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
+        },
+        {
+          "rank": 3,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 968,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 4,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.1,
+          "review_count": 58,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 5,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1360,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 6,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.6,
+          "review_count": 271,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 7,
+          "title": "プロ絵師の技を完全マスター 真・キャラ塗り上達術 完全版 CLIP STUDIO PAINT PRO/EX/iPad 対応",
+          "rating": 4.2,
+          "review_count": 121,
+          "price": "￥253",
+          "url": "https://www.amazon.co.jp/dp/B0BVQHRHJ3"
+        },
+        {
+          "rank": 8,
+          "title": "【６冊合本版】大学4年間の学問が10時間でざっと学べる 経済学・経営学・統計学・マーケティング・金融学・データサイエンス 【合本版】大学4年間の経済学・経営学・統計学・金融学・マーケティング・データサイエンスが10時間でざっと学べる",
+          "rating": 3.5,
+          "review_count": 6,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B09MQ3VZKV"
+        },
+        {
+          "rank": 9,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 115,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 10,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 651,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-02-18T04:48:05.531728",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 115,
           "price": "￥990",
           "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-02-16T04:54:10.294326",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1218,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "日本異類図典",
-          "rating": 4.6,
-          "review_count": 31,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BXSDN6L9"
-        },
-        {
-          "rank": 3,
-          "title": "いつも幸せな人は、２時間の使い方の天才",
-          "rating": 4.2,
-          "review_count": 960,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0D1P65NYZ"
-        },
-        {
-          "rank": 4,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 40,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 5,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 960,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 6,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1295,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 7,
-          "title": "【電子書籍限定】MONOQLO ビジネスグッズ大全2026",
-          "rating": 3.6,
-          "review_count": 48,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0GJ3S1VCM"
-        },
-        {
-          "rank": 8,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.6,
-          "review_count": 239,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 9,
-          "title": "イラスト図解式 この一冊で全部わかるネットワークの基本 第2版",
-          "rating": 4.1,
-          "review_count": 74,
-          "price": "￥1,703",
-          "url": "https://www.amazon.co.jp/dp/B0BTYL1RW3"
-        },
-        {
-          "rank": 10,
-          "title": "誕生日でわかる　あなたの本当の性格・才能・運命　2026　増補完全版",
-          "rating": 3.2,
-          "review_count": 36,
-          "price": "￥1,250",
-          "url": "https://www.amazon.co.jp/dp/B0G6YPCQSF"
         }
       ]
     }
