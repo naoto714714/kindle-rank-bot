@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-08T04:28:46.033137",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "超かぐや姫！ (ファミ通文庫)",
+          "rating": 4.9,
+          "review_count": 1183,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
+        },
+        {
+          "rank": 2,
+          "title": "イスラム飲酒紀行 (ＳＰＡ！ＢＯＯＫＳ)",
+          "rating": 4.4,
+          "review_count": 503,
+          "price": "￥849",
+          "url": "https://www.amazon.co.jp/dp/B0087KZHR6"
+        },
+        {
+          "rank": 3,
+          "title": "現代思想の遭難者たち (講談社学術文庫)",
+          "rating": 4.5,
+          "review_count": 93,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B01FXCIROA"
+        },
+        {
+          "rank": 4,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1829,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 5,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1001,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1306,
+          "price": "￥446",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 7,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.2,
+          "review_count": 134,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 8,
+          "title": "教養としての金融危機 (講談社現代新書)",
+          "rating": 4.2,
+          "review_count": 195,
+          "price": "￥913",
+          "url": "https://www.amazon.co.jp/dp/B09Q5X4V1G"
+        },
+        {
+          "rank": 9,
+          "title": "オールカラー徹底図解 日本の城",
+          "rating": 4.3,
+          "review_count": 45,
+          "price": "￥1,870",
+          "url": "https://www.amazon.co.jp/dp/B09H6JWZ6S"
+        },
+        {
+          "rank": 10,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-06T04:27:37.367909",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 10,
           "price": "￥558",
           "url": "https://www.amazon.co.jp/dp/B0DZSPGS6V"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-03T04:41:42.164355",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1008,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 2,
-          "title": "データに触れながら学ぶ統計学 R言語のUIツール「Exploratory」で身につくデータサイエンスの手法",
-          "rating": 4.9,
-          "review_count": 23,
-          "price": "￥2,475",
-          "url": "https://www.amazon.co.jp/dp/B0G4QK98XP"
-        },
-        {
-          "rank": 3,
-          "title": "ＮＨＫラジオ ラジオ英会話 2026年 3月号 ［雑誌］ (ＮＨＫテキスト)",
-          "rating": 4.8,
-          "review_count": 9,
-          "price": "￥558",
-          "url": "https://www.amazon.co.jp/dp/B0DZSPGS6V"
-        },
-        {
-          "rank": 4,
-          "title": "ローマ五賢帝　「輝ける世紀」の虚像と実像 (講談社学術文庫)",
-          "rating": 4.3,
-          "review_count": 52,
-          "price": "￥968",
-          "url": "https://www.amazon.co.jp/dp/B00IJ6V1AU"
-        },
-        {
-          "rank": 5,
-          "title": "異世界のんびり農家 20",
-          "rating": 4.7,
-          "review_count": 17,
-          "price": "￥1,563",
-          "url": "https://www.amazon.co.jp/dp/B0GMYJ7MM7"
-        },
-        {
-          "rank": 6,
-          "title": "江戸の食空間――屋台から日本料理へ (講談社学術文庫)",
-          "rating": 4.1,
-          "review_count": 57,
-          "price": "￥1,210",
-          "url": "https://www.amazon.co.jp/dp/B01MRNI4KQ"
-        },
-        {
-          "rank": 7,
-          "title": "精霊幻想記　28.魔女の誘惑 (HJ文庫)",
-          "rating": 4.9,
-          "review_count": 49,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0GKNPHL8X"
-        },
-        {
-          "rank": 8,
-          "title": "あなたがブラックホールについて知っていることはほぼすべて間違っている",
-          "rating": 4.4,
-          "review_count": 51,
-          "price": "￥2,479",
-          "url": "https://www.amazon.co.jp/dp/B0F8T175SZ"
-        },
-        {
-          "rank": 9,
-          "title": "幕末の天皇 (講談社学術文庫)",
-          "rating": 4.4,
-          "review_count": 55,
-          "price": "￥1,034",
-          "url": "https://www.amazon.co.jp/dp/B01NBTMKS2"
-        },
-        {
-          "rank": 10,
-          "title": "この素晴らしい世界に祝福を！ よりみち４回目！ (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 14,
-          "price": "￥798",
-          "url": "https://www.amazon.co.jp/dp/B0GMYQNCGY"
         }
       ]
     }
