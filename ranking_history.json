@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-10T04:27:05.713856",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "The Elder Scrolls オフィシャル・クックブック (G-NOVELS)",
+          "rating": 4.7,
+          "review_count": 206,
+          "price": "￥3,564",
+          "url": "https://www.amazon.co.jp/dp/B0BWJ5FSLH"
+        },
+        {
+          "rank": 2,
+          "title": "田中美久写真集 「ぜんぶ、ほんと」 (週プレ PHOTO BOOK)",
+          "rating": 2.1,
+          "review_count": 23,
+          "price": "￥3,410",
+          "url": "https://www.amazon.co.jp/dp/B0GRGP2KSP"
+        },
+        {
+          "rank": 3,
+          "title": "「悩まない」配色の基本 好きな色から考える",
+          "rating": 4.3,
+          "review_count": 58,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0CHHC71HX"
+        },
+        {
+          "rank": 4,
+          "title": "超かぐや姫！ (ファミ通文庫)",
+          "rating": 4.9,
+          "review_count": 1235,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
+        },
+        {
+          "rank": 5,
+          "title": "一度読んだら絶対に忘れない日本史の教科書　公立高校教師YouTuberが書いた",
+          "rating": 4.2,
+          "review_count": 2092,
+          "price": "￥825",
+          "url": "https://www.amazon.co.jp/dp/B07WWTQV83"
+        },
+        {
+          "rank": 6,
+          "title": "ゼロからわかる量子コンピュータ (講談社現代新書)",
+          "rating": 4.0,
+          "review_count": 103,
+          "price": "￥869",
+          "url": "https://www.amazon.co.jp/dp/B0B38W6JJ2"
+        },
+        {
+          "rank": 7,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
+        },
+        {
+          "rank": 8,
+          "title": "ＮＨＫラジオ ラジオ英会話 2026年 3月号 ［雑誌］ (ＮＨＫテキスト)",
+          "rating": 4.8,
+          "review_count": 13,
+          "price": "￥558",
+          "url": "https://www.amazon.co.jp/dp/B0DZSPGS6V"
+        },
+        {
+          "rank": 9,
+          "title": "明治洋食事始め　とんかつの誕生 (講談社学術文庫)",
+          "rating": 4.2,
+          "review_count": 43,
+          "price": "￥1,155",
+          "url": "https://www.amazon.co.jp/dp/B00S61XTP8"
+        },
+        {
+          "rank": 10,
+          "title": "長谷川あかり DAILY RECIPE　2025秋冬　Vol.4 (扶桑社ムック)",
+          "rating": 4.4,
+          "review_count": 41,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0FWFLYYWH"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-09T04:46:54.680313",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": null,
           "price": "￥713",
           "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-06T04:27:37.367909",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1000,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 2,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1299,
-          "price": "￥446",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 3,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1769,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 4,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 129,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 5,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1112,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 6,
-          "title": "転生したら捨てられ公爵夫人になったので放置生活を楽しみます～使えない才女ですので、どうぞお気になさらず～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.1,
-          "review_count": 98,
-          "price": "￥1,336",
-          "url": "https://www.amazon.co.jp/dp/B0GC33V8CP"
-        },
-        {
-          "rank": 7,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 126,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        },
-        {
-          "rank": 8,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 680,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 9,
-          "title": "1日1ページ、読むだけで身につく世界の教養365",
-          "rating": 3.8,
-          "review_count": 1291,
-          "price": "￥2,356",
-          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
-        },
-        {
-          "rank": 10,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 425,
-          "price": "￥1,388",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
         }
       ]
     }
