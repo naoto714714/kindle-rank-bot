@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-11T04:27:39.467959",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1007,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 2,
+          "title": "The Elder Scrolls オフィシャル・クックブック (G-NOVELS)",
+          "rating": 4.7,
+          "review_count": 206,
+          "price": "￥3,564",
+          "url": "https://www.amazon.co.jp/dp/B0BWJ5FSLH"
+        },
+        {
+          "rank": 3,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1316,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 4,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
+          "rating": 5.0,
+          "review_count": 1,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
+        },
+        {
+          "rank": 5,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1909,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 6,
+          "title": "田中美久写真集 「ぜんぶ、ほんと」 (週プレ PHOTO BOOK)",
+          "rating": 2.1,
+          "review_count": 31,
+          "price": "￥3,410",
+          "url": "https://www.amazon.co.jp/dp/B0GRGP2KSP"
+        },
+        {
+          "rank": 7,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.2,
+          "review_count": 139,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 8,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 128,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 9,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 688,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        },
+        {
+          "rank": 10,
+          "title": "超かぐや姫！ (ファミ通文庫)",
+          "rating": 4.9,
+          "review_count": 1270,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-10T04:27:05.713856",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1309,
           "price": "￥446",
           "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-08T04:28:46.033137",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1183,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 2,
-          "title": "イスラム飲酒紀行 (ＳＰＡ！ＢＯＯＫＳ)",
-          "rating": 4.4,
-          "review_count": 503,
-          "price": "￥849",
-          "url": "https://www.amazon.co.jp/dp/B0087KZHR6"
-        },
-        {
-          "rank": 3,
-          "title": "現代思想の遭難者たち (講談社学術文庫)",
-          "rating": 4.5,
-          "review_count": 93,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B01FXCIROA"
-        },
-        {
-          "rank": 4,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1829,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 5,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1001,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1306,
-          "price": "￥446",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 7,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 134,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 8,
-          "title": "教養としての金融危機 (講談社現代新書)",
-          "rating": 4.2,
-          "review_count": 195,
-          "price": "￥913",
-          "url": "https://www.amazon.co.jp/dp/B09Q5X4V1G"
-        },
-        {
-          "rank": 9,
-          "title": "オールカラー徹底図解 日本の城",
-          "rating": 4.3,
-          "review_count": 45,
-          "price": "￥1,870",
-          "url": "https://www.amazon.co.jp/dp/B09H6JWZ6S"
-        },
-        {
-          "rank": 10,
-          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥713",
-          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
         }
       ]
     }
