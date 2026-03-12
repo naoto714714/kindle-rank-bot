@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-12T04:42:49.125591",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1010,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1319,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
+          "rating": 5.0,
+          "review_count": 2,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
+        },
+        {
+          "rank": 4,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1929,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 5,
+          "title": "世界史を変えた薬 (講談社現代新書)",
+          "rating": 4.4,
+          "review_count": 247,
+          "price": "￥869",
+          "url": "https://www.amazon.co.jp/dp/B017GPG6XG"
+        },
+        {
+          "rank": 6,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.2,
+          "review_count": 142,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 7,
+          "title": "1日1ページ、読むだけで身につく世界の教養365",
+          "rating": 3.8,
+          "review_count": 1291,
+          "price": "￥2,356",
+          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
+        },
+        {
+          "rank": 8,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 130,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 9,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 689,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        },
+        {
+          "rank": 10,
+          "title": "数学ガールの物理ノート／波の重ね合わせ",
+          "rating": 4.5,
+          "review_count": 63,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0B81QVC7Y"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-11T04:27:39.467959",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 41,
           "price": "￥1,485",
           "url": "https://www.amazon.co.jp/dp/B0FWFLYYWH"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-09T04:46:54.680313",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1211,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 2,
-          "title": "数学ガールの秘密ノート／複素数の広がり",
-          "rating": 4.7,
-          "review_count": 62,
-          "price": "￥1,725",
-          "url": "https://www.amazon.co.jp/dp/B08CDHYFFF"
-        },
-        {
-          "rank": 3,
-          "title": "スラスラ読める Pythonふりがなプログラミング 増補改訂版 ふりがなプログラミングシリーズ",
-          "rating": 4.0,
-          "review_count": 127,
-          "price": "￥1,960",
-          "url": "https://www.amazon.co.jp/dp/B09BMNYPRD"
-        },
-        {
-          "rank": 4,
-          "title": "世界史と地理は同時に学べ！",
-          "rating": 4.4,
-          "review_count": 295,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0CK3R2FJ1"
-        },
-        {
-          "rank": 5,
-          "title": "［音声DL付］イラストだから覚えられる　会話で必ず使う英単語1100",
-          "rating": 4.1,
-          "review_count": 121,
-          "price": "￥1,675",
-          "url": "https://www.amazon.co.jp/dp/B01MZZVL5R"
-        },
-        {
-          "rank": 6,
-          "title": "田中美久写真集 「ぜんぶ、ほんと」 (週プレ PHOTO BOOK)",
-          "rating": 2.1,
-          "review_count": 10,
-          "price": "￥3,410",
-          "url": "https://www.amazon.co.jp/dp/B0GRGP2KSP"
-        },
-        {
-          "rank": 7,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1859,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 8,
-          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥713",
-          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
-        },
-        {
-          "rank": 9,
-          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
-          "rating": 4.8,
-          "review_count": 9757,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
-        },
-        {
-          "rank": 10,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1309,
-          "price": "￥446",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
         }
       ]
     }
