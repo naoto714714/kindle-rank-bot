@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-14T04:27:48.760827",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1012,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1327,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1970,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 4,
+          "title": "北極星　僕たちはどう働くか (幻冬舎単行本)",
+          "rating": 5.0,
+          "review_count": 47,
+          "price": "￥1,881",
+          "url": "https://www.amazon.co.jp/dp/B0GLP3NSZK"
+        },
+        {
+          "rank": 5,
+          "title": "1日1ページ、読むだけで身につく世界の教養365",
+          "rating": 3.8,
+          "review_count": 1291,
+          "price": "￥2,356",
+          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
+        },
+        {
+          "rank": 6,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.2,
+          "review_count": 145,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 7,
+          "title": "戦国小町苦労譚　19　黒鉄の馬と次代の萌芽 (アース・スターノベル)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GRTTHCVC"
+        },
+        {
+          "rank": 8,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 131,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 9,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 694,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        },
+        {
+          "rank": 10,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
+          "rating": 5.0,
+          "review_count": 2,
+          "price": "￥713",
+          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-13T04:29:05.237198",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 63,
           "price": "￥1,833",
           "url": "https://www.amazon.co.jp/dp/B0B81QVC7Y"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-11T04:27:39.467959",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1007,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 2,
-          "title": "The Elder Scrolls オフィシャル・クックブック (G-NOVELS)",
-          "rating": 4.7,
-          "review_count": 206,
-          "price": "￥3,564",
-          "url": "https://www.amazon.co.jp/dp/B0BWJ5FSLH"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1316,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 4,
-          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
-          "rating": 5.0,
-          "review_count": 1,
-          "price": "￥713",
-          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
-        },
-        {
-          "rank": 5,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1909,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 6,
-          "title": "田中美久写真集 「ぜんぶ、ほんと」 (週プレ PHOTO BOOK)",
-          "rating": 2.1,
-          "review_count": 31,
-          "price": "￥3,410",
-          "url": "https://www.amazon.co.jp/dp/B0GRGP2KSP"
-        },
-        {
-          "rank": 7,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 139,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 8,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 128,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        },
-        {
-          "rank": 9,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 688,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 10,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1270,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
         }
       ]
     }
