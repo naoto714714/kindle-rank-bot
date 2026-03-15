@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-15T05:00:20.929409",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1013,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1330,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
+          "rating": 3.2,
+          "review_count": 147,
+          "price": "￥540",
+          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
+        },
+        {
+          "rank": 4,
+          "title": "木挽町のあだ討ち（新潮文庫）",
+          "rating": 4.4,
+          "review_count": 1996,
+          "price": "￥703",
+          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
+        },
+        {
+          "rank": 5,
+          "title": "北極星　僕たちはどう働くか (幻冬舎単行本)",
+          "rating": 4.9,
+          "review_count": 64,
+          "price": "￥1,881",
+          "url": "https://www.amazon.co.jp/dp/B0GLP3NSZK"
+        },
+        {
+          "rank": 6,
+          "title": "超かぐや姫！ (ファミ通文庫)",
+          "rating": 4.9,
+          "review_count": 1391,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
+        },
+        {
+          "rank": 7,
+          "title": "1日1ページ、読むだけで身につく世界の教養365",
+          "rating": 3.8,
+          "review_count": 1291,
+          "price": "￥2,356",
+          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
+        },
+        {
+          "rank": 8,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 695,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        },
+        {
+          "rank": 9,
+          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
+          "rating": 4.4,
+          "review_count": 132,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
+        },
+        {
+          "rank": 10,
+          "title": "インド思想史 (講談社学術文庫)",
+          "rating": 4.2,
+          "review_count": 20,
+          "price": "￥1,353",
+          "url": "https://www.amazon.co.jp/dp/B0CR37BZ6W"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-14T04:27:48.760827",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 88,
           "price": "￥1,485",
           "url": "https://www.amazon.co.jp/dp/B018VE46YW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-12T04:42:49.125591",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1010,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 2,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1319,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 3,
-          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(11) (電撃文庫)",
-          "rating": 5.0,
-          "review_count": 2,
-          "price": "￥713",
-          "url": "https://www.amazon.co.jp/dp/B0GPVHWHQK"
-        },
-        {
-          "rank": 4,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1929,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 5,
-          "title": "世界史を変えた薬 (講談社現代新書)",
-          "rating": 4.4,
-          "review_count": 247,
-          "price": "￥869",
-          "url": "https://www.amazon.co.jp/dp/B017GPG6XG"
-        },
-        {
-          "rank": 6,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 142,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 7,
-          "title": "1日1ページ、読むだけで身につく世界の教養365",
-          "rating": 3.8,
-          "review_count": 1291,
-          "price": "￥2,356",
-          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
-        },
-        {
-          "rank": 8,
-          "title": "大戸屋 にっぽんの定食屋さんレシピ 最新決定版 (ワン・クッキングムック)",
-          "rating": 4.4,
-          "review_count": 130,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0CZ79GNX5"
-        },
-        {
-          "rank": 9,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 689,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 10,
-          "title": "数学ガールの物理ノート／波の重ね合わせ",
-          "rating": 4.5,
-          "review_count": 63,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0B81QVC7Y"
         }
       ]
     }
