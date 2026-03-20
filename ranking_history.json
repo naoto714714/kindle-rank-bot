@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-20T04:42:18.685171",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "【電子版だけの特典カットつき】前田敦子写真集　Ｂｅｓｔｅ",
+          "rating": 4.5,
+          "review_count": 54,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B0GMPX6WNT"
+        },
+        {
+          "rank": 2,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.4,
+          "review_count": 64,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        },
+        {
+          "rank": 3,
+          "title": "魔法つかいプリキュア！ オフィシャルコンプリートブック (学研ムック)",
+          "rating": 4.8,
+          "review_count": 98,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B0C6K82GT9"
+        },
+        {
+          "rank": 4,
+          "title": "HUGっと！プリキュア オフィシャルコンプリートブック (学研ムック)",
+          "rating": 4.9,
+          "review_count": 110,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B0C6K6XQHZ"
+        },
+        {
+          "rank": 5,
+          "title": "もう一度買いたい！　遊びたい！！　昭和ホビー完全読本 学研ムック",
+          "rating": 3.9,
+          "review_count": 80,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B014QSZJO8"
+        },
+        {
+          "rank": 6,
+          "title": "究極のロゴデザイン： 精鋭クリエイティブディレクター、アートディレクターの思考と表現から学ぶ。 Designer's Collection",
+          "rating": 4.5,
+          "review_count": 67,
+          "price": "￥3,960",
+          "url": "https://www.amazon.co.jp/dp/B0B1TVJTWN"
+        },
+        {
+          "rank": 7,
+          "title": "世界の絶景　お城＆宮殿",
+          "rating": 4.4,
+          "review_count": 28,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B00NIMRJBU"
+        },
+        {
+          "rank": 8,
+          "title": "世界の絶景　教会＆寺院",
+          "rating": 4.1,
+          "review_count": 10,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
+        },
+        {
+          "rank": 9,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1023,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 10,
+          "title": "学研ムック　スペース☆ダンディ　オフィシャルファンブック",
+          "rating": 4.4,
+          "review_count": 12,
+          "price": "￥11",
+          "url": "https://www.amazon.co.jp/dp/B00LFG3H1C"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-19T04:49:32.998333",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 2056,
           "price": "￥703",
           "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-16T05:09:45.460060",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1013,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 2,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1330,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 3,
-          "title": "働く女子ヒップ写真集『THE HIPS 9』 THE HIPSシリーズ (街撮りフォト)",
-          "rating": 3.2,
-          "review_count": 147,
-          "price": "￥540",
-          "url": "https://www.amazon.co.jp/dp/B0GC73L82G"
-        },
-        {
-          "rank": 4,
-          "title": "淡海乃海　水面が揺れる時～三英傑に嫌われた不運な男、朽木基綱の逆襲～十九【電子書籍限定書き下ろしSS付き】 (TOブックスラノベ)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B0GDZJSPR8"
-        },
-        {
-          "rank": 5,
-          "title": "1日1ページ、読むだけで身につく世界の教養365",
-          "rating": 3.8,
-          "review_count": 1291,
-          "price": "￥2,356",
-          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
-        },
-        {
-          "rank": 6,
-          "title": "木挽町のあだ討ち（新潮文庫）",
-          "rating": 4.4,
-          "review_count": 1996,
-          "price": "￥703",
-          "url": "https://www.amazon.co.jp/dp/B0FNQV6W1S"
-        },
-        {
-          "rank": 7,
-          "title": "超かぐや姫！ (ファミ通文庫)",
-          "rating": 4.9,
-          "review_count": 1391,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GHJ3YV6G"
-        },
-        {
-          "rank": 8,
-          "title": "北極星　僕たちはどう働くか (幻冬舎単行本)",
-          "rating": 4.9,
-          "review_count": 64,
-          "price": "￥1,881",
-          "url": "https://www.amazon.co.jp/dp/B0GLP3NSZK"
-        },
-        {
-          "rank": 9,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 695,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 10,
-          "title": "山崎先生、お金の「もうこれだけで大丈夫！」を教えてください。 90分で一生役立つお金の授業",
-          "rating": 4.5,
-          "review_count": 330,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0CWP42N47"
         }
       ]
     }
