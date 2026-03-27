@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-27T05:01:58.464847",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "世界の絶景　教会＆寺院",
+          "rating": 4.1,
+          "review_count": 11,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
+        },
+        {
+          "rank": 2,
+          "title": "世界の絶景　お城＆宮殿",
+          "rating": 4.3,
+          "review_count": 30,
+          "price": "￥1,069",
+          "url": "https://www.amazon.co.jp/dp/B00NIMRJBU"
+        },
+        {
+          "rank": 3,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.2,
+          "review_count": 70,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        },
+        {
+          "rank": 4,
+          "title": "世界の絶景 楽園＆秘境",
+          "rating": 3.7,
+          "review_count": 5,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B00L7SUJSC"
+        },
+        {
+          "rank": 5,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1033,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 6,
+          "title": "陰の実力者になりたくて！ ０７",
+          "rating": null,
+          "review_count": null,
+          "price": "￥704",
+          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1346,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 8,
+          "title": "最暗黒の東京 (講談社学術文庫)",
+          "rating": 4.5,
+          "review_count": 74,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B00UUQ440G"
+        },
+        {
+          "rank": 9,
+          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
+          "rating": 4.8,
+          "review_count": 10031,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
+        },
+        {
+          "rank": 10,
+          "title": "1日1ページ、読むだけで身につく世界の教養365",
+          "rating": 3.8,
+          "review_count": 1293,
+          "price": "￥2,356",
+          "url": "https://www.amazon.co.jp/dp/B07CG48HYS"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-26T05:00:24.215234",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 35,
           "price": "￥891",
           "url": "https://www.amazon.co.jp/dp/B06XNQSFJR"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-24T04:48:43.227925",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "世界の絶景　お城＆宮殿",
-          "rating": 4.4,
-          "review_count": 29,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00NIMRJBU"
-        },
-        {
-          "rank": 2,
-          "title": "世界の絶景　教会＆寺院",
-          "rating": 4.1,
-          "review_count": 11,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
-        },
-        {
-          "rank": 3,
-          "title": "世界の絶景 楽園＆秘境",
-          "rating": 3.7,
-          "review_count": 5,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00L7SUJSC"
-        },
-        {
-          "rank": 4,
-          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
-          "rating": 4.3,
-          "review_count": 67,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
-        },
-        {
-          "rank": 5,
-          "title": "日本の有毒植物 フィールドベスト図鑑",
-          "rating": 4.1,
-          "review_count": 15,
-          "price": "￥1,886",
-          "url": "https://www.amazon.co.jp/dp/B00EPVGV9Y"
-        },
-        {
-          "rank": 6,
-          "title": "もう一度買いたい！　遊びたい！！　昭和ホビー完全読本 学研ムック",
-          "rating": 3.9,
-          "review_count": 81,
-          "price": "￥704",
-          "url": "https://www.amazon.co.jp/dp/B014QSZJO8"
-        },
-        {
-          "rank": 7,
-          "title": "日本の鉄道車両 完全図鑑 2024-2025年 (学研ムック)",
-          "rating": 4.4,
-          "review_count": 35,
-          "price": "￥2,970",
-          "url": "https://www.amazon.co.jp/dp/B0D497BBCC"
-        },
-        {
-          "rank": 8,
-          "title": "7つの魅力でとことん楽しむ！ 日本100名城めぐりの旅",
-          "rating": 4.1,
-          "review_count": 35,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B06XNQSFJR"
-        },
-        {
-          "rank": 9,
-          "title": "魔法つかいプリキュア！ オフィシャルコンプリートブック (学研ムック)",
-          "rating": 4.8,
-          "review_count": 100,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0C6K82GT9"
-        },
-        {
-          "rank": 10,
-          "title": "あみぐるみの技法書：作り目、編み方から、組み立て、糸始末、仕上げまで。各部位の作り方の基礎~応用テクニックを解説",
-          "rating": 4.2,
-          "review_count": 162,
-          "price": "￥2,376",
-          "url": "https://www.amazon.co.jp/dp/B07D74VSFX"
         }
       ]
     }
