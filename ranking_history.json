@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-03-31T05:03:42.069377",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ＮＨＫラジオ ラジオ英会話 2026年 4月号 ［雑誌］ (ＮＨＫテキスト)",
+          "rating": 4.1,
+          "review_count": 9,
+          "price": "￥603",
+          "url": "https://www.amazon.co.jp/dp/B0GQY7SKT1"
+        },
+        {
+          "rank": 2,
+          "title": "陰の実力者になりたくて！ ０７",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
+        },
+        {
+          "rank": 3,
+          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
+          "rating": 4.0,
+          "review_count": 1037,
+          "price": "￥680",
+          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
+        },
+        {
+          "rank": 4,
+          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
+          "rating": 4.8,
+          "review_count": 10082,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
+        },
+        {
+          "rank": 5,
+          "title": "一度読んだら絶対に忘れないビジネス英語の教科書",
+          "rating": 4.4,
+          "review_count": 35,
+          "price": "￥935",
+          "url": "https://www.amazon.co.jp/dp/B0D8VP62JT"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1350,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 7,
+          "title": "一度読んだら絶対に忘れない哲学の教科書",
+          "rating": 3.9,
+          "review_count": 126,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0CTM9T6F1"
+        },
+        {
+          "rank": 8,
+          "title": "一度読んだら絶対に忘れない数学の教科書",
+          "rating": 4.1,
+          "review_count": 42,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0CP5D54NP"
+        },
+        {
+          "rank": 9,
+          "title": "「ものづくり」の科学史　世界を変えた《標準革命》 (講談社学術文庫)",
+          "rating": 4.4,
+          "review_count": 115,
+          "price": "￥1,430",
+          "url": "https://www.amazon.co.jp/dp/B00FEBDWYG"
+        },
+        {
+          "rank": 10,
+          "title": "自分の小さな「箱」から脱出する方法～人間関係のパターンを変えれば、うまくいく！",
+          "rating": 4.3,
+          "review_count": 1454,
+          "price": "￥1,056",
+          "url": "https://www.amazon.co.jp/dp/B0C8YC7NP2"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-03-30T05:17:56.721513",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 27,
           "price": "￥1,683",
           "url": "https://www.amazon.co.jp/dp/B0DC5YF863"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-03-28T04:48:25.634080",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "自分の小さな「箱」から脱出する方法～人間関係のパターンを変えれば、うまくいく！",
-          "rating": 4.3,
-          "review_count": 1452,
-          "price": "￥1,056",
-          "url": "https://www.amazon.co.jp/dp/B0C8YC7NP2"
-        },
-        {
-          "rank": 2,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1034,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 3,
-          "title": "陰の実力者になりたくて！ ０７",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
-        },
-        {
-          "rank": 4,
-          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
-          "rating": 4.2,
-          "review_count": 70,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1347,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "世界の絶景　教会＆寺院",
-          "rating": 4.1,
-          "review_count": 11,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
-        },
-        {
-          "rank": 7,
-          "title": "世界の絶景　お城＆宮殿",
-          "rating": 4.3,
-          "review_count": 31,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00NIMRJBU"
-        },
-        {
-          "rank": 8,
-          "title": "世界の絶景 楽園＆秘境",
-          "rating": 3.7,
-          "review_count": 5,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00L7SUJSC"
-        },
-        {
-          "rank": 9,
-          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
-          "rating": 4.8,
-          "review_count": 10036,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
-        },
-        {
-          "rank": 10,
-          "title": "【電子版だけの特典カットつき】前田敦子写真集　Ｂｅｓｔｅ",
-          "rating": 4.5,
-          "review_count": 65,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B0GMPX6WNT"
         }
       ]
     }
