@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-06T05:16:51.126953",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "増補改訂版 創作者のためのファンタジー世界事典",
+          "rating": 4.4,
+          "review_count": 3,
+          "price": "￥2,911",
+          "url": "https://www.amazon.co.jp/dp/B0CSYWNWG2"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1358,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "陰の実力者になりたくて！ ０７",
+          "rating": 4.2,
+          "review_count": 39,
+          "price": "￥1,386",
+          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
+        },
+        {
+          "rank": 4,
+          "title": "機械学習スタートアップシリーズ　ゼロからつくるＰｙｔｈｏｎ機械学習プログラミング入門 (ＫＳ情報科学専門書)",
+          "rating": 4.3,
+          "review_count": 39,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B08MF4BS7N"
+        },
+        {
+          "rank": 5,
+          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
+          "rating": 3.9,
+          "review_count": 24,
+          "price": "￥1,260",
+          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
+        },
+        {
+          "rank": 6,
+          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
+          "rating": 4.3,
+          "review_count": 730,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
+        },
+        {
+          "rank": 7,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3376,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 8,
+          "title": "凡庸な男に明け暮れた、とある天才の話",
+          "rating": 4.8,
+          "review_count": 45,
+          "price": "￥1,250",
+          "url": "https://www.amazon.co.jp/dp/B0GHPL492F"
+        },
+        {
+          "rank": 9,
+          "title": "哲学史入門Ⅳ　正義論、功利主義からケアの倫理まで ＮＨＫ出版新書",
+          "rating": 4.4,
+          "review_count": 10,
+          "price": "￥1,240",
+          "url": "https://www.amazon.co.jp/dp/B0FQ4YZ2V8"
+        },
+        {
+          "rank": 10,
+          "title": "入間ゆい 恋人未満の 325P (am)",
+          "rating": 4.1,
+          "review_count": 28,
+          "price": "￥385",
+          "url": "https://www.amazon.co.jp/dp/B0GQ3GQQH1"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-05T05:06:25.897387",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 24,
           "price": "￥385",
           "url": "https://www.amazon.co.jp/dp/B0GQ3GQQH1"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-02T04:57:41.198611",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "陰の実力者になりたくて！ ０７",
-          "rating": 4.3,
-          "review_count": 11,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
-        },
-        {
-          "rank": 2,
-          "title": "紋章学入門 (ちくま学芸文庫)",
-          "rating": 4.4,
-          "review_count": 62,
-          "price": "￥1,716",
-          "url": "https://www.amazon.co.jp/dp/B0BN44NQKL"
-        },
-        {
-          "rank": 3,
-          "title": "ジ・アート・オブ Fallout 4 (G-NOVELS)",
-          "rating": 4.8,
-          "review_count": 274,
-          "price": "￥3,960",
-          "url": "https://www.amazon.co.jp/dp/B07NDV9SD7"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1350,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "【電子限定カット付き】寺本莉緒写真集　ＲＩＯ【全１５０ページ】",
-          "rating": 4.5,
-          "review_count": 7,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B0GTYNLNHT"
-        },
-        {
-          "rank": 6,
-          "title": "アドラー心理学を実生活に取り入れてみた アドラー心理学を実践で学ぶ",
-          "rating": 4.0,
-          "review_count": 1041,
-          "price": "￥680",
-          "url": "https://www.amazon.co.jp/dp/B09PF1TBBB"
-        },
-        {
-          "rank": 7,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 726,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 8,
-          "title": "ふつつかな悪女ではございますが　～雛宮蝶鼠とりかえ伝～　小冊子付特装版: 12【特典SS付】 (一迅社ノベルス)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0GTQNJVZT"
-        },
-        {
-          "rank": 9,
-          "title": "ベイズ深層学習 (機械学習プロフェッショナルシリーズ)",
-          "rating": 4.2,
-          "review_count": 61,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B07YSHL8MS"
-        },
-        {
-          "rank": 10,
-          "title": "ＮＨＫラジオ ラジオ英会話 2026年 4月号 ［雑誌］ (ＮＨＫテキスト)",
-          "rating": 4.3,
-          "review_count": 11,
-          "price": "￥603",
-          "url": "https://www.amazon.co.jp/dp/B0GQY7SKT1"
         }
       ]
     }
