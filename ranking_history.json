@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-11T04:49:26.950839",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
+          "rating": 4.0,
+          "review_count": 1,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 3,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 77,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        },
+        {
+          "rank": 4,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1753,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 5,
+          "title": "テンソルネットワーク入門 (ＫＳ情報科学専門書)",
+          "rating": 4.3,
+          "review_count": 15,
+          "price": "￥3,630",
+          "url": "https://www.amazon.co.jp/dp/B0C2P7D6N6"
+        },
+        {
+          "rank": 6,
+          "title": "ソードアート・オンライン29　ユナイタル・リングVIII (電撃文庫)",
+          "rating": 4.0,
+          "review_count": 1,
+          "price": "￥902",
+          "url": "https://www.amazon.co.jp/dp/B0GHSGJC24"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1372,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 8,
+          "title": "はじめてのアナログ電子回路　基本回路編 (ＫＳ理工学専門書)",
+          "rating": 4.0,
+          "review_count": 24,
+          "price": "￥2,970",
+          "url": "https://www.amazon.co.jp/dp/B09CPQ6DQC"
+        },
+        {
+          "rank": 9,
+          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
+        },
+        {
+          "rank": 10,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3377,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-10T05:18:45.097412",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 735,
           "price": "￥1,485",
           "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-07T05:03:34.983413",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "関係データ学習 (機械学習プロフェッショナルシリーズ)",
-          "rating": 4.5,
-          "review_count": 11,
-          "price": "￥3,080",
-          "url": "https://www.amazon.co.jp/dp/B07569G8QZ"
-        },
-        {
-          "rank": 2,
-          "title": "増補改訂版 創作者のためのファンタジー世界事典",
-          "rating": 4.4,
-          "review_count": 3,
-          "price": "￥2,911",
-          "url": "https://www.amazon.co.jp/dp/B0CSYWNWG2"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1361,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 4,
-          "title": "陰の実力者になりたくて！ ０７",
-          "rating": 4.2,
-          "review_count": 39,
-          "price": "￥1,386",
-          "url": "https://www.amazon.co.jp/dp/B0GSY5MBYL"
-        },
-        {
-          "rank": 5,
-          "title": "異常検知と変化検知 (機械学習プロフェッショナルシリーズ)",
-          "rating": 4.2,
-          "review_count": 62,
-          "price": "￥3,080",
-          "url": "https://www.amazon.co.jp/dp/B018K6C99U"
-        },
-        {
-          "rank": 6,
-          "title": "集合・位相・圏　数学の言葉への最短コース (ＫＳ理工学専門書)",
-          "rating": 4.3,
-          "review_count": 54,
-          "price": "￥2,860",
-          "url": "https://www.amazon.co.jp/dp/B08KQ5LWTB"
-        },
-        {
-          "rank": 7,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 731,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
-        },
-        {
-          "rank": 8,
-          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
-          "rating": 4.8,
-          "review_count": 10228,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
-        },
-        {
-          "rank": 9,
-          "title": "機械学習スタートアップシリーズ　ゼロからつくるＰｙｔｈｏｎ機械学習プログラミング入門 (ＫＳ情報科学専門書)",
-          "rating": 4.3,
-          "review_count": 39,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B08MF4BS7N"
-        },
-        {
-          "rank": 10,
-          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
-          "rating": 3.9,
-          "review_count": 25,
-          "price": "￥1,260",
-          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
         }
       ]
     }
