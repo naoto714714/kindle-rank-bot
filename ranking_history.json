@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-12T05:16:27.148848",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 77,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        },
+        {
+          "rank": 3,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1760,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 4,
+          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
+          "rating": 4.6,
+          "review_count": 3,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1374,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 6,
+          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
+        },
+        {
+          "rank": 7,
+          "title": "線形性・固有値・テンソル　＜線形代数＞応用への最短コース (ＫＳ理工学専門書)",
+          "rating": 4.2,
+          "review_count": 23,
+          "price": "￥3,080",
+          "url": "https://www.amazon.co.jp/dp/B07Q82S6K1"
+        },
+        {
+          "rank": 8,
+          "title": "ソードアート・オンライン29　ユナイタル・リングVIII (電撃文庫)",
+          "rating": 4.0,
+          "review_count": 1,
+          "price": "￥902",
+          "url": "https://www.amazon.co.jp/dp/B0GHSGJC24"
+        },
+        {
+          "rank": 9,
+          "title": "夜王の犬【単行本版】（特典付き） (from RED)",
+          "rating": 4.5,
+          "review_count": 97,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0D86VTY2T"
+        },
+        {
+          "rank": 10,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.4,
+          "review_count": 149,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-11T04:49:26.950839",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 143,
           "price": "￥99",
           "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-09T05:03:52.944800",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "図解 武器と甲冑",
-          "rating": 4.6,
-          "review_count": 83,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B08H7M9R7W"
-        },
-        {
-          "rank": 2,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1363,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 3,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3377,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 4,
-          "title": "営業中にバイブを落としたら後輩に調教されることになったリーマンの話【白抜き修正版】 (Blend)",
-          "rating": 4.2,
-          "review_count": 27,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0FPCG5MQ4"
-        },
-        {
-          "rank": 5,
-          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
-          "rating": 4.0,
-          "review_count": 25,
-          "price": "￥1,260",
-          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
-        },
-        {
-          "rank": 6,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 82,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 7,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 77,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 8,
-          "title": "入間ゆい 恋人未満の 325P (am)",
-          "rating": 3.9,
-          "review_count": 30,
-          "price": "￥385",
-          "url": "https://www.amazon.co.jp/dp/B0GQ3GQQH1"
-        },
-        {
-          "rank": 9,
-          "title": "人は話し方が９割２",
-          "rating": 4.4,
-          "review_count": 151,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 10,
-          "title": "僕が若い人たちに伝えたい 2035年最強の働き方",
-          "rating": 4.3,
-          "review_count": 735,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DLDMDVKK"
         }
       ]
     }
