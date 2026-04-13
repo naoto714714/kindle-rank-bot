@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-13T05:33:57.147991",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 77,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        },
+        {
+          "rank": 3,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1767,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 4,
+          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1376,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 6,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.4,
+          "review_count": 152,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        },
+        {
+          "rank": 7,
+          "title": "夜王の犬【単行本版】（特典付き） (from RED)",
+          "rating": 4.5,
+          "review_count": 97,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0D86VTY2T"
+        },
+        {
+          "rank": 8,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3376,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 9,
+          "title": "人は話し方が９割２",
+          "rating": 4.4,
+          "review_count": 152,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 10,
+          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
+          "rating": 4.6,
+          "review_count": 5,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-12T05:16:27.148848",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 3377,
           "price": "￥900",
           "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-10T05:18:45.097412",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 82,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 77,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1372,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 4,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1744,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 5,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3377,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 6,
-          "title": "営業中にバイブを落としたら後輩に調教されることになったリーマンの話【白抜き修正版】 (Blend)",
-          "rating": 4.2,
-          "review_count": 29,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0FPCG5MQ4"
-        },
-        {
-          "rank": 7,
-          "title": "人は話し方が９割２",
-          "rating": 4.4,
-          "review_count": 151,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 8,
-          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
-          "rating": 4.0,
-          "review_count": 25,
-          "price": "￥1,260",
-          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
-        },
-        {
-          "rank": 9,
-          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
-        },
-        {
-          "rank": 10,
-          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
-          "rating": 4.4,
-          "review_count": 143,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
         }
       ]
     }
