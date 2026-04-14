@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-14T05:16:12.379287",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 78,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        },
+        {
+          "rank": 3,
+          "title": "人物で読み解く政治・経済",
+          "rating": 4.6,
+          "review_count": 12,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B08FD5RNBD"
+        },
+        {
+          "rank": 4,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.4,
+          "review_count": 153,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        },
+        {
+          "rank": 5,
+          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1378,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 7,
+          "title": "日本の有毒植物 フィールドベスト図鑑",
+          "rating": 4.2,
+          "review_count": 23,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00EPVGV9Y"
+        },
+        {
+          "rank": 8,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1780,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 9,
+          "title": "スマイルプリキュア！ コンプリートファンブック (学研ムック)",
+          "rating": 4.7,
+          "review_count": 76,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B0C6K6PK95"
+        },
+        {
+          "rank": 10,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3377,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-13T05:33:57.147991",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 149,
           "price": "￥99",
           "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-11T04:49:26.950839",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
-          "rating": 4.0,
-          "review_count": 1,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 82,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 3,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 77,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 4,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1753,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 5,
-          "title": "テンソルネットワーク入門 (ＫＳ情報科学専門書)",
-          "rating": 4.3,
-          "review_count": 15,
-          "price": "￥3,630",
-          "url": "https://www.amazon.co.jp/dp/B0C2P7D6N6"
-        },
-        {
-          "rank": 6,
-          "title": "ソードアート・オンライン29　ユナイタル・リングVIII (電撃文庫)",
-          "rating": 4.0,
-          "review_count": 1,
-          "price": "￥902",
-          "url": "https://www.amazon.co.jp/dp/B0GHSGJC24"
-        },
-        {
-          "rank": 7,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1372,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 8,
-          "title": "はじめてのアナログ電子回路　基本回路編 (ＫＳ理工学専門書)",
-          "rating": 4.0,
-          "review_count": 24,
-          "price": "￥2,970",
-          "url": "https://www.amazon.co.jp/dp/B09CPQ6DQC"
-        },
-        {
-          "rank": 9,
-          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
-        },
-        {
-          "rank": 10,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3377,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
         }
       ]
     }
