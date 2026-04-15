@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-15T05:16:35.011541",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 82,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 80,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        },
+        {
+          "rank": 3,
+          "title": "日本の有毒植物 フィールドベスト図鑑",
+          "rating": 4.2,
+          "review_count": 23,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00EPVGV9Y"
+        },
+        {
+          "rank": 4,
+          "title": "世界の絶景　教会＆寺院",
+          "rating": 4.2,
+          "review_count": 31,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
+        },
+        {
+          "rank": 5,
+          "title": "人物で読み解く政治・経済",
+          "rating": 4.6,
+          "review_count": 12,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B08FD5RNBD"
+        },
+        {
+          "rank": 6,
+          "title": "図説 一冊で学び直せる哲学の本",
+          "rating": 4.0,
+          "review_count": 12,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B07X46P686"
+        },
+        {
+          "rank": 7,
+          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
+          "rating": 4.4,
+          "review_count": 156,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
+        },
+        {
+          "rank": 8,
+          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
+          "rating": 5.0,
+          "review_count": 1,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
+        },
+        {
+          "rank": 9,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1792,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1378,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-14T05:16:12.379287",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 5,
           "price": "￥1,188",
           "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-12T05:16:27.148848",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 82,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 77,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 3,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1760,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 4,
-          "title": "本好きの下剋上　ハンネローレの貴族院五年生3",
-          "rating": 4.6,
-          "review_count": 3,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B0GHWZQHR5"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1374,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
-        },
-        {
-          "rank": 7,
-          "title": "線形性・固有値・テンソル　＜線形代数＞応用への最短コース (ＫＳ理工学専門書)",
-          "rating": 4.2,
-          "review_count": 23,
-          "price": "￥3,080",
-          "url": "https://www.amazon.co.jp/dp/B07Q82S6K1"
-        },
-        {
-          "rank": 8,
-          "title": "ソードアート・オンライン29　ユナイタル・リングVIII (電撃文庫)",
-          "rating": 4.0,
-          "review_count": 1,
-          "price": "￥902",
-          "url": "https://www.amazon.co.jp/dp/B0GHSGJC24"
-        },
-        {
-          "rank": 9,
-          "title": "夜王の犬【単行本版】（特典付き） (from RED)",
-          "rating": 4.5,
-          "review_count": 97,
-          "price": "￥782",
-          "url": "https://www.amazon.co.jp/dp/B0D86VTY2T"
-        },
-        {
-          "rank": 10,
-          "title": "学研ムック　「海洋堂」半世紀フィギュア大図鑑",
-          "rating": 4.4,
-          "review_count": 149,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00O2T77D8"
         }
       ]
     }
