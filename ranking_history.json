@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-21T05:20:34.259837",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1391,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 2,
+          "title": "人は話し方が９割２",
+          "rating": 4.4,
+          "review_count": 153,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 3,
+          "title": "サムネイルデザインのきほん　伝える、目立たせるためのアイデア",
+          "rating": 4.2,
+          "review_count": 32,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0CL944ZH5"
+        },
+        {
+          "rank": 4,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3377,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 5,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 4.0,
+          "review_count": 5,
+          "price": "￥440",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 6,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1819,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 7,
+          "title": "絵でわかる地図と測量 (ＫＳ絵でわかるシリーズ)",
+          "rating": 4.1,
+          "review_count": 36,
+          "price": "￥2,420",
+          "url": "https://www.amazon.co.jp/dp/B06XK1P2DY"
+        },
+        {
+          "rank": 8,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 84,
+          "price": "￥1,426",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 9,
+          "title": "夜王の犬【単行本版】（特典付き） (from RED)",
+          "rating": 4.5,
+          "review_count": 101,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0D86VTY2T"
+        },
+        {
+          "rank": 10,
+          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
+          "rating": 4.4,
+          "review_count": 82,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-20T05:32:58.825304",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 76,
           "price": "￥923",
           "url": "https://www.amazon.co.jp/dp/B0C6K6PK95"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-17T05:21:41.144837",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 84,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 82,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 3,
-          "title": "日本の有毒植物 フィールドベスト図鑑",
-          "rating": 4.2,
-          "review_count": 25,
-          "price": "￥1,886",
-          "url": "https://www.amazon.co.jp/dp/B00EPVGV9Y"
-        },
-        {
-          "rank": 4,
-          "title": "スマイルプリキュア！ コンプリートファンブック (学研ムック)",
-          "rating": 4.7,
-          "review_count": 76,
-          "price": "￥923",
-          "url": "https://www.amazon.co.jp/dp/B0C6K6PK95"
-        },
-        {
-          "rank": 5,
-          "title": "Go！プリンセスプリキュア オフィシャルコンプリートブック (学研ムック)",
-          "rating": 4.7,
-          "review_count": 73,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0C6K7R7C7"
-        },
-        {
-          "rank": 6,
-          "title": "猫の毛色＆模様　まるわかり１００！ 三毛、トラ、白黒ｅｔｃ．毛柄でキモチも見えてくる！ 学研ムック",
-          "rating": 4.1,
-          "review_count": 26,
-          "price": "￥1,257",
-          "url": "https://www.amazon.co.jp/dp/B00W3MMNLW"
-        },
-        {
-          "rank": 7,
-          "title": "ドキドキ！プリキュア オフィシャルコンプリートブック (学研ムック)",
-          "rating": 4.6,
-          "review_count": 54,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0C6K3YMFH"
-        },
-        {
-          "rank": 8,
-          "title": "図説 一冊で学び直せる哲学の本",
-          "rating": 4.0,
-          "review_count": 12,
-          "price": "￥695",
-          "url": "https://www.amazon.co.jp/dp/B07X46P686"
-        },
-        {
-          "rank": 9,
-          "title": "世界の絶景　教会＆寺院",
-          "rating": 4.2,
-          "review_count": 35,
-          "price": "￥1,069",
-          "url": "https://www.amazon.co.jp/dp/B00UFPHN8C"
-        },
-        {
-          "rank": 10,
-          "title": "人物で読み解く政治・経済",
-          "rating": 4.6,
-          "review_count": 12,
-          "price": "￥1,188",
-          "url": "https://www.amazon.co.jp/dp/B08FD5RNBD"
         }
       ]
     }
