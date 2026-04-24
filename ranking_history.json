@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-24T05:27:47.854189",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "ホメーロスの諸神讚歌 (ちくま学芸文庫)",
+          "rating": 4.6,
+          "review_count": 22,
+          "price": "￥1,606",
+          "url": "https://www.amazon.co.jp/dp/B07KY3D959"
+        },
+        {
+          "rank": 2,
+          "title": "完全独習相対性理論 (ＫＳ物理専門書)",
+          "rating": 4.2,
+          "review_count": 19,
+          "price": "￥3,960",
+          "url": "https://www.amazon.co.jp/dp/B01N40HL2X"
+        },
+        {
+          "rank": 3,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 4.0,
+          "review_count": 5,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.4,
+          "review_count": 155,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3383,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 6,
+          "title": "【Ｋｉｎｄｌｅ限定カット付き】桃月なしこ２ｎｄ写真集　むすび",
+          "rating": 4.2,
+          "review_count": 11,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B0GWR2VKJ7"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1404,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 8,
+          "title": "ウソを見破る統計学　退屈させない統計入門 (ブルーバックス)",
+          "rating": 4.1,
+          "review_count": 109,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B00J9YQFF2"
+        },
+        {
+          "rank": 9,
+          "title": "サクッと学べるデザイン心理法則108",
+          "rating": 4.4,
+          "review_count": 112,
+          "price": "￥1,663",
+          "url": "https://www.amazon.co.jp/dp/B0BQLZVCD6"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 321,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-22T05:18:29.038727",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 82,
           "price": "￥1,584",
           "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-20T05:32:58.825304",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1390,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 2,
-          "title": "人は話し方が９割２",
-          "rating": 4.4,
-          "review_count": 153,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 3,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3377,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 4,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 84,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 5,
-          "title": "「なぜ？」がわかる世界史 近現代（オスマン帝国～現代）",
-          "rating": 4.4,
-          "review_count": 82,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZX5Y"
-        },
-        {
-          "rank": 6,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1815,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 7,
-          "title": "週刊ポストGOLD　グラビア傑作選2026春号 週刊ポストGOLD グラビア傑作選",
-          "rating": 2.7,
-          "review_count": 5,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0GT37LR7T"
-        },
-        {
-          "rank": 8,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.8,
-          "review_count": 4,
-          "price": "￥440",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 9,
-          "title": "夜王の犬【単行本版】（特典付き） (from RED)",
-          "rating": 4.5,
-          "review_count": 101,
-          "price": "￥782",
-          "url": "https://www.amazon.co.jp/dp/B0D86VTY2T"
-        },
-        {
-          "rank": 10,
-          "title": "日本の有毒植物 フィールドベスト図鑑",
-          "rating": 4.0,
-          "review_count": 26,
-          "price": "￥1,886",
-          "url": "https://www.amazon.co.jp/dp/B00EPVGV9Y"
         }
       ]
     }
