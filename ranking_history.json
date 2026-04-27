@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-27T05:46:45.108377",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "人は話し方が９割２",
+          "rating": 4.4,
+          "review_count": 159,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 2,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.4,
+          "review_count": 6,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 3,
+          "title": "Threads（スレッズ）完全攻略マニュアル: 副業初心者でもOK！ThreadsとAIで始めるSNSマーケティング完全攻略ガイド",
+          "rating": 5.0,
+          "review_count": 276,
+          "price": "￥780",
+          "url": "https://www.amazon.co.jp/dp/B0GX32JVQW"
+        },
+        {
+          "rank": 4,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3384,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1410,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 321,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "はじめての現代制御理論　改訂第２版 (ＫＳ理工学専門書)",
+          "rating": 4.4,
+          "review_count": 25,
+          "price": "￥2,860",
+          "url": "https://www.amazon.co.jp/dp/B0BTYBYGTW"
+        },
+        {
+          "rank": 8,
+          "title": "ノーゲーム・ノーライフ 13　ゲーマー兄妹たちは『魔王』を討つ（すくう）ようです (MF文庫J)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥851",
+          "url": "https://www.amazon.co.jp/dp/B0GWYR9B1B"
+        },
+        {
+          "rank": 9,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1896,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 10,
+          "title": "さいとうなおきの #今日の参考ポーズ　イラスト上達のための最強ポーズ集",
+          "rating": 4.4,
+          "review_count": 33,
+          "price": "￥2,860",
+          "url": "https://www.amazon.co.jp/dp/B0DJS14WYV"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-25T05:05:53.265175",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
           "rating": 4.1,
           "review_count": 321,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-22T05:18:29.038727",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "美しい日本語選び辞典 (ことば選び辞典)",
-          "rating": 4.2,
-          "review_count": 413,
-          "price": "￥679",
-          "url": "https://www.amazon.co.jp/dp/B08NCQSFGM"
-        },
-        {
-          "rank": 2,
-          "title": "情景ことば選び辞典",
-          "rating": 4.2,
-          "review_count": 467,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B09C1GW24R"
-        },
-        {
-          "rank": 3,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 4.0,
-          "review_count": 5,
-          "price": "￥440",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 4,
-          "title": "人は話し方が９割２",
-          "rating": 4.4,
-          "review_count": 153,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1391,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3376,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 7,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1822,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 8,
-          "title": "神の庭付き楠木邸 (電撃の新文芸)",
-          "rating": 4.6,
-          "review_count": 708,
-          "price": "￥110",
-          "url": "https://www.amazon.co.jp/dp/B09KSV7YXH"
-        },
-        {
-          "rank": 9,
-          "title": "【Ｋｉｎｄｌｅ限定カット付き】桃月なしこ２ｎｄ写真集　むすび",
-          "rating": 4.8,
-          "review_count": 6,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B0GWR2VKJ7"
-        },
-        {
-          "rank": 10,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 319,
           "price": "￥941",
           "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
         }
