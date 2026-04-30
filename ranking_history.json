@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-04-30T05:51:30.882381",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 164,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 2,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.4,
+          "review_count": 8,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 3,
+          "title": "深層学習　改訂第２版 (機械学習プロフェッショナルシリーズ)",
+          "rating": 4.5,
+          "review_count": 98,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B0BC8JRBPG"
+        },
+        {
+          "rank": 4,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3388,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1411,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 6,
+          "title": "問題解決力を鍛える！アルゴリズムとデータ構造 (ＫＳ情報科学専門書)",
+          "rating": 4.5,
+          "review_count": 270,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B08PV83L3N"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 324,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 8,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 47,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 9,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1931,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 10,
+          "title": "できるCanva 仕事に活かせる！ノンデザイナーのための入門書 (できるシリーズ)",
+          "rating": 4.8,
+          "review_count": 31,
+          "price": "￥2,156",
+          "url": "https://www.amazon.co.jp/dp/B0G5YFVTPR"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-04-29T05:47:29.236265",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 4,
           "price": "￥851",
           "url": "https://www.amazon.co.jp/dp/B0GWYR9B1B"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-27T05:46:45.108377",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "人は話し方が９割２",
-          "rating": 4.4,
-          "review_count": 159,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 2,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.4,
-          "review_count": 6,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 3,
-          "title": "Threads（スレッズ）完全攻略マニュアル: 副業初心者でもOK！ThreadsとAIで始めるSNSマーケティング完全攻略ガイド",
-          "rating": 5.0,
-          "review_count": 276,
-          "price": "￥780",
-          "url": "https://www.amazon.co.jp/dp/B0GX32JVQW"
-        },
-        {
-          "rank": 4,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3384,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1410,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 321,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "はじめての現代制御理論　改訂第２版 (ＫＳ理工学専門書)",
-          "rating": 4.4,
-          "review_count": 25,
-          "price": "￥2,860",
-          "url": "https://www.amazon.co.jp/dp/B0BTYBYGTW"
-        },
-        {
-          "rank": 8,
-          "title": "ノーゲーム・ノーライフ 13　ゲーマー兄妹たちは『魔王』を討つ（すくう）ようです (MF文庫J)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥851",
-          "url": "https://www.amazon.co.jp/dp/B0GWYR9B1B"
-        },
-        {
-          "rank": 9,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1896,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 10,
-          "title": "さいとうなおきの #今日の参考ポーズ　イラスト上達のための最強ポーズ集",
-          "rating": 4.4,
-          "review_count": 33,
-          "price": "￥2,860",
-          "url": "https://www.amazon.co.jp/dp/B0DJS14WYV"
         }
       ]
     }
