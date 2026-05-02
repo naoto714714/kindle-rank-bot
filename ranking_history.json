@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-02T05:29:57.310416",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 166,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 2,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.4,
+          "review_count": 10,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 3,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3387,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1412,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 324,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 6,
+          "title": "ヤマケイ文庫 山階鳥類研究所のおもしろくてためになる鳥の教科書",
+          "rating": 4.4,
+          "review_count": 59,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0CJ2HKQLR"
+        },
+        {
+          "rank": 7,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 47,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 8,
+          "title": "ゼロから学ぶ統計力学",
+          "rating": 4.6,
+          "review_count": 51,
+          "price": "￥1,925",
+          "url": "https://www.amazon.co.jp/dp/B00OKC1W9W"
+        },
+        {
+          "rank": 9,
+          "title": "アラサーがVTuberになった話。8",
+          "rating": 4.6,
+          "review_count": 6,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0GX2ZWLS4"
+        },
+        {
+          "rank": 10,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1964,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-01T06:08:49.221537",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 31,
           "price": "￥2,156",
           "url": "https://www.amazon.co.jp/dp/B0G5YFVTPR"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-04-29T05:47:29.236265",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 161,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 2,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.4,
-          "review_count": 7,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 3,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3385,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1411,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 17 (カドカワBOOKS)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0GX2Z9CT4"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 324,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "イラストでたどる西洋ファッション年表　ビザンツ帝国時代から20世紀初頭のモダンファッションまで",
-          "rating": 4.5,
-          "review_count": 15,
-          "price": "￥2,277",
-          "url": "https://www.amazon.co.jp/dp/B0F1MCWF7H"
-        },
-        {
-          "rank": 8,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 46,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 9,
-          "title": "地球の歩き方 オルカン eMAXIS Slim 全世界株式(オール・カントリー)の歩き方",
-          "rating": 4.3,
-          "review_count": 87,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0FHVS67NS"
-        },
-        {
-          "rank": 10,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1923,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
         }
       ]
     }
