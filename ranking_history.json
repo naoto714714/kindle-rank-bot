@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-04T05:56:31.866158",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 168,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 2,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.3,
+          "review_count": 12,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 3,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3388,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1421,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "漫画アクションデジタル写真集　みゃこ「小娘には出せない色気」",
+          "rating": 5.0,
+          "review_count": 8,
+          "price": "￥1,090",
+          "url": "https://www.amazon.co.jp/dp/B0GY841DZV"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 325,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 47,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 8,
+          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
+          "rating": 3.0,
+          "review_count": 1,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
+        },
+        {
+          "rank": 9,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 1993,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        },
+        {
+          "rank": 10,
+          "title": "ヤマケイ文庫 山階鳥類研究所のおもしろくてためになる鳥の教科書",
+          "rating": 4.4,
+          "review_count": 59,
+          "price": "￥1,100",
+          "url": "https://www.amazon.co.jp/dp/B0CJ2HKQLR"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-03T05:51:16.433227",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1964,
           "price": "￥1,980",
           "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-01T06:08:49.221537",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ヤマケイ文庫 山階鳥類研究所のおもしろくてためになる鳥の教科書",
-          "rating": 4.4,
-          "review_count": 59,
-          "price": "￥1,078",
-          "url": "https://www.amazon.co.jp/dp/B0CJ2HKQLR"
-        },
-        {
-          "rank": 2,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 164,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 3,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.6,
-          "review_count": 9,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 4,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3387,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 5,
-          "title": "ヤマケイ文庫 魔女の植物園 魔女が大切にする37の植物",
-          "rating": 4.6,
-          "review_count": 8,
-          "price": "￥1,078",
-          "url": "https://www.amazon.co.jp/dp/B0F1C78GSF"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1412,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 7,
-          "title": "画像認識 (機械学習プロフェッショナルシリーズ)",
-          "rating": 4.0,
-          "review_count": 49,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B0756V3TPG"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 324,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 47,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 10,
-          "title": "ＯｐｅｎＣＶによる画像処理入門　改訂第３版 (ＫＳ情報科学専門書)",
-          "rating": 4.3,
-          "review_count": 17,
-          "price": "￥3,080",
-          "url": "https://www.amazon.co.jp/dp/B0BNHRT934"
         }
       ]
     }
