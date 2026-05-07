@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-07T05:54:16.890736",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 174,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1425,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 328,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 4,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.2,
+          "review_count": 19,
+          "price": "￥220",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 5,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3392,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 6,
+          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
+          "rating": 3.0,
+          "review_count": 2,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
+        },
+        {
+          "rank": 7,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 49,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 8,
+          "title": "【電子版限定特典付き】凶乱令嬢ニア・リストン11病弱令嬢に転生した神殺しの武人の華麗なる無双録 (HJ文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥752",
+          "url": "https://www.amazon.co.jp/dp/B0GYRY5789"
+        },
+        {
+          "rank": 9,
+          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
+          "rating": 3.8,
+          "review_count": 46,
+          "price": "￥700",
+          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
+        },
+        {
+          "rank": 10,
+          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
+          "rating": 4.5,
+          "review_count": 2061,
+          "price": "￥1,980",
+          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-05T05:35:23.374478",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 59,
           "price": "￥1,100",
           "url": "https://www.amazon.co.jp/dp/B0CJ2HKQLR"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-03T05:51:16.433227",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 167,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 2,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.4,
-          "review_count": 11,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 3,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3388,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 4,
-          "title": "漫画アクションデジタル写真集　みゃこ「小娘には出せない色気」",
-          "rating": 5.0,
-          "review_count": 6,
-          "price": "￥1,090",
-          "url": "https://www.amazon.co.jp/dp/B0GY841DZV"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1414,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 324,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 47,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 8,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 1979,
-          "price": "￥2,156",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        },
-        {
-          "rank": 9,
-          "title": "細木数子　魔女の履歴書　新装版 (講談社文庫)",
-          "rating": 4.0,
-          "review_count": 5,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B0F1TXV6R5"
-        },
-        {
-          "rank": 10,
-          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
         }
       ]
     }
