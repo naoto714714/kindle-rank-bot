@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-09T05:41:59.074467",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 217,
+          "price": "￥594",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 176,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 3,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 329,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1427,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.1,
+          "review_count": 23,
+          "price": "￥440",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 6,
+          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
+          "rating": 3.0,
+          "review_count": 2,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
+        },
+        {
+          "rank": 7,
+          "title": "世界のスープ図鑑：独自の組み合わせが楽しいご当地レシピ317",
+          "rating": 4.6,
+          "review_count": 116,
+          "price": "￥2,178",
+          "url": "https://www.amazon.co.jp/dp/B07ZH2DM7R"
+        },
+        {
+          "rank": 8,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 49,
+          "price": "￥297",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 9,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3395,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 10,
+          "title": "Fate/Grand Order material XVI (TYPE-MOON BOOKS)",
+          "rating": 5.0,
+          "review_count": 6,
+          "price": "￥594",
+          "url": "https://www.amazon.co.jp/dp/B0G3SWVS33"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-08T05:24:30.059695",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
           "rating": 4.5,
           "review_count": 2061,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-05T05:35:23.374478",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 172,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 2,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.2,
-          "review_count": 15,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 3,
-          "title": "ファイナルファンタジーＸＩＶ　光のお父さん",
-          "rating": 4.6,
-          "review_count": 349,
-          "price": "￥1,595",
-          "url": "https://www.amazon.co.jp/dp/B06XJ1K3H9"
-        },
-        {
-          "rank": 4,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3389,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1424,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 326,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 48,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 8,
-          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
-          "rating": 3.0,
-          "review_count": 1,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
-        },
-        {
-          "rank": 9,
-          "title": "ヤマケイ文庫 山階鳥類研究所のおもしろくてためになる鳥の教科書",
-          "rating": 4.4,
-          "review_count": 59,
-          "price": "￥1,100",
-          "url": "https://www.amazon.co.jp/dp/B0CJ2HKQLR"
-        },
-        {
-          "rank": 10,
-          "title": "イン・ザ・メガチャーチ (日本経済新聞出版)",
-          "rating": 4.5,
-          "review_count": 2010,
           "price": "￥1,980",
           "url": "https://www.amazon.co.jp/dp/B0FNW8F843"
         }
