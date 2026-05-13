@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-13T06:20:12.620490",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 221,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1433,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 3,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 182,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 4,
+          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
+          "rating": 3.8,
+          "review_count": 5,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 332,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 6,
+          "title": "【電子書籍限定】MONOQLO 最強の一生モノ the BEST",
+          "rating": 3.0,
+          "review_count": 3,
+          "price": "￥693",
+          "url": "https://www.amazon.co.jp/dp/B0GY7MD8H4"
+        },
+        {
+          "rank": 7,
+          "title": "lackがしっかり教える「ラフ」の秘訣　絵作りを加速する作画流儀",
+          "rating": 4.6,
+          "review_count": 175,
+          "price": "￥1,210",
+          "url": "https://www.amazon.co.jp/dp/B0F8MQ7KNF"
+        },
+        {
+          "rank": 8,
+          "title": "Fate/Grand Order material XVI (TYPE-MOON BOOKS)",
+          "rating": 5.0,
+          "review_count": 6,
+          "price": "￥594",
+          "url": "https://www.amazon.co.jp/dp/B0G3SWVS33"
+        },
+        {
+          "rank": 9,
+          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
+          "rating": 3.2,
+          "review_count": 25,
+          "price": "￥440",
+          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
+        },
+        {
+          "rank": 10,
+          "title": "Fate/Grand Order material XV (TYPE-MOON BOOKS)",
+          "rating": 5.0,
+          "review_count": 11,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0FM2KF4GT"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-12T06:07:32.406234",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 49,
           "price": "￥495",
           "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-10T05:57:19.268034",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "世界の郷土料理事典：全世界各国・300地域 料理の作り方を通して知る歴史、文化、宗教の食規定",
-          "rating": 4.4,
-          "review_count": 169,
-          "price": "￥2,277",
-          "url": "https://www.amazon.co.jp/dp/B08HQ8XRP7"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 218,
-          "price": "￥594",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 177,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 331,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 5,
-          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
-          "rating": 3.0,
-          "review_count": 2,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1431,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 7,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.2,
-          "review_count": 25,
-          "price": "￥440",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 8,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3394,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 9,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 49,
-          "price": "￥297",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 10,
-          "title": "Fate/Grand Order material XVI (TYPE-MOON BOOKS)",
-          "rating": 5.0,
-          "review_count": 6,
-          "price": "￥594",
-          "url": "https://www.amazon.co.jp/dp/B0G3SWVS33"
         }
       ]
     }
