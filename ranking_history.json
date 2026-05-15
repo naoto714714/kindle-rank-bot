@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-15T06:26:27.840745",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 221,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "最適輸送の理論とアルゴリズム (機械学習プロフェッショナルシリーズ)",
+          "rating": 4.0,
+          "review_count": 32,
+          "price": "￥3,300",
+          "url": "https://www.amazon.co.jp/dp/B0BZNN9T8T"
+        },
+        {
+          "rank": 3,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1436,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 183,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
+          "rating": 3.5,
+          "review_count": 6,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 333,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "新装版 ラブミー・ラブマイドッグ（特典付き） (from RED)",
+          "rating": 4.4,
+          "review_count": 20,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B0D86K49V2"
+        },
+        {
+          "rank": 8,
+          "title": "【電子書籍限定カバー･電子限定特典付】林鼓子1st写真集 coco (声グラe-books)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥3,850",
+          "url": "https://www.amazon.co.jp/dp/B0H1LVYHW7"
+        },
+        {
+          "rank": 9,
+          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
+          "rating": 3.8,
+          "review_count": 46,
+          "price": "￥1,260",
+          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
+        },
+        {
+          "rank": 10,
+          "title": "仕事も人生もうまくいく！ 勝間式 タイムパフォーマンスを上げる習慣",
+          "rating": 4.4,
+          "review_count": 210,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0BS9C3K6K"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-14T06:18:06.093019",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 11,
           "price": "￥495",
           "url": "https://www.amazon.co.jp/dp/B0FM2KF4GT"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-12T06:07:32.406234",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 219,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 2,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 178,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 331,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1432,
-          "price": "￥299",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
-          "rating": 4.0,
-          "review_count": 6,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
-        },
-        {
-          "rank": 6,
-          "title": "乱交の館～シェアハウスの性宴～ (FRONTIER MANIACS(フロンティア　マニアックス))",
-          "rating": 3.2,
-          "review_count": 25,
-          "price": "￥440",
-          "url": "https://www.amazon.co.jp/dp/B0D8SJ9W35"
-        },
-        {
-          "rank": 7,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3400,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 8,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.6,
-          "review_count": 50,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 9,
-          "title": "【電子書籍限定】MONOQLO 最強の一生モノ the BEST",
-          "rating": 3.0,
-          "review_count": 1,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0GY7MD8H4"
-        },
-        {
-          "rank": 10,
-          "title": "世界の郷土料理事典：全世界各国・300地域 料理の作り方を通して知る歴史、文化、宗教の食規定",
-          "rating": 4.4,
-          "review_count": 169,
-          "price": "￥2,277",
-          "url": "https://www.amazon.co.jp/dp/B08HQ8XRP7"
         }
       ]
     }
