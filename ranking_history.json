@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-20T06:42:31.760336",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 225,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "アニメーション制作技法 -『4701白鯨』を創る- 復刻版",
+          "rating": 3.9,
+          "review_count": 6,
+          "price": "￥2,640",
+          "url": "https://www.amazon.co.jp/dp/B0DC6GJHLV"
+        },
+        {
+          "rank": 3,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 198,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1455,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 336,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 6,
+          "title": "小日向ゆり yuri mode Newtopia 348P (ELD)",
+          "rating": 3.8,
+          "review_count": 10,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0D6LNJPZH"
+        },
+        {
+          "rank": 7,
+          "title": "100％ムックシリーズ 完全ガイドシリーズ　418 Gemini 超活用 完全ガイド (１００％ムックシリーズ)",
+          "rating": 4.3,
+          "review_count": 11,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0GXJ3FRMV"
+        },
+        {
+          "rank": 8,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3412,
+          "price": "￥900",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 9,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.5,
+          "review_count": 54,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 10,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 763,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-18T06:49:26.765976",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 4,
           "price": "￥550",
           "url": "https://www.amazon.co.jp/dp/B0D6LNJPZH"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-15T06:26:27.840745",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 221,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 2,
-          "title": "最適輸送の理論とアルゴリズム (機械学習プロフェッショナルシリーズ)",
-          "rating": 4.0,
-          "review_count": 32,
-          "price": "￥3,300",
-          "url": "https://www.amazon.co.jp/dp/B0BZNN9T8T"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1436,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 4,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 183,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 5,
-          "title": "え？こんなことまで？全国過激すぎるお店１１８★ストリートビュー空白地帯の謎を探る★ぼったくりメイドカフェに潜入す★女優になりました★会計時に女がトイレに行くのは★裏モノＪＡＰＡＮ (【電子書籍限定】)",
-          "rating": 3.5,
-          "review_count": 6,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0GX3GZP4X"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 333,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "新装版 ラブミー・ラブマイドッグ（特典付き） (from RED)",
-          "rating": 4.4,
-          "review_count": 20,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B0D86K49V2"
-        },
-        {
-          "rank": 8,
-          "title": "【電子書籍限定カバー･電子限定特典付】林鼓子1st写真集 coco (声グラe-books)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥3,850",
-          "url": "https://www.amazon.co.jp/dp/B0H1LVYHW7"
-        },
-        {
-          "rank": 9,
-          "title": "［改訂版］日本で一番わかりやすい誕生日占いの本",
-          "rating": 3.8,
-          "review_count": 46,
-          "price": "￥1,260",
-          "url": "https://www.amazon.co.jp/dp/B0BJCZ1K95"
-        },
-        {
-          "rank": 10,
-          "title": "仕事も人生もうまくいく！ 勝間式 タイムパフォーマンスを上げる習慣",
-          "rating": 4.4,
-          "review_count": 210,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0BS9C3K6K"
         }
       ]
     }
