@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-23T06:07:33.260874",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 229,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 213,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 3,
+          "title": "水属性の魔法使い　第三部　東方諸国編7【電子書籍限定書き下ろしSS付き】",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,399",
+          "url": "https://www.amazon.co.jp/dp/B0GZT17KGF"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 343,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1468,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 6,
+          "title": "眠れなくなるほど面白い 図解 語彙力の話",
+          "rating": 3.6,
+          "review_count": 58,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
+        },
+        {
+          "rank": 7,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 772,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 8,
+          "title": "眠れなくなるほど面白い　図解　古事記",
+          "rating": 3.9,
+          "review_count": 260,
+          "price": "￥33",
+          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
+        },
+        {
+          "rank": 9,
+          "title": "すべてやめれば、うまくいく 自分の時間を取り戻すための最高の習慣",
+          "rating": 4.1,
+          "review_count": 210,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F59WWW63"
+        },
+        {
+          "rank": 10,
+          "title": "100％ムックシリーズ 完全ガイドシリーズ　418 Gemini 超活用 完全ガイド (１００％ムックシリーズ)",
+          "rating": 4.2,
+          "review_count": 33,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0GXJ3FRMV"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-22T06:42:42.362135",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 9,
           "price": "￥927",
           "url": "https://www.amazon.co.jp/dp/B0GX2WJY25"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-20T06:42:31.760336",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 225,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 2,
-          "title": "アニメーション制作技法 -『4701白鯨』を創る- 復刻版",
-          "rating": 3.9,
-          "review_count": 6,
-          "price": "￥2,640",
-          "url": "https://www.amazon.co.jp/dp/B0DC6GJHLV"
-        },
-        {
-          "rank": 3,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 198,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 4,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1455,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 336,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 6,
-          "title": "小日向ゆり yuri mode Newtopia 348P (ELD)",
-          "rating": 3.8,
-          "review_count": 10,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0D6LNJPZH"
-        },
-        {
-          "rank": 7,
-          "title": "100％ムックシリーズ 完全ガイドシリーズ　418 Gemini 超活用 完全ガイド (１００％ムックシリーズ)",
-          "rating": 4.3,
-          "review_count": 11,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0GXJ3FRMV"
-        },
-        {
-          "rank": 8,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3412,
-          "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 9,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.5,
-          "review_count": 54,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 10,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 763,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
         }
       ]
     }
