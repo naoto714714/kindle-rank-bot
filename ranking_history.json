@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-05-28T06:46:41.302998",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 230,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "眠れなくなるほど面白い　図解　古事記",
+          "rating": 3.9,
+          "review_count": 260,
+          "price": "￥33",
+          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
+        },
+        {
+          "rank": 3,
+          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
+          "rating": 4.6,
+          "review_count": 5,
+          "price": "￥902",
+          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
+        },
+        {
+          "rank": 4,
+          "title": "AIとソフトウェアテスト　信頼できるシステムを構築するために",
+          "rating": 3.8,
+          "review_count": 4,
+          "price": "￥2,772",
+          "url": "https://www.amazon.co.jp/dp/B0G4BWMMMT"
+        },
+        {
+          "rank": 5,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 224,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 346,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 779,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1474,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 9,
+          "title": "道をひらく",
+          "rating": 4.3,
+          "review_count": 3428,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B00799V39C"
+        },
+        {
+          "rank": 10,
+          "title": "すべてやめれば、うまくいく 自分の時間を取り戻すための最高の習慣",
+          "rating": 4.1,
+          "review_count": 216,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F59WWW63"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-05-27T06:57:36.795045",
       "rankings": [
         {
@@ -166,91 +251,6 @@
           "rating": 4.3,
           "review_count": 3429,
           "price": "￥900",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-25T07:06:39.785196",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 229,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 2,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 219,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 3,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 345,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 4,
-          "title": "眠れなくなるほど面白い　図解　古事記",
-          "rating": 3.9,
-          "review_count": 260,
-          "price": "￥33",
-          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
-        },
-        {
-          "rank": 5,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 774,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1471,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 7,
-          "title": "眠れなくなるほど面白い 図解 語彙力の話",
-          "rating": 3.6,
-          "review_count": 58,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DFPX323S"
-        },
-        {
-          "rank": 8,
-          "title": "100％ムックシリーズ 完全ガイドシリーズ　418 Gemini 超活用 完全ガイド (１００％ムックシリーズ)",
-          "rating": 4.2,
-          "review_count": 37,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0GXJ3FRMV"
-        },
-        {
-          "rank": 9,
-          "title": "【電子書籍限定】MONOQLO 最強の一生モノ the BEST",
-          "rating": 3.7,
-          "review_count": 49,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0GY7MD8H4"
-        },
-        {
-          "rank": 10,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3425,
-          "price": "￥1,000",
           "url": "https://www.amazon.co.jp/dp/B00799V39C"
         }
       ]
