@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-04T07:18:45.760040",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "眠れなくなるほど面白い　図解　古事記",
+          "rating": 3.9,
+          "review_count": 262,
+          "price": "￥33",
+          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
+        },
+        {
+          "rank": 2,
+          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
+          "rating": 4.8,
+          "review_count": 274,
+          "price": "￥884",
+          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
+        },
+        {
+          "rank": 3,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 231,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 235,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 350,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 6,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 784,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 7,
+          "title": "服飾がわかる事典",
+          "rating": 4.4,
+          "review_count": 8,
+          "price": "￥33",
+          "url": "https://www.amazon.co.jp/dp/B00SFJ9EUU"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1483,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        },
+        {
+          "rank": 9,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.3,
+          "review_count": 370,
+          "price": "￥1,617",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 10,
+          "title": "図解　ヒトのココロがわかるフロイトの話",
+          "rating": 4.1,
+          "review_count": 125,
+          "price": "￥33",
+          "url": "https://www.amazon.co.jp/dp/B07CBZQNH7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-03T08:09:25.684417",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 782,
           "price": "￥1,940",
           "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-05-31T06:53:26.380261",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
-          "rating": 4.6,
-          "review_count": 39,
-          "price": "￥884",
-          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 230,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "眠れなくなるほど面白い　図解　古事記",
-          "rating": 3.9,
-          "review_count": 260,
-          "price": "￥33",
-          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
-        },
-        {
-          "rank": 4,
-          "title": "やさしいデータベース設計　要件定義から運用までの勘どころ",
-          "rating": 4.9,
-          "review_count": 10,
-          "price": "￥2,475",
-          "url": "https://www.amazon.co.jp/dp/B0GKC83XFW"
-        },
-        {
-          "rank": 5,
-          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２２ (GA文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥968",
-          "url": "https://www.amazon.co.jp/dp/B0H33X1ZJY"
-        },
-        {
-          "rank": 6,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 232,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 7,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 349,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 8,
-          "title": "電人ファウスト",
-          "rating": 4.9,
-          "review_count": 12,
-          "price": "￥880",
-          "url": "https://www.amazon.co.jp/dp/B0GP69RV93"
-        },
-        {
-          "rank": 9,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 781,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 10,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1479,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
         }
       ]
     }
