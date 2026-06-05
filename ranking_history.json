@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-05T07:01:03.162924",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "眠れなくなるほど面白い　図解　古事記",
+          "rating": 3.9,
+          "review_count": 263,
+          "price": "￥371",
+          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 232,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
+          "rating": 4.8,
+          "review_count": 305,
+          "price": "￥884",
+          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 235,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "服飾がわかる事典",
+          "rating": 4.4,
+          "review_count": 8,
+          "price": "￥2,640",
+          "url": "https://www.amazon.co.jp/dp/B00SFJ9EUU"
+        },
+        {
+          "rank": 6,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.3,
+          "review_count": 376,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 7,
+          "title": "図解　人体のヒミツ",
+          "rating": 3.9,
+          "review_count": 191,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B07DVXXF8R"
+        },
+        {
+          "rank": 8,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 785,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 351,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 10,
+          "title": "図解　ヒトのココロがわかるフロイトの話",
+          "rating": 4.1,
+          "review_count": 127,
+          "price": "￥673",
+          "url": "https://www.amazon.co.jp/dp/B07CBZQNH7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-04T07:18:45.760040",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "月とコーヒー",
           "rating": 4.2,
           "review_count": 784,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-01T08:27:32.159565",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
-          "rating": 4.8,
-          "review_count": 113,
-          "price": "￥884",
-          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 230,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "眠れなくなるほど面白い　図解　古事記",
-          "rating": 3.9,
-          "review_count": 262,
-          "price": "￥33",
-          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
-        },
-        {
-          "rank": 4,
-          "title": "新装版　殺戮にいたる病 (講談社文庫)",
-          "rating": 4.2,
-          "review_count": 4614,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B076Z8GN9X"
-        },
-        {
-          "rank": 5,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 235,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 6,
-          "title": "ミックの楽しいSQLパズル　解いて身につくSQLの考え方＆書き方",
-          "rating": 4.7,
-          "review_count": 31,
-          "price": "￥2,475",
-          "url": "https://www.amazon.co.jp/dp/B0GQDSGHQ2"
-        },
-        {
-          "rank": 7,
-          "title": "はじめての統計検定2級 テキスト＆問題集",
-          "rating": 4.8,
-          "review_count": 35,
-          "price": "￥2,851",
-          "url": "https://www.amazon.co.jp/dp/B0GPCLHPHC"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 350,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1480,
-          "price": "￥891",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        },
-        {
-          "rank": 10,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 782,
           "price": "￥1,940",
           "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
         }
