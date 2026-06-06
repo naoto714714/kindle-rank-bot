@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-06T06:22:27.126966",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 232,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 2,
+          "title": "眠れなくなるほど面白い　図解　古事記",
+          "rating": 3.9,
+          "review_count": 266,
+          "price": "￥371",
+          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
+        },
+        {
+          "rank": 3,
+          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
+          "rating": 4.8,
+          "review_count": 328,
+          "price": "￥884",
+          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
+        },
+        {
+          "rank": 4,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.3,
+          "review_count": 382,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 5,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 236,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 352,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 787,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 8,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2433,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 9,
+          "title": "夜明けの唄【単行本版】7（特典付き） (from RED)",
+          "rating": 4.8,
+          "review_count": 21,
+          "price": "￥891",
+          "url": "https://www.amazon.co.jp/dp/B0H1BTDYR2"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に痩せていく体になるすごい方法",
+          "rating": 3.9,
+          "review_count": 1485,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-05T07:01:03.162924",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 125,
           "price": "￥33",
           "url": "https://www.amazon.co.jp/dp/B07CBZQNH7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-03T08:09:25.684417",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
-          "rating": 4.8,
-          "review_count": 234,
-          "price": "￥884",
-          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
-        },
-        {
-          "rank": 2,
-          "title": "眠れなくなるほど面白い　図解　古事記",
-          "rating": 3.9,
-          "review_count": 262,
-          "price": "￥33",
-          "url": "https://www.amazon.co.jp/dp/B07FH87M17"
-        },
-        {
-          "rank": 3,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 231,
-          "price": "￥1,882",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 4,
-          "title": "イメージどおりにスラスラ描ける！ デッサン技法大全　ロジカルデッサンのやさしい教科書",
-          "rating": 4.5,
-          "review_count": 31,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0GQGCK88P"
-        },
-        {
-          "rank": 5,
-          "title": "「ファインマン物理学」を読む　普及版　全３冊合本版 (ブルーバックス)",
-          "rating": 4.5,
-          "review_count": 56,
-          "price": "￥3,575",
-          "url": "https://www.amazon.co.jp/dp/B087BYXNLX"
-        },
-        {
-          "rank": 6,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 235,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 7,
-          "title": "【電子版限定特典付き】凶乱令嬢ニア・リストン11病弱令嬢に転生した神殺しの武人の華麗なる無双録 (HJ文庫)",
-          "rating": 4.8,
-          "review_count": 113,
-          "price": "￥752",
-          "url": "https://www.amazon.co.jp/dp/B0GYRY5789"
-        },
-        {
-          "rank": 8,
-          "title": "新装版　殺戮にいたる病 (講談社文庫)",
-          "rating": 4.2,
-          "review_count": 4625,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B076Z8GN9X"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 350,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 784,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
         }
       ]
     }
