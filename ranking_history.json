@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-13T06:52:43.690116",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 428,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 234,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "サイレント・ウィッチ XII　沈黙の魔女の隠しごと (カドカワBOOKS)",
+          "rating": 4.6,
+          "review_count": 34,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0H31QTMBH"
+        },
+        {
+          "rank": 4,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.8,
+          "review_count": 356,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        },
+        {
+          "rank": 5,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 247,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 6,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 793,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 7,
+          "title": "成瀬かのん kanon mode Petite (ELD)",
+          "rating": 3.8,
+          "review_count": 22,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 357,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "振り向いてつかまえて【単行本版】（特典付き） (from RED)",
+          "rating": 4.8,
+          "review_count": 600,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
+        },
+        {
+          "rank": 10,
+          "title": "Strawberry Girls いくみ写真集　Vol.1",
+          "rating": 3.7,
+          "review_count": 11,
+          "price": "￥1,815",
+          "url": "https://www.amazon.co.jp/dp/B0GXVW15Z7"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-12T07:16:07.776331",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 21,
           "price": "￥550",
           "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-08T07:24:57.495291",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 232,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 2,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.3,
-          "review_count": 392,
-          "price": "￥1,617",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 3,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 238,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 4,
-          "title": "ようこそ実力至上主義の教室へ　３年生編４ (MF文庫J)",
-          "rating": 4.8,
-          "review_count": 370,
-          "price": "￥884",
-          "url": "https://www.amazon.co.jp/dp/B0GX2Z8L11"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 352,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 6,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 790,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 7,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2434,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 8,
-          "title": "振り向いてつかまえて【単行本版】（特典付き） (from RED)",
-          "rating": 4.8,
-          "review_count": 523,
-          "price": "￥608",
-          "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
-        },
-        {
-          "rank": 9,
-          "title": "道をひらく",
-          "rating": 4.3,
-          "review_count": 3441,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B00799V39C"
-        },
-        {
-          "rank": 10,
-          "title": "１週間で勝手に痩せていく体になるすごい方法",
-          "rating": 3.9,
-          "review_count": 1488,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
         }
       ]
     }
