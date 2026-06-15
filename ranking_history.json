@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-15T08:52:44.544286",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 446,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 234,
+          "price": "￥1,921",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.8,
+          "review_count": 403,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 249,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "成瀬かのん kanon mode Petite (ELD)",
+          "rating": 3.7,
+          "review_count": 28,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 358,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 793,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 8,
+          "title": "振り向いてつかまえて【単行本版】（特典付き） (from RED)",
+          "rating": 4.8,
+          "review_count": 632,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
+        },
+        {
+          "rank": 9,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2447,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 10,
+          "title": "番求婚されたことのないアラサーギルド職員ですが、一人で生きていこうと思っていたのに、今更ドラゴン公子様にお迎えに来られても困惑しています！？ (フルーツ文庫)",
+          "rating": 4.6,
+          "review_count": 234,
+          "price": "￥500",
+          "url": "https://www.amazon.co.jp/dp/B0FH6NQBTR"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-13T06:52:43.690116",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 2443,
           "price": "￥1,833",
           "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-10T07:01:57.653968",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.3,
-          "review_count": 404,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 232,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "ダンジョンに出会いを求めるのは間違っているだろうか２２　小冊子付き特装版 (GA文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,364",
-          "url": "https://www.amazon.co.jp/dp/B0H33HMTTY"
-        },
-        {
-          "rank": 4,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 241,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 5,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 352,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 6,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2439,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 7,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 792,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 8,
-          "title": "お隣の天使様にいつの間にか駄目人間にされていた件１３ (GA文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥858",
-          "url": "https://www.amazon.co.jp/dp/B0H3YN9RPY"
-        },
-        {
-          "rank": 9,
-          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
-          "rating": 4.8,
-          "review_count": 304,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
-        },
-        {
-          "rank": 10,
-          "title": "成瀬かのん kanon mode Petite (ELD)",
-          "rating": 3.8,
-          "review_count": 21,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
         }
       ]
     }
