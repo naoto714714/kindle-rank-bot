@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-16T08:40:08.103394",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.3,
+          "review_count": 453,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 235,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "ドイツ菓子図鑑 お菓子の由来と作り方：伝統からモダンまで、知っておきたいドイツ菓子102選",
+          "rating": 4.4,
+          "review_count": 41,
+          "price": "￥1,375",
+          "url": "https://www.amazon.co.jp/dp/B07HJ1SYVN"
+        },
+        {
+          "rank": 4,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.8,
+          "review_count": 424,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        },
+        {
+          "rank": 5,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 251,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 6,
+          "title": "お気楽領主の楽しい領地防衛 10　～生産系魔術で名もなき村を最強の城塞都市に～ (オーバーラップノベルス)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0H3N71YGB"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 363,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 8,
+          "title": "成瀬かのん kanon mode Petite (ELD)",
+          "rating": 3.7,
+          "review_count": 28,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
+        },
+        {
+          "rank": 9,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 795,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 10,
+          "title": "振り向いてつかまえて【単行本版】（特典付き） (from RED)",
+          "rating": 4.8,
+          "review_count": 654,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-15T08:52:44.544286",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 11,
           "price": "￥1,815",
           "url": "https://www.amazon.co.jp/dp/B0GXVW15Z7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-12T07:16:07.776331",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 422,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "サイレント・ウィッチ XII　沈黙の魔女の隠しごと (カドカワBOOKS)",
-          "rating": 4.7,
-          "review_count": 21,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0H31QTMBH"
-        },
-        {
-          "rank": 3,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 233,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 4,
-          "title": "○○○○○○○○殺人事件 (講談社文庫)",
-          "rating": 3.6,
-          "review_count": 328,
-          "price": "￥858",
-          "url": "https://www.amazon.co.jp/dp/B071HB4TYQ"
-        },
-        {
-          "rank": 5,
-          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
-          "rating": 4.8,
-          "review_count": 337,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
-        },
-        {
-          "rank": 6,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 243,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 7,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 355,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 8,
-          "title": "成瀬かのん kanon mode Petite (ELD)",
-          "rating": 3.8,
-          "review_count": 22,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
-        },
-        {
-          "rank": 9,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 793,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 10,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2443,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
         }
       ]
     }
