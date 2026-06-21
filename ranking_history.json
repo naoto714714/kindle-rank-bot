@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-21T07:27:30.817182",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 495,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 235,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.7,
+          "review_count": 504,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        },
+        {
+          "rank": 4,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 259,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 5,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 369,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 6,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 576,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 7,
+          "title": "プロジェクト・ヘイル・メアリー　上 (ハヤカワ文庫SF)",
+          "rating": 4.8,
+          "review_count": 11364,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0GGHDTGVK"
+        },
+        {
+          "rank": 8,
+          "title": "お気楽領主の楽しい領地防衛 10　～生産系魔術で名もなき村を最強の城塞都市に～ (オーバーラップノベルス)",
+          "rating": 4.4,
+          "review_count": 10,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0H3N71YGB"
+        },
+        {
+          "rank": 9,
+          "title": "プロジェクト・ヘイル・メアリー　下 (ハヤカワ文庫SF)",
+          "rating": 4.8,
+          "review_count": 13020,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0GGHFBGMH"
+        },
+        {
+          "rank": 10,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 801,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-20T06:55:53.434072",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 654,
           "price": "￥782",
           "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-15T08:52:44.544286",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 446,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 234,
-          "price": "￥1,921",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
-          "rating": 4.8,
-          "review_count": 403,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
-        },
-        {
-          "rank": 4,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 249,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 5,
-          "title": "成瀬かのん kanon mode Petite (ELD)",
-          "rating": 3.7,
-          "review_count": 28,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0H1Q9HSJQ"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 358,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 793,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 8,
-          "title": "振り向いてつかまえて【単行本版】（特典付き） (from RED)",
-          "rating": 4.8,
-          "review_count": 632,
-          "price": "￥782",
-          "url": "https://www.amazon.co.jp/dp/B0DBKSCM6B"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2447,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "番求婚されたことのないアラサーギルド職員ですが、一人で生きていこうと思っていたのに、今更ドラゴン公子様にお迎えに来られても困惑しています！？ (フルーツ文庫)",
-          "rating": 4.6,
-          "review_count": 234,
-          "price": "￥500",
-          "url": "https://www.amazon.co.jp/dp/B0FH6NQBTR"
         }
       ]
     }
