@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-06-27T06:24:35.283445",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 550,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 235,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 3,
+          "title": "【電子特典付 特別版】『機動警察パトレイバー』 寿司屋の後藤 (文春e-book)",
+          "rating": 4.6,
+          "review_count": 34,
+          "price": "￥1,900",
+          "url": "https://www.amazon.co.jp/dp/B0H3ZJQRD5"
+        },
+        {
+          "rank": 4,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 373,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 5,
+          "title": "人は話し方が９割２",
+          "rating": 4.3,
+          "review_count": 264,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
+        },
+        {
+          "rank": 6,
+          "title": "Dジェネシス　ダンジョンが出来て３年　１１",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,870",
+          "url": "https://www.amazon.co.jp/dp/B0GYQ2T4LZ"
+        },
+        {
+          "rank": 7,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 608,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 8,
+          "title": "月とコーヒー",
+          "rating": 4.2,
+          "review_count": 806,
+          "price": "￥1,940",
+          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
+        },
+        {
+          "rank": 9,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2476,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 10,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.7,
+          "review_count": 591,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-06-26T06:47:06.109422",
       "rankings": [
         {
@@ -157,91 +242,6 @@
           "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
           "rating": 4.4,
           "review_count": 2474,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "異世界のんびり農家 21",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,815",
-          "url": "https://www.amazon.co.jp/dp/B0GX2SQFYG"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-24T06:38:56.955721",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 523,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 234,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 3,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 260,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 4,
-          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
-          "rating": 4.7,
-          "review_count": 560,
-          "price": "￥1,287",
-          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
-        },
-        {
-          "rank": 5,
-          "title": "愛が重い騎士公爵は、追放令嬢のすべてを奪い尽くしたい。(45) (乙女チック)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0H2D4LZT1"
-        },
-        {
-          "rank": 6,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 591,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
-        },
-        {
-          "rank": 7,
-          "title": "月とコーヒー",
-          "rating": 4.2,
-          "review_count": 805,
-          "price": "￥1,940",
-          "url": "https://www.amazon.co.jp/dp/B0D9LFQND9"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 373,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2473,
           "price": "￥1,833",
           "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
         },
