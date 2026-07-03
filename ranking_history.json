@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-03T06:24:02.040394",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "へちま画集 travidebla",
+          "rating": 4.8,
+          "review_count": 44,
+          "price": "￥3,465",
+          "url": "https://www.amazon.co.jp/dp/B0G8YGVGNM"
+        },
+        {
+          "rank": 2,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 598,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 3,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
+          "rating": 4.0,
+          "review_count": 140,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 4,
+          "title": "クリエイターのための物語創作ノート",
+          "rating": 4.3,
+          "review_count": 157,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B09ZP6QGJ2"
+        },
+        {
+          "rank": 5,
+          "title": "嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～ 14 (GCノベルズ)",
+          "rating": 4.9,
+          "review_count": 94,
+          "price": "￥1,188",
+          "url": "https://www.amazon.co.jp/dp/B0H6L6P4F5"
+        },
+        {
+          "rank": 6,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 236,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 7,
+          "title": "機動戦士ガンダム 逆襲のシャア　ベルトーチカ・チルドレン (角川スニーカー文庫)",
+          "rating": 4.5,
+          "review_count": 654,
+          "price": "￥110",
+          "url": "https://www.amazon.co.jp/dp/B00GZMBTAM"
+        },
+        {
+          "rank": 8,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 639,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 381,
+          "price": "￥491",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 10,
+          "title": "Dジェネシス　ダンジョンが出来て３年　１１",
+          "rating": 4.7,
+          "review_count": 90,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0GYQ2T4LZ"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-02T06:33:20.846591",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 2495,
           "price": "￥1,833",
           "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-06-30T06:51:09.055632",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 574,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～ 14 (GCノベルズ)",
-          "rating": 4.0,
-          "review_count": 1,
-          "price": "￥1,320",
-          "url": "https://www.amazon.co.jp/dp/B0H6L6P4F5"
-        },
-        {
-          "rank": 3,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 235,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 4,
-          "title": "ＮＨＫラジオ ラジオ英会話 2026年 7月号 ［雑誌］ (ＮＨＫテキスト)",
-          "rating": 5.0,
-          "review_count": 2,
-          "price": "￥670",
-          "url": "https://www.amazon.co.jp/dp/B0GQZ4WDN8"
-        },
-        {
-          "rank": 5,
-          "title": "人は話し方が９割２",
-          "rating": 4.3,
-          "review_count": 276,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DBG1TJHT"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 378,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "機動戦士ガンダム 逆襲のシャア　ベルトーチカ・チルドレン (角川スニーカー文庫)",
-          "rating": 4.6,
-          "review_count": 654,
-          "price": "￥110",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTAM"
-        },
-        {
-          "rank": 8,
-          "title": "Dジェネシス　ダンジョンが出来て３年　１１",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,870",
-          "url": "https://www.amazon.co.jp/dp/B0GYQ2T4LZ"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2494,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 638,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
         }
       ]
     }
