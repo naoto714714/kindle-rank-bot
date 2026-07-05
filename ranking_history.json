@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-05T06:33:08.717835",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "夏帆―The Tale of KAHO―",
+          "rating": 4.1,
+          "review_count": 30,
+          "price": "￥2,574",
+          "url": "https://www.amazon.co.jp/dp/B0GXYSWD7J"
+        },
+        {
+          "rank": 2,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 607,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 3,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
+          "rating": 4.1,
+          "review_count": 215,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 4,
+          "title": "へちま画集 travidebla",
+          "rating": 4.6,
+          "review_count": 36,
+          "price": "￥3,773",
+          "url": "https://www.amazon.co.jp/dp/B0G8YGVGNM"
+        },
+        {
+          "rank": 5,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 639,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 6,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 236,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 7,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2514,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 384,
+          "price": "￥491",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "口に関するアンケート",
+          "rating": 4.2,
+          "review_count": 1352,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0DFW6CF9L"
+        },
+        {
+          "rank": 10,
+          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
+          "rating": 4.7,
+          "review_count": 657,
+          "price": "￥1,287",
+          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-04T06:12:48.127712",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 90,
           "price": "￥1,833",
           "url": "https://www.amazon.co.jp/dp/B0GYQ2T4LZ"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-02T06:33:20.846591",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "へちま画集 travidebla",
-          "rating": 4.9,
-          "review_count": 22,
-          "price": "￥3,465",
-          "url": "https://www.amazon.co.jp/dp/B0G8YGVGNM"
-        },
-        {
-          "rank": 2,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 592,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 3,
-          "title": "嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～ 14 (GCノベルズ)",
-          "rating": 4.9,
-          "review_count": 66,
-          "price": "￥1,320",
-          "url": "https://www.amazon.co.jp/dp/B0H6L6P4F5"
-        },
-        {
-          "rank": 4,
-          "title": "機動戦士ガンダム 逆襲のシャア　ベルトーチカ・チルドレン (角川スニーカー文庫)",
-          "rating": 4.5,
-          "review_count": 654,
-          "price": "￥110",
-          "url": "https://www.amazon.co.jp/dp/B00GZMBTAM"
-        },
-        {
-          "rank": 5,
-          "title": "Dジェネシス　ダンジョンが出来て３年　１１",
-          "rating": 4.7,
-          "review_count": 49,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0GYQ2T4LZ"
-        },
-        {
-          "rank": 6,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
-          "rating": 4.0,
-          "review_count": 116,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 7,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 236,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 8,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 638,
-          "price": "￥360",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 382,
-          "price": "￥299",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "魔物（マンドラゴラ）ってバレたら討伐ですか？１　～花の魔女はひっそり平穏に暮らしたい～【電子書店共通特典SS付】 (アース・スター ノベル)",
-          "rating": 4.7,
-          "review_count": 639,
-          "price": "￥1,401",
-          "url": "https://www.amazon.co.jp/dp/B0GM8W71ND"
         }
       ]
     }
