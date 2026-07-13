@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-13T06:06:42.305012",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 669,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
+          "rating": 4.1,
+          "review_count": 459,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 3,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 653,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 4,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 722,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 5,
+          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
+        },
+        {
+          "rank": 6,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 731,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 7,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2537,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 8,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 238,
+          "price": "￥499",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 9,
+          "title": "努力の地図",
+          "rating": 4.5,
+          "review_count": 136,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 396,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-12T05:48:50.434460",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 262,
           "price": "￥1,336",
           "url": "https://www.amazon.co.jp/dp/B0GY7QR7Q7"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-09T06:36:01.252732",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 646,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
-          "rating": 4.1,
-          "review_count": 354,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 3,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 645,
-          "price": "￥360",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 4,
-          "title": "魔法少女リリカルなのは The MOVIE メモリアルビジュアルコレクション",
-          "rating": 4.7,
-          "review_count": 32,
-          "price": "￥3,960",
-          "url": "https://www.amazon.co.jp/dp/B0FGJ8Q9QQ"
-        },
-        {
-          "rank": 5,
-          "title": "夏帆―The Tale of KAHO―",
-          "rating": 4.3,
-          "review_count": 151,
-          "price": "￥2,574",
-          "url": "https://www.amazon.co.jp/dp/B0GXYSWD7J"
-        },
-        {
-          "rank": 6,
-          "title": "ひとりぶんのレンチンスパイスカレー",
-          "rating": 4.5,
-          "review_count": 418,
-          "price": "￥1,401",
-          "url": "https://www.amazon.co.jp/dp/B096TMLBK2"
-        },
-        {
-          "rank": 7,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 237,
-          "price": "￥1,782",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 8,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2525,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 391,
-          "price": "￥491",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 711,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
         }
       ]
     }
