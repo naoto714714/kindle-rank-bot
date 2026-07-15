@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-15T05:23:27.396365",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 686,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 2,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
+          "rating": 4.1,
+          "review_count": 494,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 3,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 655,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 4,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 724,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 5,
+          "title": "努力の地図",
+          "rating": 4.5,
+          "review_count": 138,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 6,
+          "title": "天官賜福 6 (ダリア文庫e)",
+          "rating": 5.0,
+          "review_count": 2,
+          "price": "￥2,530",
+          "url": "https://www.amazon.co.jp/dp/B0H8BVK8GR"
+        },
+        {
+          "rank": 7,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 749,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 8,
+          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
+          "rating": 4.1,
+          "review_count": 239,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 396,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 10,
+          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-14T05:22:15.683448",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 396,
           "price": "￥941",
           "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-12T05:48:50.434460",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 665,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました",
-          "rating": 4.1,
-          "review_count": 431,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 3,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 650,
-          "price": "￥360",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 4,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 720,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 5,
-          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥836",
-          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
-        },
-        {
-          "rank": 6,
-          "title": "プロの小説家が教える クリエイターのための語彙力図鑑",
-          "rating": 4.1,
-          "review_count": 238,
-          "price": "￥499",
-          "url": "https://www.amazon.co.jp/dp/B0BZYG2QNB"
-        },
-        {
-          "rank": 7,
-          "title": "夏帆―The Tale of KAHO―",
-          "rating": 4.3,
-          "review_count": 238,
-          "price": "￥2,574",
-          "url": "https://www.amazon.co.jp/dp/B0GXYSWD7J"
-        },
-        {
-          "rank": 8,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 726,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2534,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "努力の地図",
-          "rating": 4.5,
-          "review_count": 136,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
         }
       ]
     }
