@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-21T05:42:03.076853",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
+          "rating": 4.8,
+          "review_count": 297,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
+        },
+        {
+          "rank": 2,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
+          "rating": 4.0,
+          "review_count": 647,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 3,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 740,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 4,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 660,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 5,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 736,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 6,
+          "title": "努力の地図",
+          "rating": 4.5,
+          "review_count": 145,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 7,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 789,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 8,
+          "title": "俺は星間国家の悪徳領主！12 (オーバーラップ文庫)",
+          "rating": 4.4,
+          "review_count": 6,
+          "price": "￥832",
+          "url": "https://www.amazon.co.jp/dp/B0H7R4GY1Y"
+        },
+        {
+          "rank": 9,
+          "title": "隠居した毒舌公爵未亡人ですが、可愛い孫娘を捨てた王太子を、暇つぶしに社交界から葬って差し上げますわ",
+          "rating": 3.8,
+          "review_count": 197,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H49QJW9D"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 400,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-19T05:43:06.796806",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "隠居した毒舌公爵未亡人ですが、可愛い孫娘を捨てた王太子を、暇つぶしに社交界から葬って差し上げますわ",
           "rating": 3.8,
           "review_count": 164,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H49QJW9D"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-17T05:33:33.099717",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
-          "rating": 2.0,
-          "review_count": 3,
-          "price": "￥836",
-          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
-        },
-        {
-          "rank": 2,
-          "title": "人物を手早く描く基本 男性編",
-          "rating": 4.6,
-          "review_count": 129,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B07XMBYYC2"
-        },
-        {
-          "rank": 3,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 706,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 4,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
-          "rating": 4.1,
-          "review_count": 548,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 5,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 657,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 6,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 726,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 7,
-          "title": "転生したらスライムだった件 16 戦いの終わりと始まり(上) 転生したらスライムだった件(かなで文庫)",
-          "rating": 1.4,
-          "review_count": 13,
-          "price": "￥902",
-          "url": "https://www.amazon.co.jp/dp/B0H86S3NYB"
-        },
-        {
-          "rank": 8,
-          "title": "淡海乃海　水面が揺れる時～三英傑に嫌われた不運な男、朽木基綱の逆襲～二十【電子書籍限定書き下ろしSS付き】 (TOブックスラノベ)",
-          "rating": 4.8,
-          "review_count": 105,
-          "price": "￥1,259",
-          "url": "https://www.amazon.co.jp/dp/B0GZSTQ84V"
-        },
-        {
-          "rank": 9,
-          "title": "努力の地図",
-          "rating": 4.5,
-          "review_count": 141,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 10,
-          "title": "隠居した毒舌公爵未亡人ですが、可愛い孫娘を捨てた王太子を、暇つぶしに社交界から葬って差し上げますわ",
-          "rating": 3.8,
-          "review_count": 151,
           "price": "￥250",
           "url": "https://www.amazon.co.jp/dp/B0H49QJW9D"
         }
