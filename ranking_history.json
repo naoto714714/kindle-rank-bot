@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-07-27T06:20:04.782295",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 668,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 782,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 3,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 753,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 4,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 161,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 5,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 826,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 6,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
+          "rating": 4.1,
+          "review_count": 742,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 7,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2590,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 407,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "天羽希純「ダイタン・ミッドナイト」 DOLCEデジタル写真集",
+          "rating": 3.9,
+          "review_count": 136,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0G47Q6H64"
+        },
+        {
+          "rank": 10,
+          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
+          "rating": 4.8,
+          "review_count": 573,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-26T05:52:12.832755",
       "rankings": [
         {
@@ -165,91 +250,6 @@
           "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
           "rating": 4.1,
           "review_count": 402,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-22T05:40:49.682919",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 743,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 2,
-          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
-          "rating": 4.8,
-          "review_count": 301,
-          "price": "￥836",
-          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
-        },
-        {
-          "rank": 3,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 660,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 4,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
-          "rating": 4.0,
-          "review_count": 644,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 5,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 736,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 6,
-          "title": "努力の地図",
-          "rating": 4.5,
-          "review_count": 145,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 7,
-          "title": "世界の郷土料理事典：全世界各国・300地域 料理の作り方を通して知る歴史、文化、宗教の食規定",
-          "rating": 4.4,
-          "review_count": 183,
-          "price": "￥498",
-          "url": "https://www.amazon.co.jp/dp/B08HQ8XRP7"
-        },
-        {
-          "rank": 8,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 789,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2566,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 400,
           "price": "￥941",
           "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
         }
