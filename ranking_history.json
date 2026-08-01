@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-01T05:47:29.491852",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 678,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 761,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 818,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 4,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 168,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 5,
+          "title": "Fate/Grand Order material I (TYPE-MOON BOOKS)",
+          "rating": 4.7,
+          "review_count": 119,
+          "price": "￥110",
+          "url": "https://www.amazon.co.jp/dp/B09X9K158C"
+        },
+        {
+          "rank": 6,
+          "title": "そして誰もゆとらなくなった (文春文庫)",
+          "rating": 4.5,
+          "review_count": 852,
+          "price": "￥800",
+          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
+        },
+        {
+          "rank": 7,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
+          "rating": 4.1,
+          "review_count": 785,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 408,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "容疑者Xの献身 (文春文庫)",
+          "rating": 4.6,
+          "review_count": 3716,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B086WV9GBT"
+        },
+        {
+          "rank": 10,
+          "title": "白夜行 (集英社文庫)",
+          "rating": 4.5,
+          "review_count": 3544,
+          "price": "￥1,430",
+          "url": "https://www.amazon.co.jp/dp/B0872MMWWF"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-07-30T05:32:05.790197",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 3688,
           "price": "￥770",
           "url": "https://www.amazon.co.jp/dp/B086WV9GBT"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-27T06:20:04.782295",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 668,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 782,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 3,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 753,
-          "price": "￥715",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 4,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 161,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 5,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 826,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
-        },
-        {
-          "rank": 6,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
-          "rating": 4.1,
-          "review_count": 742,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 7,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2590,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 407,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "天羽希純「ダイタン・ミッドナイト」 DOLCEデジタル写真集",
-          "rating": 3.9,
-          "review_count": 136,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0G47Q6H64"
-        },
-        {
-          "rank": 10,
-          "title": "負けヒロインが多すぎる！ ９ (ガガガ文庫)",
-          "rating": 4.8,
-          "review_count": 573,
-          "price": "￥836",
-          "url": "https://www.amazon.co.jp/dp/B0H1G6YJYB"
         }
       ]
     }
