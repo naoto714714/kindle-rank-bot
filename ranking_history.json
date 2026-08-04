@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-04T05:40:30.036346",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 685,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 768,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 176,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 4,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 841,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 5,
+          "title": "三千円の使いかた (中公文庫)",
+          "rating": 4.1,
+          "review_count": 3865,
+          "price": "￥862",
+          "url": "https://www.amazon.co.jp/dp/B09CGXHFCJ"
+        },
+        {
+          "rank": 6,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 413,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 7,
+          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
+          "rating": 4.1,
+          "review_count": 823,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
+        },
+        {
+          "rank": 8,
+          "title": "描きたくなる女子服図鑑シリーズ　フリル＆リボンのガーリーなお洋服図鑑【電子特典付き】",
+          "rating": 5.0,
+          "review_count": 42,
+          "price": "￥2,857",
+          "url": "https://www.amazon.co.jp/dp/B0FZQHJXSD"
+        },
+        {
+          "rank": 9,
+          "title": "愚かな王家のことも忘れて幸せになりますが、何がいけませんの？～婚約破棄された隠れ才女の完璧な人生計画～【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.0,
+          "review_count": 55,
+          "price": "￥1,455",
+          "url": "https://www.amazon.co.jp/dp/B0H2Y2MXR2"
+        },
+        {
+          "rank": 10,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2614,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-01T05:47:29.491852",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 13,
           "price": "￥3,630",
           "url": "https://www.amazon.co.jp/dp/B0HB3PKNPN"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-07-28T05:39:33.797553",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 671,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 790,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 3,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 754,
-          "price": "￥715",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 4,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 162,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 5,
-          "title": "そして誰もゆとらなくなった (文春文庫)",
-          "rating": 4.5,
-          "review_count": 831,
-          "price": "￥800",
-          "url": "https://www.amazon.co.jp/dp/B0FCV997XS"
-        },
-        {
-          "rank": 6,
-          "title": "ＮＨＫラジオ ラジオ英会話 2026年 8月号 ［雑誌］ (ＮＨＫテキスト)",
-          "rating": 3.7,
-          "review_count": 5,
-          "price": "￥603",
-          "url": "https://www.amazon.co.jp/dp/B0GQYTXGRZ"
-        },
-        {
-          "rank": 7,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
-          "rating": 4.1,
-          "review_count": 750,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 8,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2593,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 407,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "容疑者Xの献身 (文春文庫)",
-          "rating": 4.6,
-          "review_count": 3688,
-          "price": "￥770",
-          "url": "https://www.amazon.co.jp/dp/B086WV9GBT"
         }
       ]
     }
