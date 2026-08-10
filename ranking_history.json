@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-10T04:23:13.630175",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 692,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 786,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 192,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 4,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 876,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 5,
+          "title": "ジ・アート・オブ Cuphead (G-NOVELS)",
+          "rating": 4.9,
+          "review_count": 84,
+          "price": "￥4,400",
+          "url": "https://www.amazon.co.jp/dp/B08YR81Z2Y"
+        },
+        {
+          "rank": 6,
+          "title": "ソードアート・オンライン　マテリアル１　シュガーリィ・デイズ (電撃文庫)",
+          "rating": 4.7,
+          "review_count": 10,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0HBP3DSTN"
+        },
+        {
+          "rank": 7,
+          "title": "愚かな王家のことも忘れて幸せになりますが、何がいけませんの？～婚約破棄された隠れ才女の完璧な人生計画～【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.0,
+          "review_count": 171,
+          "price": "￥1,455",
+          "url": "https://www.amazon.co.jp/dp/B0H2Y2MXR2"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 419,
+          "price": "￥854",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "三千円の使いかた (中公文庫)",
+          "rating": 4.1,
+          "review_count": 3909,
+          "price": "￥862",
+          "url": "https://www.amazon.co.jp/dp/B09CGXHFCJ"
+        },
+        {
+          "rank": 10,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 646,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-09T04:11:37.747877",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 68,
           "price": "￥4,950",
           "url": "https://www.amazon.co.jp/dp/B0967Y28B6"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-05T05:38:23.487651",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 686,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 771,
-          "price": "￥715",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 3,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 181,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 4,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 845,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 5,
-          "title": "三千円の使いかた (中公文庫)",
-          "rating": 4.1,
-          "review_count": 3878,
-          "price": "￥862",
-          "url": "https://www.amazon.co.jp/dp/B09CGXHFCJ"
-        },
-        {
-          "rank": 6,
-          "title": "愛が重い騎士公爵は、追放令嬢のすべてを奪い尽くしたい。【番外編】現代パロディ (乙女チック)",
-          "rating": 4.6,
-          "review_count": 6,
-          "price": "￥220",
-          "url": "https://www.amazon.co.jp/dp/B0H6ZJHTZP"
-        },
-        {
-          "rank": 7,
-          "title": "愚かな王家のことも忘れて幸せになりますが、何がいけませんの？～婚約破棄された隠れ才女の完璧な人生計画～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.0,
-          "review_count": 67,
-          "price": "￥1,455",
-          "url": "https://www.amazon.co.jp/dp/B0H2Y2MXR2"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 416,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "宰相を務める父は、愛娘を捨てた王太子を本気で潰すことにしました 宰相父",
-          "rating": 4.1,
-          "review_count": 828,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0H3GQW34Y"
-        },
-        {
-          "rank": 10,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2617,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
         }
       ]
     }
