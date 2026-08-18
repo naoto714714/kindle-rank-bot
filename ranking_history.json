@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-18T03:37:16.612540",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 698,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 813,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 208,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 4,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 917,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 5,
+          "title": "お義姉さんが強烈で縁を切った話　番外編",
+          "rating": 3.7,
+          "review_count": 22,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0HDLWQ97L"
+        },
+        {
+          "rank": 6,
+          "title": "ビジュアル図鑑 ドラゴン",
+          "rating": 4.2,
+          "review_count": 30,
+          "price": "￥1,782",
+          "url": "https://www.amazon.co.jp/dp/B0CRKP7RQM"
+        },
+        {
+          "rank": 7,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 126,
+          "price": "￥1,426",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 8,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2646,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 425,
+          "price": "￥854",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 10,
+          "title": "ロード・エルメロイII世の冒険 12 星冠密議(４) (TYPE-MOON BOOKS)",
+          "rating": 5.0,
+          "review_count": 4,
+          "price": "￥1,320",
+          "url": "https://www.amazon.co.jp/dp/B0HC18L1PJ"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-17T03:42:00.786100",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 651,
           "price": "￥1,584",
           "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-15T03:31:40.215005",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 696,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 803,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 3,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 904,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 4,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 203,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 5,
-          "title": "お義姉さんが強烈で縁を切った話　番外編",
-          "rating": 4.6,
-          "review_count": 11,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0HDLWQ97L"
-        },
-        {
-          "rank": 6,
-          "title": "作ろう！CPU: 基礎から理解するコンピューターのしくみ Compass Booksシリーズ",
-          "rating": 4.2,
-          "review_count": 59,
-          "price": "￥3,751",
-          "url": "https://www.amazon.co.jp/dp/B08GP3PPCX"
-        },
-        {
-          "rank": 7,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 126,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 424,
-          "price": "￥854",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2639,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 10,
-          "title": "バンディット問題の理論とアルゴリズム (機械学習プロフェッショナルシリーズ)",
-          "rating": 3.9,
-          "review_count": 19,
-          "price": "￥3,080",
-          "url": "https://www.amazon.co.jp/dp/B07566CMDC"
         }
       ]
     }
