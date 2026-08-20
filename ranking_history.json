@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-20T03:39:11.001296",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 701,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 823,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 216,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 4,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 929,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 5,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 127,
+          "price": "￥1,426",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 6,
+          "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない (文春新書)",
+          "rating": 4.4,
+          "review_count": 108,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0FCY37F49"
+        },
+        {
+          "rank": 7,
+          "title": "お義姉さんが強烈で縁を切った話　番外編",
+          "rating": 3.6,
+          "review_count": 32,
+          "price": "￥250",
+          "url": "https://www.amazon.co.jp/dp/B0HDLWQ97L"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 429,
+          "price": "￥854",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "フルメタル・パニック！　Family４ (富士見ファンタジア文庫)",
+          "rating": 5.0,
+          "review_count": 1,
+          "price": "￥880",
+          "url": "https://www.amazon.co.jp/dp/B0HD3ZPTD7"
+        },
+        {
+          "rank": 10,
+          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
+          "rating": 4.4,
+          "review_count": 2653,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-19T03:39:11.317339",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 4,
           "price": "￥1,320",
           "url": "https://www.amazon.co.jp/dp/B0HC18L1PJ"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-17T03:42:00.786100",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 698,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 808,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 3,
-          "title": "お義姉さんが強烈で縁を切った話　番外編",
-          "rating": 4.4,
-          "review_count": 16,
-          "price": "￥250",
-          "url": "https://www.amazon.co.jp/dp/B0HDLWQ97L"
-        },
-        {
-          "rank": 4,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 205,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 5,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 910,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 6,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 126,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 7,
-          "title": "億までの人　億からの人　ゴールドマン・サックス勤続１７年の投資家が明かす「兆人」のマインド",
-          "rating": 4.4,
-          "review_count": 2643,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0DNSW2XSP"
-        },
-        {
-          "rank": 8,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 425,
-          "price": "￥854",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 9,
-          "title": "作ろう！CPU: 基礎から理解するコンピューターのしくみ Compass Booksシリーズ",
-          "rating": 4.2,
-          "review_count": 59,
-          "price": "￥3,751",
-          "url": "https://www.amazon.co.jp/dp/B08GP3PPCX"
-        },
-        {
-          "rank": 10,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 652,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
         }
       ]
     }
