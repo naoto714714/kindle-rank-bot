@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-08-28T14:45:56.976580",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 714,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 839,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 129,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 4,
+          "title": "サイゼリヤのまちがいさがし",
+          "rating": 4.5,
+          "review_count": 374,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B07FFNXLQ8"
+        },
+        {
+          "rank": 5,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 244,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 6,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 984,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 7,
+          "title": "勝つための7つの理論 ふ～ど流10年使える格闘ゲームの攻略",
+          "rating": 4.6,
+          "review_count": 12,
+          "price": "￥2,310",
+          "url": "https://www.amazon.co.jp/dp/B0HDKNJSX7"
+        },
+        {
+          "rank": 8,
+          "title": "【電子特典画像１０Ｐ付き】中田花奈３ｒｄ写真集　Ｂｏｕｇａｉｎｖｉｌｌｅａ",
+          "rating": 4.3,
+          "review_count": 16,
+          "price": "￥3,850",
+          "url": "https://www.amazon.co.jp/dp/B0HFVVP8G5"
+        },
+        {
+          "rank": 9,
+          "title": "さよならの言い方なんて知らない。（新潮文庫nex）",
+          "rating": 4.6,
+          "review_count": 160,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B07WBY4PM1"
+        },
+        {
+          "rank": 10,
+          "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない (文春新書)",
+          "rating": 4.5,
+          "review_count": 170,
+          "price": "￥1,000",
+          "url": "https://www.amazon.co.jp/dp/B0FCY37F49"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-27T13:26:27.850045",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 129,
           "price": "￥99",
           "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-24T03:46:57.378267",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "さよならの言い方なんて知らない。（新潮文庫nex）",
-          "rating": 4.5,
-          "review_count": 144,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07WBY4PM1"
-        },
-        {
-          "rank": 2,
-          "title": "さよならの言い方なんて知らない。２（新潮文庫nex）",
-          "rating": 4.5,
-          "review_count": 107,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07XK7BRR1"
-        },
-        {
-          "rank": 3,
-          "title": "さよならの言い方なんて知らない。3（新潮文庫nex）",
-          "rating": 4.8,
-          "review_count": 110,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B082PLF5NG"
-        },
-        {
-          "rank": 4,
-          "title": "さよならの言い方なんて知らない。4（新潮文庫nex）",
-          "rating": 4.6,
-          "review_count": 94,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B08J7YH8YS"
-        },
-        {
-          "rank": 5,
-          "title": "ジ・アート・オブ・オーバーウォッチ (G-NOVELS)",
-          "rating": 4.7,
-          "review_count": 49,
-          "price": "￥3,663",
-          "url": "https://www.amazon.co.jp/dp/B07C9CWX77"
-        },
-        {
-          "rank": 6,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 708,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 7,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 831,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 8,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 228,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 9,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 956,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 10,
-          "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない (文春新書)",
-          "rating": 4.4,
-          "review_count": 125,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0FCY37F49"
         }
       ]
     }
