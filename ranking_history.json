@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-09-02T07:28:59.902278",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 720,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 850,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 3,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 132,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 4,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 257,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 5,
+          "title": "ＮＨＫラジオ ラジオ英会話 2026年 9月号 ［雑誌］ (ＮＨＫテキスト)",
+          "rating": 5.0,
+          "review_count": 4,
+          "price": "￥670",
+          "url": "https://www.amazon.co.jp/dp/B0GQY7V289"
+        },
+        {
+          "rank": 6,
+          "title": "一次元の挿し木 (宝島社文庫)",
+          "rating": 4.2,
+          "review_count": 2517,
+          "price": "￥810",
+          "url": "https://www.amazon.co.jp/dp/B0DRPDQSZT"
+        },
+        {
+          "rank": 7,
+          "title": "サイゼリヤのまちがいさがし",
+          "rating": 4.5,
+          "review_count": 377,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B07FFNXLQ8"
+        },
+        {
+          "rank": 8,
+          "title": "本を読む人はうまくいく",
+          "rating": 4.2,
+          "review_count": 1012,
+          "price": "￥1,485",
+          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
+        },
+        {
+          "rank": 9,
+          "title": "死亡エンドを回避したギャルゲーのヒロインたちが俺の【日記帳】を読んで秘密を知ったらしい【電子ＳＳ特典付き】 (GA文庫)",
+          "rating": 4.6,
+          "review_count": 492,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B0FHV9GBY3"
+        },
+        {
+          "rank": 10,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 664,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-08-29T09:36:45.889026",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 170,
           "price": "￥1,000",
           "url": "https://www.amazon.co.jp/dp/B0FCY37F49"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-27T13:26:27.850045",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "サイゼリヤのまちがいさがし",
-          "rating": 4.5,
-          "review_count": 374,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07FFNXLQ8"
-        },
-        {
-          "rank": 2,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 710,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 3,
-          "title": "【電子特典画像１０Ｐ付き】中田花奈３ｒｄ写真集　Ｂｏｕｇａｉｎｖｉｌｌｅａ",
-          "rating": 4.4,
-          "review_count": 18,
-          "price": "￥3,850",
-          "url": "https://www.amazon.co.jp/dp/B0HFVVP8G5"
-        },
-        {
-          "rank": 4,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 839,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 5,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 239,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 6,
-          "title": "さよならの言い方なんて知らない。（新潮文庫nex）",
-          "rating": 4.6,
-          "review_count": 156,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07WBY4PM1"
-        },
-        {
-          "rank": 7,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 977,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 8,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 129,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 9,
-          "title": "さよならの言い方なんて知らない。２（新潮文庫nex）",
-          "rating": 4.5,
-          "review_count": 111,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07XK7BRR1"
-        },
-        {
-          "rank": 10,
-          "title": "さよならの言い方なんて知らない。3（新潮文庫nex）",
-          "rating": 4.8,
-          "review_count": 115,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B082PLF5NG"
         }
       ]
     }
