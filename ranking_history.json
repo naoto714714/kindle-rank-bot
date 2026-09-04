@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-09-04T07:34:51.046551",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 721,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 133,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 3,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 852,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 4,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 264,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 5,
+          "title": "サイゼリヤのまちがいさがし",
+          "rating": 4.5,
+          "review_count": 379,
+          "price": "￥593",
+          "url": "https://www.amazon.co.jp/dp/B07FFNXLQ8"
+        },
+        {
+          "rank": 6,
+          "title": "教養として学んでおきたい５大宗教 (マイナビ新書)",
+          "rating": 4.2,
+          "review_count": 413,
+          "price": "￥842",
+          "url": "https://www.amazon.co.jp/dp/B0855FSMWZ"
+        },
+        {
+          "rank": 7,
+          "title": "死亡エンドを回避したギャルゲーのヒロインたちが俺の【日記帳】を読んで秘密を知ったらしい【電子ＳＳ特典付き】 (GA文庫)",
+          "rating": 4.6,
+          "review_count": 503,
+          "price": "￥99",
+          "url": "https://www.amazon.co.jp/dp/B0FHV9GBY3"
+        },
+        {
+          "rank": 8,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 443,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 9,
+          "title": "歴群［図解］マスター城",
+          "rating": 4.5,
+          "review_count": 35,
+          "price": "￥1,226",
+          "url": "https://www.amazon.co.jp/dp/B00MIJQ28K"
+        },
+        {
+          "rank": 10,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 664,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-02T07:28:59.902278",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 20,
           "price": "￥3,850",
           "url": "https://www.amazon.co.jp/dp/B0HFVVP8G5"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-08-28T14:45:56.976580",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 714,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 839,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 3,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 129,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 4,
-          "title": "サイゼリヤのまちがいさがし",
-          "rating": 4.5,
-          "review_count": 374,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07FFNXLQ8"
-        },
-        {
-          "rank": 5,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 244,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 6,
-          "title": "本を読む人はうまくいく",
-          "rating": 4.2,
-          "review_count": 984,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0DVBM5FCK"
-        },
-        {
-          "rank": 7,
-          "title": "勝つための7つの理論 ふ～ど流10年使える格闘ゲームの攻略",
-          "rating": 4.6,
-          "review_count": 12,
-          "price": "￥2,310",
-          "url": "https://www.amazon.co.jp/dp/B0HDKNJSX7"
-        },
-        {
-          "rank": 8,
-          "title": "【電子特典画像１０Ｐ付き】中田花奈３ｒｄ写真集　Ｂｏｕｇａｉｎｖｉｌｌｅａ",
-          "rating": 4.3,
-          "review_count": 16,
-          "price": "￥3,850",
-          "url": "https://www.amazon.co.jp/dp/B0HFVVP8G5"
-        },
-        {
-          "rank": 9,
-          "title": "さよならの言い方なんて知らない。（新潮文庫nex）",
-          "rating": 4.6,
-          "review_count": 160,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B07WBY4PM1"
-        },
-        {
-          "rank": 10,
-          "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない (文春新書)",
-          "rating": 4.5,
-          "review_count": 170,
-          "price": "￥1,000",
-          "url": "https://www.amazon.co.jp/dp/B0FCY37F49"
         }
       ]
     }
