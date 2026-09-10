@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-09-10T07:43:07.278814",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 725,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "キャラクターの描き方マスターガイド　人体デッサンからキャラクターデザインまで",
+          "rating": 4.4,
+          "review_count": 49,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B0F9YG95SF"
+        },
+        {
+          "rank": 3,
+          "title": "続・魔法科高校の劣等生　メイジアン・カンパニー(12) 続・魔法科高校の劣等生 メイジアン・カンパニー (電撃文庫)",
+          "rating": 4.7,
+          "review_count": 8,
+          "price": "￥858",
+          "url": "https://www.amazon.co.jp/dp/B0HGWLW3T9"
+        },
+        {
+          "rank": 4,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.2,
+          "review_count": 135,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 5,
+          "title": "五百木いお io mode すごいいお (ELD)",
+          "rating": 3.5,
+          "review_count": 22,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
+        },
+        {
+          "rank": 6,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 864,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 7,
+          "title": "【電子版限定特典付き】凶乱令嬢ニア・リストン12病弱令嬢に転生した神殺しの武人の華麗なる無双録 (HJ文庫)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0HGXXHVGK"
+        },
+        {
+          "rank": 8,
+          "title": "努力の地図",
+          "rating": 4.4,
+          "review_count": 273,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 9,
+          "title": "ガールズ＆パンツァー コンプリートブック カバー新装版",
+          "rating": 4.7,
+          "review_count": 33,
+          "price": "￥2,673",
+          "url": "https://www.amazon.co.jp/dp/B0CL41DGXG"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 449,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-09T07:43:17.267554",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 1569,
           "price": "￥891",
           "url": "https://www.amazon.co.jp/dp/B0BHHF5K2D"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-09-05T07:15:39.474535",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 721,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 134,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 3,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 854,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 4,
-          "title": "努力の地図",
-          "rating": 4.4,
-          "review_count": 264,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 5,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 664,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 6,
-          "title": "あなたの絵に物語性を与える方法 ILLUSTRATION MASTER CLASS",
-          "rating": 4.6,
-          "review_count": 190,
-          "price": "￥2,178",
-          "url": "https://www.amazon.co.jp/dp/B0BTH38CMP"
-        },
-        {
-          "rank": 7,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 444,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 8,
-          "title": "五百木いお io mode すごいいお (ELD)",
-          "rating": 4.0,
-          "review_count": 11,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
-        },
-        {
-          "rank": 9,
-          "title": "捨てられ才女はどうやら繁栄の切り札だったようです～新生活を謳歌していたら、記憶チートで追放先が大発展していました～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 3.4,
-          "review_count": 38,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0H6HJV45J"
-        },
-        {
-          "rank": 10,
-          "title": "物置小屋令嬢、気づけば最高位の貴族になっていました～家族に厄介払いで嫁がされた先で、楽しく物づくりした結果～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 3.9,
-          "review_count": 59,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0H6HS1ZG1"
         }
       ]
     }
