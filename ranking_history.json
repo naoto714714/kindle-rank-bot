@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-09-28T09:12:07.941713",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 748,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 142,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 3,
+          "title": "五百木いお io mode すごいいお (ELD)",
+          "rating": 3.4,
+          "review_count": 58,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
+        },
+        {
+          "rank": 4,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 903,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 5,
+          "title": "ガガガ文庫　電子特別合本　やはり俺の青春ラブコメはまちがっている。",
+          "rating": 4.2,
+          "review_count": 12,
+          "price": "￥1,500",
+          "url": "https://www.amazon.co.jp/dp/B0HH8YVS2K"
+        },
+        {
+          "rank": 6,
+          "title": "ＮＨＫラジオ ラジオ英会話 2026年 10月号 ［雑誌］ (ＮＨＫテキスト)",
+          "rating": 3.4,
+          "review_count": 8,
+          "price": "￥670",
+          "url": "https://www.amazon.co.jp/dp/B0GQYF1XQL"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 468,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 8,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 677,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 9,
+          "title": "努力の地図",
+          "rating": 4.3,
+          "review_count": 310,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        },
+        {
+          "rank": 10,
+          "title": "魔女と傭兵 8【歴代カバー＆口絵画集】 (GCN文庫)",
+          "rating": 4.9,
+          "review_count": 111,
+          "price": "￥836",
+          "url": "https://www.amazon.co.jp/dp/B0HGC4G6GT"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-27T08:48:43.385585",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 673,
           "price": "￥1,760",
           "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-09-23T08:09:10.476738",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 741,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 138,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 3,
-          "title": "ガガガ文庫　電子特別合本　やはり俺の青春ラブコメはまちがっている。",
-          "rating": 4.4,
-          "review_count": 9,
-          "price": "￥1,500",
-          "url": "https://www.amazon.co.jp/dp/B0HH8YVS2K"
-        },
-        {
-          "rank": 4,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 888,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 5,
-          "title": "努力の地図",
-          "rating": 4.3,
-          "review_count": 300,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 6,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 462,
-          "price": "￥199",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 7,
-          "title": "五百木いお io mode すごいいお (ELD)",
-          "rating": 3.4,
-          "review_count": 39,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
-        },
-        {
-          "rank": 8,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 671,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
-        },
-        {
-          "rank": 9,
-          "title": "自分とか、ないから。　教養としての東洋哲学",
-          "rating": 4.4,
-          "review_count": 2889,
-          "price": "￥1,485",
-          "url": "https://www.amazon.co.jp/dp/B0D2229GBV"
-        },
-        {
-          "rank": 10,
-          "title": "おいしいごはんが食べられますように (講談社文庫)",
-          "rating": 3.9,
-          "review_count": 1602,
-          "price": "￥660",
-          "url": "https://www.amazon.co.jp/dp/B0F3X3DLYR"
         }
       ]
     }
