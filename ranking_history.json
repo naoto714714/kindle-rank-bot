@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-09-29T09:20:39.096882",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 751,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 142,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 3,
+          "title": "ＮＨＫラジオ ラジオ英会話 2026年 10月号 ［雑誌］ (ＮＨＫテキスト)",
+          "rating": 3.6,
+          "review_count": 10,
+          "price": "￥670",
+          "url": "https://www.amazon.co.jp/dp/B0GQYF1XQL"
+        },
+        {
+          "rank": 4,
+          "title": "五百木いお io mode すごいいお (ELD)",
+          "rating": 3.4,
+          "review_count": 59,
+          "price": "￥550",
+          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
+        },
+        {
+          "rank": 5,
+          "title": "別冊ＮＨＫ１００分ｄｅ名著　集中講義　三大哲学書　カント『純粋理性批判』ヘーゲル『精神現象学』ハイデガー『存在と時間』",
+          "rating": 4.3,
+          "review_count": 51,
+          "price": "￥200",
+          "url": "https://www.amazon.co.jp/dp/B0GBS7S7FK"
+        },
+        {
+          "rank": 6,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 907,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 7,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 468,
+          "price": "￥941",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 8,
+          "title": "ガガガ文庫　電子特別合本　やはり俺の青春ラブコメはまちがっている。",
+          "rating": 4.2,
+          "review_count": 12,
+          "price": "￥1,500",
+          "url": "https://www.amazon.co.jp/dp/B0HH8YVS2K"
+        },
+        {
+          "rank": 9,
+          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
+          "rating": 4.1,
+          "review_count": 677,
+          "price": "￥1,760",
+          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
+        },
+        {
+          "rank": 10,
+          "title": "努力の地図",
+          "rating": 4.3,
+          "review_count": 312,
+          "price": "￥1,650",
+          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-09-28T09:12:07.941713",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 11,
           "price": "￥1,500",
           "url": "https://www.amazon.co.jp/dp/B0HH8YVS2K"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-09-25T08:24:31.495509",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 743,
-          "price": "￥360",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.2,
-          "review_count": 139,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 3,
-          "title": "魔女と傭兵 8【歴代カバー＆口絵画集】 (GCN文庫)",
-          "rating": 4.8,
-          "review_count": 25,
-          "price": "￥836",
-          "url": "https://www.amazon.co.jp/dp/B0HGC4G6GT"
-        },
-        {
-          "rank": 4,
-          "title": "五百木いお io mode すごいいお (ELD)",
-          "rating": 3.4,
-          "review_count": 49,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
-        },
-        {
-          "rank": 5,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 893,
-          "price": "￥715",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 6,
-          "title": "ガガガ文庫　電子特別合本　やはり俺の青春ラブコメはまちがっている。",
-          "rating": 4.3,
-          "review_count": 8,
-          "price": "￥1,500",
-          "url": "https://www.amazon.co.jp/dp/B0HH8YVS2K"
-        },
-        {
-          "rank": 7,
-          "title": "努力の地図",
-          "rating": 4.3,
-          "review_count": 307,
-          "price": "￥1,650",
-          "url": "https://www.amazon.co.jp/dp/B0F8PNFMVK"
-        },
-        {
-          "rank": 8,
-          "title": "魔導具師ダリヤはうつむかない　～今日から自由な職人ライフ～14 (MFブックス)",
-          "rating": 4.2,
-          "review_count": 7,
-          "price": "￥1,705",
-          "url": "https://www.amazon.co.jp/dp/B0HJ4JCWB1"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 464,
-          "price": "￥941",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "新NISAで始める！年間240万円の配当金が入ってくる究極の株式投資",
-          "rating": 4.1,
-          "review_count": 673,
-          "price": "￥1,760",
-          "url": "https://www.amazon.co.jp/dp/B0D32L2Z1J"
         }
       ]
     }
