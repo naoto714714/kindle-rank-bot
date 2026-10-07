@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-10-07T09:36:31.224305",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "超知能ＡＩをつくれば人類は絶滅する",
+          "rating": 4.3,
+          "review_count": 189,
+          "price": "￥2,376",
+          "url": "https://www.amazon.co.jp/dp/B0GX36STP5"
+        },
+        {
+          "rank": 2,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 762,
+          "price": "￥360",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 3,
+          "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+          "rating": 4.5,
+          "review_count": 54,
+          "price": "￥1,833",
+          "url": "https://www.amazon.co.jp/dp/B0H8CCGPM4"
+        },
+        {
+          "rank": 4,
+          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.2,
+          "review_count": 180,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
+        },
+        {
+          "rank": 5,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 142,
+          "price": "￥792",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 6,
+          "title": "別冊ＮＨＫ１００分ｄｅ名著　集中講義　三大哲学書　カント『純粋理性批判』ヘーゲル『精神現象学』ハイデガー『存在と時間』",
+          "rating": 4.3,
+          "review_count": 57,
+          "price": "￥200",
+          "url": "https://www.amazon.co.jp/dp/B0GBS7S7FK"
+        },
+        {
+          "rank": 7,
+          "title": "【大増量】菊地姫奈写真集「いつだって最高潮」 (週プレ PHOTO BOOK)",
+          "rating": 4.8,
+          "review_count": 45,
+          "price": "￥1,870",
+          "url": "https://www.amazon.co.jp/dp/B0HLS7GTNK"
+        },
+        {
+          "rank": 8,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 927,
+          "price": "￥715",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 9,
+          "title": "悪女と噂な大公夫人は今日も胃が痛い～政略結婚の先には夫の激重愛が待っていました～ (夢中文庫プランセ)",
+          "rating": 4.3,
+          "review_count": 152,
+          "price": "￥770",
+          "url": "https://www.amazon.co.jp/dp/B0H93R7HDW"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 474,
+          "price": "￥960",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-06T09:39:27.854871",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 25,
           "price": "￥1,870",
           "url": "https://www.amazon.co.jp/dp/B0HLS7GTNK"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-10-04T09:11:08.590794",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "超知能ＡＩをつくれば人類は絶滅する",
-          "rating": 4.3,
-          "review_count": 171,
-          "price": "￥99",
-          "url": "https://www.amazon.co.jp/dp/B0GX36STP5"
-        },
-        {
-          "rank": 2,
-          "title": "桐原美月　ｓｗｅｅｔ　ｇｉｒｌ　ＦＲＩＤＡＹデジタル写真集",
-          "rating": 4.8,
-          "review_count": 83,
-          "price": "￥1,980",
-          "url": "https://www.amazon.co.jp/dp/B0HLDS675M"
-        },
-        {
-          "rank": 3,
-          "title": "別冊ＮＨＫ１００分ｄｅ名著　集中講義　三大哲学書　カント『純粋理性批判』ヘーゲル『精神現象学』ハイデガー『存在と時間』",
-          "rating": 4.3,
-          "review_count": 55,
-          "price": "￥200",
-          "url": "https://www.amazon.co.jp/dp/B0GBS7S7FK"
-        },
-        {
-          "rank": 4,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 754,
-          "price": "￥360",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 5,
-          "title": "別冊NHK100分de名著　集中講義　旧約聖書　「一神教」の根源を見る",
-          "rating": 4.0,
-          "review_count": 283,
-          "price": "￥200",
-          "url": "https://www.amazon.co.jp/dp/B01B0HOJ3K"
-        },
-        {
-          "rank": 6,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 142,
-          "price": "￥792",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 7,
-          "title": "五百木いお io mode すごいいお (ELD)",
-          "rating": 3.4,
-          "review_count": 72,
-          "price": "￥550",
-          "url": "https://www.amazon.co.jp/dp/B0HG8Y77RS"
-        },
-        {
-          "rank": 8,
-          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.2,
-          "review_count": 109,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
-        },
-        {
-          "rank": 9,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 921,
-          "price": "￥715",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 10,
-          "title": "別冊NHK100分de名著　集中講義　大乗仏教　こうしてブッダの教えは変容した",
-          "rating": 4.4,
-          "review_count": 631,
-          "price": "￥200",
-          "url": "https://www.amazon.co.jp/dp/B06XJWZMMW"
         }
       ]
     }
