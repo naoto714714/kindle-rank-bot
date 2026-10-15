@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-10-15T07:53:02.148478",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.9,
+          "review_count": 769,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "転生した大聖女は、聖女であることをひた隠す　短編集１ (アース・スターノベル)",
+          "rating": null,
+          "review_count": null,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0HH19W3S3"
+        },
+        {
+          "rank": 3,
+          "title": "BRUTUS特別編集　合本・人生変えちゃう、１泊旅。",
+          "rating": 3.8,
+          "review_count": 51,
+          "price": "￥1,441",
+          "url": "https://www.amazon.co.jp/dp/B0GNYZPVY3"
+        },
+        {
+          "rank": 4,
+          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.3,
+          "review_count": 393,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
+        },
+        {
+          "rank": 5,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 143,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 6,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 936,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 7,
+          "title": "宇宙一ワクワクするお金の授業",
+          "rating": 4.1,
+          "review_count": 2140,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B081YBD1KZ"
+        },
+        {
+          "rank": 8,
+          "title": "【電子特装版】ピュアリーマン　上巻",
+          "rating": 4.6,
+          "review_count": 96,
+          "price": "￥590",
+          "url": "https://www.amazon.co.jp/dp/B0HL7HDX55"
+        },
+        {
+          "rank": 9,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 480,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        },
+        {
+          "rank": 10,
+          "title": "汝、星のごとく【電子限定特典付き】 (講談社文庫)",
+          "rating": 4.6,
+          "review_count": 6823,
+          "price": "￥990",
+          "url": "https://www.amazon.co.jp/dp/B0FGX4CVGB"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-13T09:55:23.337959",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 478,
           "price": "￥495",
           "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-10-11T09:32:37.602572",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 764,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.2,
-          "review_count": 307,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
-        },
-        {
-          "rank": 3,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 142,
-          "price": "￥1,426",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 4,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 932,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 5,
-          "title": "悪女と噂な大公夫人は今日も胃が痛い～政略結婚の先には夫の激重愛が待っていました～ (夢中文庫プランセ)",
-          "rating": 4.3,
-          "review_count": 241,
-          "price": "￥693",
-          "url": "https://www.amazon.co.jp/dp/B0H93R7HDW"
-        },
-        {
-          "rank": 6,
-          "title": "初歩から学ぶ量子力学　波動力学から行列力学、そして物質科学の入り口まで (ＫＳ物理専門書)",
-          "rating": 4.4,
-          "review_count": 24,
-          "price": "￥3,960",
-          "url": "https://www.amazon.co.jp/dp/B0CW1HF5SC"
-        },
-        {
-          "rank": 7,
-          "title": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 18 (カドカワBOOKS)",
-          "rating": 4.8,
-          "review_count": 51,
-          "price": "￥1,705",
-          "url": "https://www.amazon.co.jp/dp/B0HKV4G3L8"
-        },
-        {
-          "rank": 8,
-          "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
-          "rating": 4.6,
-          "review_count": 71,
-          "price": "￥1,833",
-          "url": "https://www.amazon.co.jp/dp/B0H8CCGPM4"
-        },
-        {
-          "rank": 9,
-          "title": "BRUTUS特別編集　合本・人生変えちゃう、１泊旅。",
-          "rating": 3.8,
-          "review_count": 50,
-          "price": "￥1,441",
-          "url": "https://www.amazon.co.jp/dp/B0GNYZPVY3"
-        },
-        {
-          "rank": 10,
-          "title": "【電子特装版】ピュアリーマン　上巻",
-          "rating": 4.6,
-          "review_count": 67,
-          "price": "￥590",
-          "url": "https://www.amazon.co.jp/dp/B0HL7HDX55"
         }
       ]
     }
