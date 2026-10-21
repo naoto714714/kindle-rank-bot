@@ -1,6 +1,91 @@
 {
   "history": [
     {
+      "timestamp": "2026-10-21T08:09:26.975635",
+      "rankings": [
+        {
+          "rank": 1,
+          "title": "こうやって、考える。 (PHP文庫)",
+          "rating": 3.8,
+          "review_count": 779,
+          "price": "￥649",
+          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
+        },
+        {
+          "rank": 2,
+          "title": "BRUTUS特別編集　合本・人生変えちゃう、１泊旅。",
+          "rating": 3.7,
+          "review_count": 55,
+          "price": "￥1,441",
+          "url": "https://www.amazon.co.jp/dp/B0GNYZPVY3"
+        },
+        {
+          "rank": 3,
+          "title": "別冊ＮＨＫ１００分ｄｅ名著　集中講義　三大哲学書　カント『純粋理性批判』ヘーゲル『精神現象学』ハイデガー『存在と時間』",
+          "rating": 4.4,
+          "review_count": 75,
+          "price": "￥200",
+          "url": "https://www.amazon.co.jp/dp/B0GBS7S7FK"
+        },
+        {
+          "rank": 4,
+          "title": "宇宙一ワクワクするお金の授業",
+          "rating": 4.1,
+          "review_count": 2150,
+          "price": "￥1,683",
+          "url": "https://www.amazon.co.jp/dp/B081YBD1KZ"
+        },
+        {
+          "rank": 5,
+          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
+          "rating": 4.3,
+          "review_count": 534,
+          "price": "￥1,509",
+          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
+        },
+        {
+          "rank": 6,
+          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
+          "rating": 4.1,
+          "review_count": 143,
+          "price": "￥1,584",
+          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
+        },
+        {
+          "rank": 7,
+          "title": "その渇きさえ飲みほして【単行本版】（特典付き） (from RED)",
+          "rating": 4.6,
+          "review_count": 198,
+          "price": "￥782",
+          "url": "https://www.amazon.co.jp/dp/B0DW8SHXGD"
+        },
+        {
+          "rank": 8,
+          "title": "45歳（独身）、どんな感じ？",
+          "rating": 4.5,
+          "review_count": 941,
+          "price": "￥1,359",
+          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
+        },
+        {
+          "rank": 9,
+          "title": "【電子特装版】ピュアリーマン　上巻",
+          "rating": 4.6,
+          "review_count": 147,
+          "price": "￥590",
+          "url": "https://www.amazon.co.jp/dp/B0HL7HDX55"
+        },
+        {
+          "rank": 10,
+          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
+          "rating": 4.1,
+          "review_count": 483,
+          "price": "￥495",
+          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
+        }
+      ]
+    },
+    {
       "timestamp": "2026-10-19T08:19:55.452319",
       "rankings": [
         {
@@ -167,91 +252,6 @@
           "review_count": 34,
           "price": "￥200",
           "url": "https://www.amazon.co.jp/dp/B0G33XW6K6"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-10-15T07:53:02.148478",
-      "rankings": [
-        {
-          "rank": 1,
-          "title": "こうやって、考える。 (PHP文庫)",
-          "rating": 3.9,
-          "review_count": 769,
-          "price": "￥649",
-          "url": "https://www.amazon.co.jp/dp/B09QKLDMMH"
-        },
-        {
-          "rank": 2,
-          "title": "転生した大聖女は、聖女であることをひた隠す　短編集１ (アース・スターノベル)",
-          "rating": null,
-          "review_count": null,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0HH19W3S3"
-        },
-        {
-          "rank": 3,
-          "title": "BRUTUS特別編集　合本・人生変えちゃう、１泊旅。",
-          "rating": 3.8,
-          "review_count": 51,
-          "price": "￥1,441",
-          "url": "https://www.amazon.co.jp/dp/B0GNYZPVY3"
-        },
-        {
-          "rank": 4,
-          "title": "スーパー派遣令嬢は王宮を見限ったようです～私を不当解雇した元上司へ。我が家の正体、ご存知ですか？～【電子限定SS付き】 (ベリーズファンタジー)",
-          "rating": 4.3,
-          "review_count": 393,
-          "price": "￥1,509",
-          "url": "https://www.amazon.co.jp/dp/B0H9X4WDMY"
-        },
-        {
-          "rank": 5,
-          "title": "「なぜ？」がわかる世界史 前近代（古代～宗教改革）",
-          "rating": 4.1,
-          "review_count": 143,
-          "price": "￥1,584",
-          "url": "https://www.amazon.co.jp/dp/B00LLVZXCM"
-        },
-        {
-          "rank": 6,
-          "title": "45歳（独身）、どんな感じ？",
-          "rating": 4.5,
-          "review_count": 936,
-          "price": "￥1,359",
-          "url": "https://www.amazon.co.jp/dp/B0DFPVX3RV"
-        },
-        {
-          "rank": 7,
-          "title": "宇宙一ワクワクするお金の授業",
-          "rating": 4.1,
-          "review_count": 2140,
-          "price": "￥1,683",
-          "url": "https://www.amazon.co.jp/dp/B081YBD1KZ"
-        },
-        {
-          "rank": 8,
-          "title": "【電子特装版】ピュアリーマン　上巻",
-          "rating": 4.6,
-          "review_count": 96,
-          "price": "￥590",
-          "url": "https://www.amazon.co.jp/dp/B0HL7HDX55"
-        },
-        {
-          "rank": 9,
-          "title": "１週間で勝手に自律神経が整っていく体になるすごい方法",
-          "rating": 4.1,
-          "review_count": 480,
-          "price": "￥495",
-          "url": "https://www.amazon.co.jp/dp/B0DSD3TZFW"
-        },
-        {
-          "rank": 10,
-          "title": "汝、星のごとく【電子限定特典付き】 (講談社文庫)",
-          "rating": 4.6,
-          "review_count": 6823,
-          "price": "￥990",
-          "url": "https://www.amazon.co.jp/dp/B0FGX4CVGB"
         }
       ]
     }
